@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/carrot_on_a_stick/32x_carrot_on_a_carrot"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/carrot_on_a_stick/32x_red_carrot"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/carrot_on_a_stick/32x_summoners_tact"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/carrot_on_a_stick/32x_white_mage_closure"},
+        { "predicate": {"custom_model_data": 5}, "model": "item/carrot_on_a_stick/32x_black_mage_mace"}
+    ]
+}

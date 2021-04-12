@@ -4,6 +4,6 @@
         "layer0": "item/snowball"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "item/snowball/64x_a_shuriken"}
+        { "predicate": {"custom_model_data": 1}, "model": "item/snowball/a_shuriken"}
     ]
 }

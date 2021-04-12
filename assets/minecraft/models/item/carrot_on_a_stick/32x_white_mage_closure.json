@@ -1,6 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/carrot_on_a_stick/32x_white_mage_closure"
-    }
-}

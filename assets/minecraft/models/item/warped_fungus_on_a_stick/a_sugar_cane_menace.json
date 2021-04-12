@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/warped_fungus_on_a_stick/a_sugar_cane_menace"
+    }
+}

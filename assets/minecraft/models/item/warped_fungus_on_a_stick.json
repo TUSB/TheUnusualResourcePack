@@ -5,6 +5,7 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "item/warped_fungus_on_a_stick/a_sugar_cane_menace"},
-        { "predicate": {"custom_model_data": 2}, "model": "item/warped_fungus_on_a_stick/frozen_gun"}
+        { "predicate": {"custom_model_data": 2}, "model": "item/warped_fungus_on_a_stick/frozen_gun"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/warped_fungus_on_a_stick/angel_stick"}
     ]
 }

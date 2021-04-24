@@ -1,0 +1,35 @@
+name: update item model file
+
+on:
+  push:
+    branches:
+      - dev
+    paths:
+      - 'assets/minecraft/textures/item/*.png'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup python and Run
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.6.9'
+          architecture: x64
+      - name: Install dependencies
+        run: pip install pandas gspread oauth2client
+      - name: Run Python
+        run: python update_model.py $SECRET_JSON $SPREADSHEET_KEY
+        env:
+          SECRET_JSON: ${{ secrets.SECRET_JSON}}
+          SPREADSHEET_KEY: ${{ secrets.SPREADSHEET_KEY}}
+      - name: Run a multi-line script
+        run: |
+          git config user.name GitHub Actions
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add .
+          git commit -m "update model file"
+          git pull
+          git push origin master

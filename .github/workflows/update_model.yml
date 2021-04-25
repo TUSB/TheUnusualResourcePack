@@ -21,9 +21,14 @@ jobs:
       - name: Install dependencies
         run: pip install pandas gspread oauth2client
       - name: Run Python
-        run: python update_model.py $SECRET_JSON $SPREADSHEET_KEY
+        run: python update_model.py $PROJECT_ID $PRIVATE_KEY_ID $PRIVATE_KEY $CLIENT_EMAIL $CLIENT_ID $CLIENT_X509_CERT_URL $SPREADSHEET_KEY
         env:
-          SECRET_JSON: ${{ secrets.SECRET_JSON}}
+          PROJECT_ID: ${{ secrets.PROJECT_ID}}
+          PRIVATE_KEY_ID: ${{ secrets.PRIVATE_KEY_ID}}
+          PRIVATE_KEY: ${{ secrets.PRIVATE_KEY}}
+          CLIENT_EMAIL: ${{ secrets.CLIENT_EMAIL}}
+          CLIENT_ID: ${{ secrets.CLIENT_ID}}
+          CLIENT_X509_CERT_URL: ${{ secrets.CLIENT_X509_CERT_URL}}
           SPREADSHEET_KEY: ${{ secrets.SPREADSHEET_KEY}}
       - name: Run a multi-line script
         run: |

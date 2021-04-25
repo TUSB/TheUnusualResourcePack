@@ -1,6 +1,0 @@
-{
-    "parent": "item/bow",
-    "textures": {
-        "layer0": "item/bow/ray_on_the_move_pulling2"
-    }
-}

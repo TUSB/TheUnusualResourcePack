@@ -47,9 +47,6 @@ jobs:
           echo "::set-output name=ID::$firewall_id"
           echo "-----DEBUG-----"
           echo "$ADD_FIREWALL"
-      - name: delete host keys
-        run: |
-          ssh-keygen -R ${{ secrets.TUSB_MINECRAFT_SERVER_REMOTE_HOST }}
       - name: Sleep for 30 seconds
         uses: jakejarvis/wait-action@master
         with:
@@ -57,7 +54,7 @@ jobs:
       - name: Deploy by rsync
         uses: trendyminds/github-actions-rsync@master
         with:
-          RSYNC_OPTIONS: -avzr --ignore-times --delete-before --stats --compress --archive --delete-excluded --exclude '.*.yml' \
+          RSYNC_OPTIONS: -avzr -e "ssh -o 'StrictHostKeyChecking no'" --ignore-times --delete-before --stats --compress --archive --delete-excluded --exclude '.*.yml' \
           RSYNC_SOURCE: /
           RSYNC_TARGET: /home/${{ secrets.TUSB_MINECRAFT_SERVER_REMOTE_USER }}/deploy/${{ github.event.repository.name }}
         env:

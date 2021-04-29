@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'assets/minecraft/textures/item/*.png'
+      - 'assets/minecraft/textures/item/**.png'
   workflow_dispatch:
 
 jobs:

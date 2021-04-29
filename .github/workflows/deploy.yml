@@ -53,11 +53,11 @@ jobs:
       - name: Sleep for 30 seconds
         uses: jakejarvis/wait-action@master
         with:
-          time: '30s'
+          time: '10s'
       - name: Deploy by rsync
         uses: trendyminds/github-actions-rsync@master
         with:
-          RSYNC_OPTIONS: -avzr --delete
+          RSYNC_OPTIONS: -a --ignore-times --delete-before --stats --compress --archive --delete-excluded --exclude '.*.yml' \
           RSYNC_SOURCE: /
           RSYNC_TARGET: /home/git/deploy/${{ github.event.repository.name }}
         env:

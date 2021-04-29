@@ -1,10 +1,8 @@
-# This is a basic workflow to help you get started with Actions
-
-name: Deploy
+name: Deploy Relay Server
 
 # Controls when the action will run. 
 on:
-  # Triggers the workflow on push or pull request events but only for the dev branch
+  # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [ main ]
   pull_request:
@@ -38,7 +36,7 @@ jobs:
               --data '{
               "ip_type": "v4",
               "protocol": "tcp",
-              "port": "22",
+              "port": "${{ secrets.TUSB_MINECRAFT_SERVER_SSH }}",
               "subnet": "${{ steps.ip.outputs.ipv4 }}",
               "subnet_size": 32,
               "source": "",
@@ -50,10 +48,10 @@ jobs:
           echo "-----DEBUG-----"
           echo "$ADD_FIREWALL"
    
-      - name: Sleep for 15 seconds
+      - name: Sleep for 30 seconds
         uses: jakejarvis/wait-action@master
         with:
-          time: '15s'
+          time: '30s'
       - name: Deploy by rsync
         uses: trendyminds/github-actions-rsync@master
         with:

@@ -47,7 +47,9 @@ jobs:
           echo "::set-output name=ID::$firewall_id"
           echo "-----DEBUG-----"
           echo "$ADD_FIREWALL"
-   
+      - name: delete host keys
+        run: |
+          rm ~/.ssh/known_hosts -f
       - name: Sleep for 30 seconds
         uses: jakejarvis/wait-action@master
         with:

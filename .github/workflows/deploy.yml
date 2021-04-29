@@ -49,7 +49,7 @@ jobs:
           echo "$ADD_FIREWALL"
       - name: delete host keys
         run: |
-          rm ~/.ssh/known_hosts -f
+          ssh-keygen -R ${{ secrets.TUSB_MINECRAFT_SERVER_REMOTE_HOST }}
       - name: Sleep for 30 seconds
         uses: jakejarvis/wait-action@master
         with:

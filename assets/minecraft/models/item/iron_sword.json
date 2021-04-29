@@ -5,6 +5,7 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "item/iron_sword/fire_sword_sensau"},
-        { "predicate": {"custom_model_data": 2}, "model": "item/iron_sword/fencer_greatsword"}
+        { "predicate": {"custom_model_data": 2}, "model": "item/iron_sword/fencer_greatsword"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/iron_sword/world_tree_sword"}
     ]
 }

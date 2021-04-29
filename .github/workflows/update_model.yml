@@ -3,7 +3,7 @@ name: update item model file
 on:
   push:
     branches:
-      - dev
+      - main
     paths:
       - 'assets/minecraft/textures/item/*.png'
   workflow_dispatch:
@@ -21,7 +21,6 @@ jobs:
       - name: Install dependencies
         run: pip install pandas gspread oauth2client
       - name: Run Python
-        run: python update_model.py $PROJECT_ID $PRIVATE_KEY_ID $PRIVATE_KEY $CLIENT_EMAIL $CLIENT_ID $CLIENT_X509_CERT_URL $SPREADSHEET_KEY
         env:
           PROJECT_ID: ${{ secrets.PROJECT_ID}}
           PRIVATE_KEY_ID: ${{ secrets.PRIVATE_KEY_ID}}
@@ -29,12 +28,13 @@ jobs:
           CLIENT_EMAIL: ${{ secrets.CLIENT_EMAIL}}
           CLIENT_ID: ${{ secrets.CLIENT_ID}}
           CLIENT_X509_CERT_URL: ${{ secrets.CLIENT_X509_CERT_URL}}
-          SPREADSHEET_KEY: ${{ secrets.SPREADSHEET_KEY}}
-      - name: Run a multi-line script
+          SPREADSHEET_KEY: ${{ secrets.SPREADSHEET_KEY}}      
+        run: python update_model.py $PROJECT_ID $PRIVATE_KEY_ID $PRIVATE_KEY $CLIENT_EMAIL $CLIENT_ID $CLIENT_X509_CERT_URL $SPREADSHEET_KEY
+      - name: Commit Files
         run: |
           git config user.name GitHub Actions
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add .
           git commit -m "update model file"
           git pull
-          git push origin master
+          git push origin main

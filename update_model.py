@@ -33,10 +33,10 @@ def read_sheet(sheet_name, SECRET_JSON, SPREADSHEET_KEY):
     wb = gc.open_by_key(SPREADSHEET_KEY)
     ws = wb.worksheet(sheet_name)
 
-    # DataFrameに保存
+    # DataFrameに保存 1行目columns 2行目まで削除
     df = pd.DataFrame(ws.get_all_values())
     df.columns = list(df.loc[0, :])
-    df.drop(0, inplace=True)
+    df.drop([0,1], inplace=True)
     df.reset_index(inplace=True)
     df.drop('index', axis=1, inplace=True)
     for i in range(len(df.columns)):
@@ -74,7 +74,7 @@ if __name__ == '__main__':
   # シートを取得
   df = read_sheet('アイテム', SECRET_JSON, SPREADSHEET_KEY)
   df = df.drop(0)
-  df = df[df['CMD']!='']
+  df = df[df['CMD']>=1]
   df = df.sort_values(['ID','CMD'])
 
   # CustomModel出力
@@ -89,30 +89,28 @@ if __name__ == '__main__':
     for j in model_list:
       export_dir = 'assets/minecraft/models/item/' + df.loc[i,'ID']
       export_json = json.dumps(json.loads(df.loc[i,'model' + j]), indent=4)
+      export_json = re.sub('"(rotation|translation|scale)": \[\n +(.*),\n +(.*),\n +(.*)\n +\]', '"\\1": [ \\2, \\3, \\4]', export_json)
       new_filename = df.loc[i,'US名 / ModelName'] + j + '.json'
       save_model(export_dir, new_filename, export_json)
   
+  ### アイテム計算用
+  # シートを取得
+  df = read_sheet('アイテム計算用', SECRET_JSON, SPREADSHEET_KEY)
+  df = df[df['model_item']!='']
+
   # CMD=1ならItemModel出力
-    if df.loc[i,'CMD'] == '1':
-      export_dir = 'assets/minecraft/models/item'
-      export_json = json.dumps(json.loads(df.loc[i,'model_item']), indent=4)
-      if df.loc[i,'ID'] not in ['bow','crossbow']:
-        export_json = re.sub('\{\n +"predicate": \{\n +"custom_model_data": ([0-9]+)\n +\},\n +"model": "(.*)"\n +\}', '{ "predicate": {"custom_model_data": \\1}, "model": "\\2"}', export_json)
-      export_json = re.sub('"([a-z]+)": \[\n +(.*),\n +(.*),\n +(.*)\n +\]', '"\\1": [ \\2, \\3, \\4]', export_json)
-      new_filename = str(df.loc[i,'ID']) + '.json'
-      save_model(export_dir, new_filename, export_json)
+  for i in df.index:
+    export_dir = 'assets/minecraft/models/item'
+    export_json = json.dumps(json.loads(df.loc[i,'model_item']), indent=4)
+    if df.loc[i,'ID'] not in ['bow','crossbow']:
+      export_json = re.sub('\{\n +"predicate": \{\n +"custom_model_data": ([0-9]+)\n +\},\n +"model": "(.*)"\n +\}', '{ "predicate": {"custom_model_data": \\1}, "model": "\\2"}', export_json)
+    export_json = re.sub('"(rotation|translation|scale)": \[\n +(.*),\n +(.*),\n +(.*)\n +\]', '"\\1": [ \\2, \\3, \\4]', export_json)
+    new_filename = str(df.loc[i,'ID']) + '.json'
+    save_model(export_dir, new_filename, export_json)
 
   ### エンチャント
   # シートを取得
   df = read_sheet('エンチャント', SECRET_JSON, SPREADSHEET_KEY)
-  df = df.drop(0)
-
-  # ItemModel出力
-  export_dir = 'assets/minecraft/models/item/'
-  export_json = json.dumps(json.loads(df.loc[1,'model_item']), indent=4)
-  export_json = re.sub('\{\n +"predicate": \{\n +"custom_model_data": ([0-9]+)\n +\},\n +"model": "(.*)"\n +\}', '{ "predicate": {"custom_model_data": \\1}, "model": "\\2"}', export_json)
-  new_filename = 'gold_nugget.json'
-  save_model(export_dir, new_filename, export_json)
   df = df[df['テクスチャ']=='TRUE']
   
   # CustomModel出力

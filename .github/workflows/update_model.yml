@@ -3,7 +3,7 @@ name: update item model file
 on:
   push:
     branches:
-      - dev2
+      - main
     paths:
       - 'assets/minecraft/textures/item/*.png'
   workflow_dispatch:
@@ -37,4 +37,4 @@ jobs:
           git add .
           git commit -m "update model file"
           git pull
-          git push origin dev2
+          git push origin main

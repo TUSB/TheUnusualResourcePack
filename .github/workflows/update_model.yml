@@ -39,3 +39,7 @@ jobs:
           git commit -m "update model file"
           git pull
           git push origin main
+      - uses: sarisia/actions-status-discord@v1
+        if: always()
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}

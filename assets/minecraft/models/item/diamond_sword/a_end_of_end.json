@@ -1,5 +1,31 @@
 {
     "parent": "item/handheld",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 25, 90, 0],
+            "translation": [ 0, 8.5, -2.5],
+            "scale": [ 1.5, 1.5, 1.5]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 25, -85, 0],
+            "translation": [ 0, 8.5, -2.5],
+            "scale": [ 1.5, 1.5, 1.5]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -15, -75, 25],
+            "translation": [ 3.5, 2, -1.5],
+            "scale": [ 1.5, 1.5, 1.5]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 14.5, -75, -25],
+            "translation": [ 3.5, 2, -1.5],
+            "scale": [ 1.5, 1.5, 1.5]
+        },
+        "ground": {
+            "translation": [ 0, 4.5, 0],
+            "scale": [ 1.5, 1.5, 1.5]
+        }
+    },
     "textures": {
         "layer0": "item/diamond_sword/a_end_of_end"
     }

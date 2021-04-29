@@ -3,5 +3,10 @@
     "textures": {
         "layer0": "item/diamond_sword"
     },
-    "overrides": [ { "predicate": {"custom_model_data": 1}, "model": "item/diamond_sword/a_end_of_end"}, { "predicate": {"custom_model_data": 2}, "model": "item/diamond_sword/unsigned_light_sword"}, { "predicate": {"custom_model_data": 3}, "model": "item/diamond_sword/unsigned_black_sword"}]
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/diamond_sword/a_end_of_end"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/diamond_sword/unsigned_light_sword"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/diamond_sword/unsigned_black_sword"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/diamond_sword/kusanagi_reiken"}
+    ]
 }

@@ -1,6 +1,6 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "item/bow/ray_on_the_move"
+        "layer0": "item/bow/a_ray_on_the_move"
     }
 }

@@ -1,5 +1,35 @@
 {
     "parent": "item/handheld",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -50, 0],
+            "translation": [ 3.75, 10, 6.25],
+            "scale": [ 2, 2, 2]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 130, 0],
+            "translation": [ 5.5, 10, 4.75],
+            "scale": [ 2, 2, 2]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -20, -79, 52],
+            "translation": [ 3.25, 9, -9],
+            "scale": [ 2, 2, 2]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 54, 95, -128],
+            "translation": [ 4.5, 9, -9],
+            "scale": [ 2, 2, 2]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 45],
+            "translation": [ 0, 16, 0],
+            "scale": [ 2, 2, 2]
+        },
+        "fixed": {
+            "scale": [ 1.15, 1.15, 1.15]
+        }
+    },
     "textures": {
         "layer0": "item/iron_sword/a_death_flag"
     }

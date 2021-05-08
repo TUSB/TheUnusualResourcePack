@@ -30,6 +30,11 @@ jobs:
           CLIENT_X509_CERT_URL: ${{ secrets.CLIENT_X509_CERT_URL}}
           SPREADSHEET_KEY: ${{ secrets.SPREADSHEET_KEY}}      
         run: python update_model.py $PROJECT_ID $PRIVATE_KEY_ID $PRIVATE_KEY $CLIENT_EMAIL $CLIENT_ID $CLIENT_X509_CERT_URL $SPREADSHEET_KEY
+      - name: Zip Release
+        uses: TheDoctor0/zip-release@0.4.1
+        with:
+            artifacts: "release.zip"
+            token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit Files
         run: |
           git config user.name GitHub Actions

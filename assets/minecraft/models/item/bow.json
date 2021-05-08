@@ -74,6 +74,35 @@
                 "pull": 0.9
             },
             "model": "item/bow/a_ray_on_the_move_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/bow/hunter_bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2,
+                "pulling": 1
+            },
+            "model": "item/bow/hunter_bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/bow/hunter_bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/bow/hunter_bow_pulling_2"
         }
     ]
 }

@@ -103,6 +103,35 @@
                 "pull": 0.9
             },
             "model": "item/bow/hunter_bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/bow/water_break"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "pulling": 1
+            },
+            "model": "item/bow/water_break_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/bow/water_break_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/bow/water_break_pulling_2"
         }
     ]
 }

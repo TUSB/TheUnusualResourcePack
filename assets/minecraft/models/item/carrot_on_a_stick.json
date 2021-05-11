@@ -12,6 +12,7 @@
         { "predicate": {"custom_model_data": 6}, "model": "item/carrot_on_a_stick/black_mage_mace"},
         { "predicate": {"custom_model_data": 7}, "model": "item/carrot_on_a_stick/angel_stick"},
         { "predicate": {"custom_model_data": 8}, "model": "item/carrot_on_a_stick/frozen_gun"},
-        { "predicate": {"custom_model_data": 9}, "model": "item/carrot_on_a_stick/tinkerer_wrench"}
+        { "predicate": {"custom_model_data": 9}, "model": "item/carrot_on_a_stick/tinkerer_wrench"},
+        { "predicate": {"custom_model_data": 10}, "model": "item/carrot_on_a_stick/buster_axe"}
     ]
 }

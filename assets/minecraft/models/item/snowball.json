@@ -5,6 +5,7 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "item/snowball/a_shuriken"},
-        { "predicate": {"custom_model_data": 2}, "model": "item/snowball/a_sugar_cane_menace"}
+        { "predicate": {"custom_model_data": 2}, "model": "item/snowball/a_sugar_cane_menace"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/snowball/a_chin_egg"}
     ]
 }

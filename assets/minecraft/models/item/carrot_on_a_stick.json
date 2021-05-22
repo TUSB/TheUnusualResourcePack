@@ -13,6 +13,10 @@
         { "predicate": {"custom_model_data": 7}, "model": "item/carrot_on_a_stick/angel_stick"},
         { "predicate": {"custom_model_data": 8}, "model": "item/carrot_on_a_stick/frozen_gun"},
         { "predicate": {"custom_model_data": 9}, "model": "item/carrot_on_a_stick/tinkerer_wrench"},
-        { "predicate": {"custom_model_data": 10}, "model": "item/carrot_on_a_stick/buster_axe"}
+        { "predicate": {"custom_model_data": 10}, "model": "item/carrot_on_a_stick/buster_axe"},
+        { "predicate": {"custom_model_data": 11}, "model": "item/carrot_on_a_stick/purely_stick_dx"},
+        { "predicate": {"custom_model_data": 12}, "model": "item/carrot_on_a_stick/dead_lion"},
+        { "predicate": {"custom_model_data": 13}, "model": "item/carrot_on_a_stick/doni"},
+        { "predicate": {"custom_model_data": 14}, "model": "item/carrot_on_a_stick/euphoric_face_pie"}
     ]
 }

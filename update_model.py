@@ -83,6 +83,8 @@ if __name__ == '__main__':
       model_list = ['','_pulling_0','_pulling_1','_pulling_2']
     elif df.loc[i,'ID'] == 'crossbow':
       model_list = ['','_arrow','_firework','_pulling_0','_pulling_1','_pulling_2']
+    elif df.loc[i,'ID'] == 'fishing_rod':
+      model_list = ['','_cast']
     else:
       model_list = ['']
 
@@ -102,7 +104,7 @@ if __name__ == '__main__':
   for i in df.index:
     export_dir = 'assets/minecraft/models/item'
     export_json = json.dumps(json.loads(df.loc[i,'model_item']), indent=4)
-    if df.loc[i,'ID'] not in ['bow','crossbow']:
+    if df.loc[i,'ID'] not in ['bow','crossbow','fishing_rod']:
       export_json = re.sub('\{\n +"predicate": \{\n +"custom_model_data": ([0-9]+)\n +\},\n +"model": "(.*)"\n +\}', '{ "predicate": {"custom_model_data": \\1}, "model": "\\2"}', export_json)
     export_json = re.sub('"(rotation|translation|scale)": \[\n +(.*),\n +(.*),\n +(.*)\n +\]', '"\\1": [ \\2, \\3, \\4]', export_json)
     new_filename = str(df.loc[i,'ID']) + '.json'
@@ -111,12 +113,12 @@ if __name__ == '__main__':
   ### エンチャント
   # シートを取得
   df = read_sheet('エンチャント', SECRET_JSON, SPREADSHEET_KEY)
-  df = df[df['テクスチャ']=='TRUE']
-  
+
   # CustomModel出力
   for i in df.index:
     for j in ['shards','gemstone','crystal','jewel']:
-      export_dir = 'assets/minecraft/models/item/gold_nugget/' + df.loc[i,'石名US']
-      export_json = json.dumps(json.loads(df.loc[i,'model_' + j]), indent=4)
-      new_filename = j + '.json'
-      save_model(export_dir, new_filename, export_json)
+      if df.loc[i,'テクスチャ_' + j] == 'TRUE':
+        export_dir = 'assets/minecraft/models/item/gold_nugget/' + df.loc[i,'石名US']
+        export_json = json.dumps(json.loads(df.loc[i,'model_' + j]), indent=4)
+        new_filename = j + '.json'
+        save_model(export_dir, new_filename, export_json)

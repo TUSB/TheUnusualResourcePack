@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/emerald/currency_01"
+        "layer0": "item/fishing_rod/good_fishing_rod"
     }
 }

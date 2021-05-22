@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/emerald/currency_15"
+        "layer0": "item/iron_pickaxe/jewel_mining"
     }
 }

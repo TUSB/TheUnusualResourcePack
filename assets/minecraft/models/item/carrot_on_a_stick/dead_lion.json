@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/emerald/currency_07"
+        "layer0": "item/carrot_on_a_stick/dead_lion"
     }
 }

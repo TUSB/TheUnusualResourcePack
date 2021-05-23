@@ -17,6 +17,8 @@
         { "predicate": {"custom_model_data": 11}, "model": "item/carrot_on_a_stick/purely_stick_dx"},
         { "predicate": {"custom_model_data": 12}, "model": "item/carrot_on_a_stick/dead_lion"},
         { "predicate": {"custom_model_data": 13}, "model": "item/carrot_on_a_stick/doni"},
-        { "predicate": {"custom_model_data": 14}, "model": "item/carrot_on_a_stick/euphoric_face_pie"}
+        { "predicate": {"custom_model_data": 14}, "model": "item/carrot_on_a_stick/euphoric_face_pie"},
+        { "predicate": {"custom_model_data": 15}, "model": "item/carrot_on_a_stick/ancient_staff"},
+        { "predicate": {"custom_model_data": 16}, "model": "item/carrot_on_a_stick/philosophers_staff"}
     ]
 }

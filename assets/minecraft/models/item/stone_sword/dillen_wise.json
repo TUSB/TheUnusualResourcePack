@@ -1,0 +1,24 @@
+{
+    "parent": "item/handheld",
+    "display": {
+        "thirdperson_righthand": {
+            "translation": [ 0, 3, -5],
+            "rotation": [ 0, 90, 0]
+        },
+        "firstperson_righthand": {
+            "translation": [ 0, 3, 0],
+            "rotation": [ 0, 90, 0]
+        },
+        "firstperson_lefthand": {
+            "translation": [ 0, 3, 0],
+            "rotation": [ 0, -90, 0]
+        },
+        "thirdperson_lefthand": {
+            "translation": [ 0, 3, -5],
+            "rotation": [ 0, -90, 0]
+        }
+    },
+    "textures": {
+        "layer0": "item/stone_sword/dillen_wise"
+    }
+}

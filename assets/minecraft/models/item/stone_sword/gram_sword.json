@@ -1,0 +1,28 @@
+{
+    "parent": "item/handheld",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 30, 270, 90],
+            "translation": [ 0, 12, -2],
+            "scale": [ 1.6, 1.6, 1.6]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 30, 90, 270],
+            "translation": [ 0, 12, -2],
+            "scale": [ 1.6, 1.6, 1.6]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 270, 30],
+            "translation": [ 0, 7, 0],
+            "scale": [ 1.5, 1.5, 1.5]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, 330],
+            "translation": [ 0, 7, 0],
+            "scale": [ 1.5, 1.5, 1.5]
+        }
+    },
+    "textures": {
+        "layer0": "item/stone_sword/gram_sword"
+    }
+}

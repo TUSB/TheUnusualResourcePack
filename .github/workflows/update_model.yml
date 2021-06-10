@@ -34,7 +34,6 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           artifacts: "release.zip"
-          exclusions: '*.git*'
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit Files
         run: |

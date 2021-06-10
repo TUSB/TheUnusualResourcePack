@@ -64,7 +64,7 @@ jobs:
       - name: Zip output
         run: |
           mkdir -p ~/output
-          cp -r / ~/output
+          cp -r ./ ~/output
           zip -jr resources.zip /output/
           
       - name: Release by rsync

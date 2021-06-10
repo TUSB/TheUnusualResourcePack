@@ -30,11 +30,17 @@ jobs:
           CLIENT_X509_CERT_URL: ${{ secrets.CLIENT_X509_CERT_URL}}
           SPREADSHEET_KEY: ${{ secrets.SPREADSHEET_KEY}}      
         run: python update_model.py $PROJECT_ID $PRIVATE_KEY_ID $PRIVATE_KEY $CLIENT_EMAIL $CLIENT_ID $CLIENT_X509_CERT_URL $SPREADSHEET_KEY
-      - name: Upload Release
-        uses: ncipollo/release-action@v1
+      - name: Create release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          artifacts: "release.zip"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          body: TODO
+          draft: true
+          prerelease: false
       - name: Commit Files
         run: |
           git config user.name GitHub Actions

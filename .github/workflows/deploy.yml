@@ -54,7 +54,7 @@ jobs:
           
       - name: create lock file
         run: |
-          touch ${{ github.ref }}.lock
+          touch ${{ github.sha }}.lock
           
       - name: Deploy by rsync
         uses: trendyminds/github-actions-rsync@master

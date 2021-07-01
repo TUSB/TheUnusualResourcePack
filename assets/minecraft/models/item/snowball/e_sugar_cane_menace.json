@@ -1,0 +1,8 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/sugar_cane",
+        "layer1": "item/snowball/a_sugar_cane_menace",
+        "particle": "item/sugar_cane"
+    }
+}

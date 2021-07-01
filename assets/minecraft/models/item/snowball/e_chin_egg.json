@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/snowball/a_chin_egg"
+        "layer0": "item/snowball/e_chin_egg"
     }
 }

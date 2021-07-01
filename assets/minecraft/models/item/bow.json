@@ -161,6 +161,64 @@
                 "pull": 0.9
             },
             "model": "item/bow/ice_dragon_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/bow/evil_eye"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6,
+                "pulling": 1
+            },
+            "model": "item/bow/evil_eye_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/bow/evil_eye_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/bow/evil_eye_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/bow/fion_seatra"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5,
+                "pulling": 1
+            },
+            "model": "item/bow/fion_seatra_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/bow/fion_seatra_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/bow/fion_seatra_pulling_2"
         }
     ]
 }

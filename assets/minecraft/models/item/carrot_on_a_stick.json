@@ -22,8 +22,8 @@
         { "predicate": {"custom_model_data": 16}, "model": "item/carrot_on_a_stick/philosophers_staff"},
         { "predicate": {"custom_model_data": 17}, "model": "item/carrot_on_a_stick/aarons_rod"},
         { "predicate": {"custom_model_data": 18}, "model": "item/carrot_on_a_stick/arcadia"},
-        { "predicate": {"custom_model_data": 1}, "model": "item/carrot_on_a_stick/a_shuriken"},
-        { "predicate": {"custom_model_data": 2}, "model": "item/carrot_on_a_stick/a_sugar_cane_menace"},
-        { "predicate": {"custom_model_data": 3}, "model": "item/carrot_on_a_stick/a_chin_egg"}
+        { "predicate": {"custom_model_data": 19}, "model": "item/carrot_on_a_stick/a_shuriken"},
+        { "predicate": {"custom_model_data": 20}, "model": "item/carrot_on_a_stick/a_sugar_cane_menace"},
+        { "predicate": {"custom_model_data": 21}, "model": "item/carrot_on_a_stick/a_chin_egg"}
     ]
 }

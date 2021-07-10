@@ -91,6 +91,10 @@
         { "predicate": {"custom_model_data": 381}, "model": "item/gold_nugget/dragon_scale/shards"},
         { "predicate": {"custom_model_data": 382}, "model": "item/gold_nugget/dragon_scale/gemstone"},
         { "predicate": {"custom_model_data": 383}, "model": "item/gold_nugget/dragon_scale/crystal"},
-        { "predicate": {"custom_model_data": 384}, "model": "item/gold_nugget/dragon_scale/jewel"}
+        { "predicate": {"custom_model_data": 384}, "model": "item/gold_nugget/dragon_scale/jewel"},
+        { "predicate": {"custom_model_data": 461}, "model": "item/gold_nugget/wave_of_element/shards"},
+        { "predicate": {"custom_model_data": 462}, "model": "item/gold_nugget/wave_of_element/gemstone"},
+        { "predicate": {"custom_model_data": 463}, "model": "item/gold_nugget/wave_of_element/crystal"},
+        { "predicate": {"custom_model_data": 464}, "model": "item/gold_nugget/wave_of_element/jewel"}
     ]
 }

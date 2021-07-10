@@ -2,35 +2,31 @@
     "parent": "item/handheld_rod",
     "display": {
         "thirdperson_righthand": {
-            "rotation": [ -91.5, -62, -96.5],
-            "translation": [ 0.25, 0, 0],
-            "scale": [ 1.5, 1.5, 1]
+            "rotation": [ 100, 50, 0],
+            "translation": [ 7, 6.5, 12],
+            "scale": [ 2.5, 2.5, 1]
         },
         "thirdperson_lefthand": {
-            "rotation": [ 66.5, -335, -75.25],
-            "translation": [ 1.5, 0, 0],
-            "scale": [ 1.5, 1.5, 1]
+            "rotation": [ 100, -130, 0],
+            "translation": [ 7, 6.5, 12],
+            "scale": [ 2.5, 2.5, 1]
         },
         "firstperson_righthand": {
-            "rotation": [ -45, -82, 34],
-            "translation": [ 2.75, -1.75, 2]
+            "rotation": [ -15, -75, 25],
+            "translation": [ 3.5, 2, -1.5],
+            "scale": [ 2.5, 2.5, 1]
         },
         "firstperson_lefthand": {
-            "rotation": [ 21, -77, 6],
-            "translation": [ 5, -2.75, 0]
+            "rotation": [ 14.5, -75, -25],
+            "translation": [ 3.5, 2, -1.5],
+            "scale": [ 2.5, 2.5, 1]
         },
         "ground": {
-            "rotation": [ 0, 0, 45],
-            "translation": [ 0, 12, 0],
-            "scale": [ 1.5, 1.5, 1]
-        },
-        "gui": {
-            "translation": [ -4, -4, 0],
-            "scale": [ 0.5, 0.5, 1]
+            "translation": [ 0, 13, 0],
+            "scale": [ 2.5, 2.5, 1]
         },
         "fixed": {
-            "translation": [ -4.5, -4.5, 0],
-            "scale": [ 0.6, 0.6, 1]
+            "scale": [ 1.2, 1.2, 1]
         }
     },
     "textures": {

@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_axe",
+        "layer1": "item/aura/fire/gold"
+    }
+}

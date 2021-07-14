@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_axe"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/golden_axe/fountain_goleden_axe"}
+    ]
+}

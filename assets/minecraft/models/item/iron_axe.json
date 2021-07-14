@@ -5,6 +5,7 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "item/iron_axe/ninja_kodachi"},
-        { "predicate": {"custom_model_data": 2}, "model": "item/iron_axe/fountain_silver_axe"}
+        { "predicate": {"custom_model_data": 2}, "model": "item/iron_axe/fountain_silver_axe"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/iron_axe/subjectstory_axe"}
     ]
 }

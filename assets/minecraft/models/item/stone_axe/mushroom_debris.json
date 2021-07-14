@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/red_mushroom",
+        "layer0": "block/red_mushroom",
         "layer1": "item/aura/fire/gold"
     }
 }

@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_axe"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/netherite_axe/strong_meat"}
+    ]
+}

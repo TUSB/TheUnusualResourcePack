@@ -1,0 +1,94 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/common.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/mana.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "M"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/knight.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "K"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/ninja.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "N"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/hunter.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "H"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/white_mage.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "W"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/black_mage.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/summoner.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "S"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/puppet_master.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "P"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/thief.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "T"
+            ]
+        }
+    ]
+}

@@ -89,6 +89,60 @@
             "chars": [
             "T"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/physical.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "p"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/fire.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/cold.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/lightning.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "n"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/light.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "l"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/dark.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "d"
+            ]
         }
     ]
 }

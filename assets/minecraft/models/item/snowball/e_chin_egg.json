@@ -1,5 +1,11 @@
 {
     "parent": "item/generated",
+    "display": {
+        "ground": {
+            "translation": [ 0, -3, 0],
+            "scale": [ 1.2, 1.2, 1.2]
+        }
+    },
     "textures": {
         "layer0": "item/snowball/e_chin_egg"
     }

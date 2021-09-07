@@ -2,10 +2,7 @@
   "entity.player.levelup":{
     "replace":true,
     "sounds":[
-      {
-        "name":"random/levelup",
-        "type":"sound"
-      }
+      "empty"
     ]
   },
   "tusb.levelup": {

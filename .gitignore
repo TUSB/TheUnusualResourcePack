@@ -1,0 +1,6 @@
+*.py
+*.exe
+*.spec
+__pycache__/*
+build/*
+dist/*

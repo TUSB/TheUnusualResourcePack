@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/firework_star"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/firework_star/flame_bullet"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/firework_star/flame_bullet_normal"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/firework_star/flame_bullet_light"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/firework_star/flame_bullet_normal_light"},
+        { "predicate": {"custom_model_data": 5}, "model": "item/firework_star/flame_bullet_dark"},
+        { "predicate": {"custom_model_data": 6}, "model": "item/firework_star/flame_bullet_normal_dark"}
+    ]
+}

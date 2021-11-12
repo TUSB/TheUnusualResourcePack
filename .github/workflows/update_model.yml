@@ -1,11 +1,6 @@
 name: update item model file
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'assets/minecraft/textures/item/**.png'
   workflow_dispatch:
 
 jobs:

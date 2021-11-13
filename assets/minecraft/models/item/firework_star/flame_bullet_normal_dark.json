@@ -1,6 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/firework_star_overlay/fire/fire_normal_dark"
-    }
-}

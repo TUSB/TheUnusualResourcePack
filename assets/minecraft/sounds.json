@@ -1,12 +1,96 @@
 {
-  "entity.player.levelup":{
-    "replace":true,
-    "sounds":[
+  "entity.player.levelup": {
+    "replace": true,
+    "sounds": [
       "empty"
     ]
   },
+  "entity.zombie_villager.ambient": {"replace": true,
+    "sounds": [
+      {
+        "name": "mob/pillager/idle1",
+        "volume": 1
+      },
+      {
+        "name": "mob/pillager/idle2",
+        "volume": 1
+      },
+      {
+        "name": "mob/pillager/idle3",
+        "volume": 1
+      },
+      {
+        "name": "mob/pillager/idle4",
+        "volume": 1
+      },
+      "mob/vindication_illager/idle1",
+      "mob/vindication_illager/idle2",
+      "mob/vindication_illager/idle3",
+      "mob/vindication_illager/idle4",
+      "mob/vindication_illager/idle5",
+      "mob/illusion_illager/idle1",
+      "mob/illusion_illager/idle2",
+      "mob/illusion_illager/idle3",
+      "mob/illusion_illager/idle4",
+      "mob/evocation_illager/idle1",
+      "mob/evocation_illager/idle2",
+      "mob/evocation_illager/idle3",
+      "mob/evocation_illager/idle4"
+    ],
+    "subtitle": "subtitles.entity.zombie_villager.ambient"
+  },
+  "entity.zombie_villager.death": {"replace": true,
+    "sounds": [
+      {
+        "name": "mob/pillager/death1",
+        "volume": 1
+      },
+      {
+        "name": "mob/pillager/death2",
+        "volume": 1
+      },
+      "mob/vindication_illager/death1",
+      "mob/vindication_illager/death2",
+      "mob/illusion_illager/death1",
+      "mob/illusion_illager/death2",
+      "mob/evocation_illager/death1",
+      "mob/evocation_illager/death2"
+    ],
+    "subtitle": "subtitles.entity.zombie_villager.death"
+  },
+  "entity.zombie_villager.hurt": {"replace": true,
+    "sounds": [
+      {
+        "name": "mob/pillager/hurt1",
+        "volume": 1
+      },
+      {
+        "name": "mob/pillager/hurt2",
+        "volume": 1
+      },
+      {
+        "name": "mob/pillager/hurt3",
+        "volume": 1
+      },
+      "mob/vindication_illager/hurt1",
+      "mob/vindication_illager/hurt2",
+      "mob/vindication_illager/hurt3",
+      "mob/illusion_illager/hurt1",
+      "mob/illusion_illager/hurt2",
+      "mob/illusion_illager/hurt3",
+      "mob/evocation_illager/hurt1",
+      "mob/evocation_illager/hurt2"
+    ],
+    "subtitle": "subtitles.entity.zombie_villager.hurt"
+  },
+  "entity.zombie_villager.step": {"replace": true,
+    "sounds": [
+      "empty"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
   "tusb.levelup": {
-    "sounds":[
+    "sounds": [
       "random/levelup"
     ]
   }

@@ -79,21 +79,22 @@ if __name__ == '__main__':
 
   # CustomModel出力
   for i in df.index:
-    if df.loc[i,'ID'] == 'bow':
-      model_list = ['','_pulling_0','_pulling_1','_pulling_2']
-    elif df.loc[i,'ID'] == 'crossbow':
-      model_list = ['','_arrow','_firework','_pulling_0','_pulling_1','_pulling_2']
-    elif df.loc[i,'ID'] == 'fishing_rod':
-      model_list = ['','_cast']
-    else:
-      model_list = ['']
+    if df.loc[i,'model_custom'] != '3D':
+      if df.loc[i,'ID'] == 'bow':
+        model_list = ['','_pulling_0','_pulling_1','_pulling_2']
+      elif df.loc[i,'ID'] == 'crossbow':
+        model_list = ['','_arrow','_firework','_pulling_0','_pulling_1','_pulling_2']
+      elif df.loc[i,'ID'] == 'fishing_rod':
+        model_list = ['','_cast']
+      else:
+        model_list = ['']
 
-    for j in model_list:
-      export_dir = 'assets/minecraft/models/item/' + df.loc[i,'ID']
-      export_json = json.dumps(json.loads(df.loc[i,'model' + j]), indent=4)
-      export_json = re.sub('"(rotation|translation|scale)": \[\n +(.*),\n +(.*),\n +(.*)\n +\]', '"\\1": [ \\2, \\3, \\4]', export_json)
-      new_filename = df.loc[i,'US名 / ModelName'] + j + '.json'
-      save_model(export_dir, new_filename, export_json)
+      for j in model_list:
+        export_dir = 'assets/minecraft/models/item/' + df.loc[i,'ID']
+        export_json = json.dumps(json.loads(df.loc[i,'model' + j]), indent=4)
+        export_json = re.sub('"(rotation|translation|scale)": \[\n +(.*),\n +(.*),\n +(.*)\n +\]', '"\\1": [ \\2, \\3, \\4]', export_json)
+        new_filename = df.loc[i,'US名 / ModelName'] + j + '.json'
+        save_model(export_dir, new_filename, export_json)
   
   ### アイテム計算用
   # シートを取得

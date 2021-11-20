@@ -123,6 +123,10 @@
         { "predicate": {"custom_model_data": 461}, "model": "item/gold_nugget/wave_of_element/shards"},
         { "predicate": {"custom_model_data": 462}, "model": "item/gold_nugget/wave_of_element/gemstone"},
         { "predicate": {"custom_model_data": 463}, "model": "item/gold_nugget/wave_of_element/crystal"},
-        { "predicate": {"custom_model_data": 464}, "model": "item/gold_nugget/wave_of_element/jewel"}
+        { "predicate": {"custom_model_data": 464}, "model": "item/gold_nugget/wave_of_element/jewel"},
+        { "predicate": {"custom_model_data": 571}, "model": "item/gold_nugget/double_break/shards"},
+        { "predicate": {"custom_model_data": 572}, "model": "item/gold_nugget/double_break/gemstone"},
+        { "predicate": {"custom_model_data": 573}, "model": "item/gold_nugget/double_break/crystal"},
+        { "predicate": {"custom_model_data": 574}, "model": "item/gold_nugget/double_break/jewel"}
     ]
 }

@@ -1,0 +1,66 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "3d_item/warped_fungus_on_a_stick/top_hat",
+		"particle": "3d_item/warped_fungus_on_a_stick/top_hat"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 1, 14],
+			"faces": {
+				"north": {"uv": [3, 3, 6, 3.25], "texture": "#0"},
+				"east": {"uv": [0, 3, 3, 3.25], "texture": "#0"},
+				"south": {"uv": [9, 3, 12, 3.25], "texture": "#0"},
+				"west": {"uv": [6, 3, 9, 3.25], "texture": "#0"},
+				"up": {"uv": [6, 3, 3, 0], "texture": "#0"},
+				"down": {"uv": [9, 0, 6, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 1, 4],
+			"to": [12, 8, 12],
+			"faces": {
+				"north": {"uv": [2, 5.5, 4, 7.25], "texture": "#0"},
+				"east": {"uv": [0, 5.5, 2, 7.25], "texture": "#0"},
+				"south": {"uv": [6, 5.5, 8, 7.25], "texture": "#0"},
+				"west": {"uv": [4, 5.5, 6, 7.25], "texture": "#0"},
+				"up": {"uv": [4, 5.5, 2, 3.5], "texture": "#0"},
+				"down": {"uv": [6, 3.5, 4, 5.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, -3]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3, -3]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 6, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 6, 0]
+		},
+		"ground": {
+			"translation": [0, 8, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"gui": {
+			"rotation": [45, 135, 0],
+			"translation": [0, 4, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"head": {
+			"translation": [0, 16, 0],
+			"scale": [1.7, 1.5, 1.7]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -19],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	}
+}

@@ -91,6 +91,8 @@ if __name__ == '__main__':
 
       for j in model_list:
         export_dir = 'assets/minecraft/models/item/' + df.loc[i,'ID']
+        if df.loc[i,'サブフォルダ'] != '':
+          export_dir += '/' + df.loc[i,'サブフォルダ']
         export_json = json.dumps(json.loads(df.loc[i,'model' + j]), indent=4)
         export_json = re.sub('"(rotation|translation|scale)": \[\n +(.*),\n +(.*),\n +(.*)\n +\]', '"\\1": [ \\2, \\3, \\4]', export_json)
         new_filename = df.loc[i,'US名 / ModelName'] + j + '.json'

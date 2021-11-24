@@ -9,6 +9,14 @@
         { "predicate": {"custom_model_data": 3}, "model": "3d_item/warped_fungus_on_a_stick/green_cloak"},
         { "predicate": {"custom_model_data": 4}, "model": "3d_item/warped_fungus_on_a_stick/top_hat"},
         { "predicate": {"custom_model_data": 5}, "model": "3d_item/warped_fungus_on_a_stick/red_hair_bow"},
-        { "predicate": {"custom_model_data": 6}, "model": "3d_item/warped_fungus_on_a_stick/sunglasses"}
+        { "predicate": {"custom_model_data": 6}, "model": "3d_item/warped_fungus_on_a_stick/sunglasses"},
+        { "predicate": {"custom_model_data": 7}, "model": "3d_item/warped_fungus_on_a_stick/headphone"},
+        { "predicate": {"custom_model_data": 1001}, "model": "3d_item/warped_fungus_on_a_stick/block/portal"},
+        { "predicate": {"custom_model_data": 1002}, "model": "3d_item/warped_fungus_on_a_stick/block/fire"},
+        { "predicate": {"custom_model_data": 1003}, "model": "3d_item/warped_fungus_on_a_stick/block/soul_fire"},
+        { "predicate": {"custom_model_data": 1004}, "model": "3d_item/warped_fungus_on_a_stick/block/lava"},
+        { "predicate": {"custom_model_data": 1005}, "model": "3d_item/warped_fungus_on_a_stick/block/water"},
+        { "predicate": {"custom_model_data": 1006}, "model": "3d_item/warped_fungus_on_a_stick/block/cobweb"},
+        { "predicate": {"custom_model_data": 1007}, "model": "3d_item/warped_fungus_on_a_stick/block/giant_cobweb"}
     ]
 }

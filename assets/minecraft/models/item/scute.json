@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/scute"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "3d_item/scute/entity/shark_normal"},
+        { "predicate": {"custom_model_data": 2}, "model": "3d_item/scute/entity/oak_tree"}
+    ]
+}

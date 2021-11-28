@@ -3,12 +3,12 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, 90, 55],
-			"translation": [0, 4, 2.5],
+			"translation": [0, 25, 2.5],
 			"scale": [3.4, 3.4, 1.7]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, -90, -55],
-			"translation": [0, 4, 2.5],
+			"translation": [0, 25, 2.5],
 			"scale": [3.4, 3.4, 1.7]
 		},
 		"firstperson_righthand": {

@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld_rod",
+    "parent": "parent/handheld_rod_flipped/2x",
     "textures": {
         "layer0": "item/carrot_on_a_stick/red_carrot"
     }

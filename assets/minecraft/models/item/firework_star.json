@@ -23,6 +23,26 @@
         { "predicate": {"custom_model_data": 17}, "model": "item/firework_star/fire/negative_violet"},
         { "predicate": {"custom_model_data": 18}, "model": "item/firework_star/fire/negative_yellow"},
         { "predicate": {"custom_model_data": 19}, "model": "item/firework_star/fire/negative_green"},
-        { "predicate": {"custom_model_data": 20}, "model": "item/firework_star/fire/negative_white"}
+        { "predicate": {"custom_model_data": 20}, "model": "item/firework_star/fire/negative_white"},
+        { "predicate": {"custom_model_data": 41}, "model": "item/firework_star/thunder/add_fire"},
+        { "predicate": {"custom_model_data": 42}, "model": "item/firework_star/thunder/add_ice"},
+        { "predicate": {"custom_model_data": 43}, "model": "item/firework_star/thunder/add_lightning"},
+        { "predicate": {"custom_model_data": 44}, "model": "item/firework_star/thunder/add_light"},
+        { "predicate": {"custom_model_data": 45}, "model": "item/firework_star/thunder/add_dark"},
+        { "predicate": {"custom_model_data": 46}, "model": "item/firework_star/thunder/blade"},
+        { "predicate": {"custom_model_data": 47}, "model": "item/firework_star/thunder/knockback"},
+        { "predicate": {"custom_model_data": 48}, "model": "item/firework_star/thunder/wave_of_element"},
+        { "predicate": {"custom_model_data": 49}, "model": "item/firework_star/thunder/element"},
+        { "predicate": {"custom_model_data": 50}, "model": "item/firework_star/thunder/yin_yang"},
+        { "predicate": {"custom_model_data": 51}, "model": "item/firework_star/thunder/philosopher"},
+        { "predicate": {"custom_model_data": 52}, "model": "item/firework_star/thunder/purification"},
+        { "predicate": {"custom_model_data": 53}, "model": "item/firework_star/thunder/silver"},
+        { "predicate": {"custom_model_data": 54}, "model": "item/firework_star/thunder/gold"},
+        { "predicate": {"custom_model_data": 55}, "model": "item/firework_star/thunder/negative_red"},
+        { "predicate": {"custom_model_data": 56}, "model": "item/firework_star/thunder/negative_blue"},
+        { "predicate": {"custom_model_data": 57}, "model": "item/firework_star/thunder/negative_violet"},
+        { "predicate": {"custom_model_data": 58}, "model": "item/firework_star/thunder/negative_yellow"},
+        { "predicate": {"custom_model_data": 59}, "model": "item/firework_star/thunder/negative_green"},
+        { "predicate": {"custom_model_data": 60}, "model": "item/firework_star/thunder/negative_white"}
     ]
 }

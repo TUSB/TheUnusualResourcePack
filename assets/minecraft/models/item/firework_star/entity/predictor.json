@@ -1,7 +1,36 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/firework_star/clear_dots",
-        "layer1": "item/firework_star_overlay/entity/predictor"
-    }
+	"credit": "Made with Blockbench",
+	"textures": {
+	        "layer0": "item/firework_star/clear_dots",
+        	"layer1": "item/firework_star_overlay/entity/predictor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 4],
+			"to": [16, 32, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-3, 0, 6]},
+			"faces": {
+				"north": {"uv": [4, 0, 12, 16], "texture": "#0"},
+				"east": {"uv": [4, 0, 5, 16], "texture": "#0"},
+				"south": {"uv": [12, 0, 4, 16], "texture": "#0"},
+				"west": {"uv": [12, 0, 11, 16], "texture": "#0"},
+				"up": {"uv": [12, 0, 4, 1], "texture": "#0"},
+				"down": {"uv": [12, 15, 4, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [0, 8.5, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"gui": {
+			"translation": [0, -4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, -13, 0],
+			"scale": [4, 4, 4]
+		}
+	}
 }

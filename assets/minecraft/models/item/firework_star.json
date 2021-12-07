@@ -64,6 +64,6 @@
         { "predicate": {"custom_model_data": 98}, "model": "item/firework_star/dark/negative_yellow"},
         { "predicate": {"custom_model_data": 99}, "model": "item/firework_star/dark/negative_green"},
         { "predicate": {"custom_model_data": 100}, "model": "item/firework_star/dark/negative_white"},
-        { "predicate": {"custom_model_data": 1000}, "model": "item/firework_star/entity/predictor"}
+        { "predicate": {"custom_model_data": 1001}, "model": "item/firework_star/entity/predictor"}
     ]
 }

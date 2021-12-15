@@ -40,14 +40,15 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
-			"translation": [0, 8.5, 0]
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
 			"rotation": [30, 225, 0],
 			"scale": [0.625, 0.625, 0.625]
 		},
 		"head": {
-			"translation": [0, -37, 0]
+			"translation": [0, -32.25, 0],
+			"scale": [1.6, 1.6, 1.6]
 		},
 		"fixed": {
 			"scale": [1.8, 1.8, 1.8]

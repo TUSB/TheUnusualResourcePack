@@ -3,7 +3,8 @@
 	"textures": {
 		"layer1": "item/firework_star_overlay/etc/tnt_side",
 		"layer2": "item/firework_star_overlay/etc/tnt_top",
-		"layer3": "item/firework_star_overlay/etc/tnt_bottom"
+		"layer3": "item/firework_star_overlay/etc/tnt_bottom",
+		"particle": "item/firework_star_overlay/etc/tnt_bottom"
 	},
 	"elements": [
 		{

@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"layer1": "item/firework_star_overlay/etc/tnt_bottom",
+		"layer1": "item/firework_star_overlay/etc/tnt_side",
+		"layer1": "item/firework_star_overlay/etc/tnt_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [12, 12, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 6, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#layer1", "tintindex": 1},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#layer1", "tintindex": 1}
+			}
+		}
+	],
+	"display": {}
+}

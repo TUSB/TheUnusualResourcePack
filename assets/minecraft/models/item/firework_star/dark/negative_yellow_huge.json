@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/firework_star/clear_dots",
+        "layer1": "item/firework_star_overlay/dark/negative_yellow"
+    }
+}

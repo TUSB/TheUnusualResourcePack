@@ -1,5 +1,5 @@
 {
-    "parent": "item/generated",
+    "parent": "parent/handheld/4x",
     "textures": {
         "layer0": "item/firework_star/clear_dots",
         "layer1": "item/firework_star_overlay/ice/yin_yang"

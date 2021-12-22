@@ -1,5 +1,5 @@
 {
-    "parent": "parent/handheld/4x",
+    "parent": "parent/handheld/3x",
     "textures": {
         "layer0": "item/firework_star/clear_dots",
         "layer1": "item/firework_star_overlay/ice/add_fire"

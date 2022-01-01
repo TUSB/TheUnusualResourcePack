@@ -1,21 +1,22 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"layer1": "item/firework_star_overlay/block/key_block_barrier",
-		"particle": "item/firework_star_overlay/block/key_block_barrier"
+		"layer1": "item/firework_star_overlay/block/key_block_front",
+		"layer2": "item/firework_star_overlay/block/key_block",
+		"particle": "item/firework_star_overlay/block/key_block"
 	},
 	"elements": [
 		{
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, 0.5, 0.5]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
-				"up": {"uv": [16, 16, 0, 0], "texture": "#layer1", "tintindex": 1},
-				"down": {"uv": [16, 0, 0, 16], "texture": "#layer1", "tintindex": 1}
+				"east": {"uv": [0, 0, 16, 16], "texture": "#layer2", "tintindex": 1},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#layer2", "tintindex": 1},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#layer2", "tintindex": 1},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#layer2", "tintindex": 1},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#layer2", "tintindex": 1}
 			}
 		}
 	],

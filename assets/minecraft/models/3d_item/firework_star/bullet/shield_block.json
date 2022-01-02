@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"layer1": "item/firework_star_overlay/block/key_block_barrier",
-		"particle": "item/firework_star_overlay/block/key_block_barrier"
+		"layer1": "item/firework_star_overlay/etc/shield_block",
+		"particle": "item/firework_star_overlay/etc/shield_block"
 	},
 	"elements": [
 		{

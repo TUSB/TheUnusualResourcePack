@@ -1,4 +1,15 @@
-{
+{ "block.lodestone.break": {
+    "replace": true,
+    "sounds": [
+      "block/bone_block/break1",
+      "block/bone_block/break2",
+      "block/bone_block/break3",
+      "block/bone_block/break4",
+      "block/bone_block/break5"
+      
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
   "entity.player.levelup": {
     "replace": true,
     "sounds": [

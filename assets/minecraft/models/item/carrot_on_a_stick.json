@@ -51,6 +51,7 @@
         { "predicate": {"custom_model_data": 45}, "model": "item/carrot_on_a_stick/soma"},
         { "predicate": {"custom_model_data": 46}, "model": "item/carrot_on_a_stick/load"},
         { "predicate": {"custom_model_data": 47}, "model": "item/carrot_on_a_stick/synthetic_narcotics_rta"},
-        { "predicate": {"custom_model_data": 48}, "model": "item/carrot_on_a_stick/void_bundle"}
+        { "predicate": {"custom_model_data": 48}, "model": "item/carrot_on_a_stick/void_bundle"},
+        { "predicate": {"custom_model_data": 1000}, "model": "3d_item/carrot_on_a_stick/entity/scarecrow_doll"}
     ]
 }

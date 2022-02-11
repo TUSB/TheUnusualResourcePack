@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"particle": "entity/signs/warped",
 		"layer1": "entity/signs/warped",
 		"layer2": "3d_item/armor_stand/sign/transfer_sign",
-		"layer3": "3d_item/common/clear_dots",
-		"particle": "entity/signs/warped"
+		"layer3": "3d_item/common/clear_dots"
 	},
 	"elements": [
 		{
@@ -34,6 +34,7 @@
 			}
 		},
 		{
+			"name": "sign_mark",
 			"from": [5, 9, 7.98],
 			"to": [11, 15, 9.02],
 			"faces": {
@@ -81,8 +82,7 @@
 			"name": "sign",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [0, 1]
-		},
-		2
+			"children": [0, 1, 2]
+		}
 	]
 }

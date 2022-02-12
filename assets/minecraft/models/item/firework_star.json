@@ -4,6 +4,7 @@
         "layer0": "item/firework_star"
     },
     "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/firework_star/fire/add_fire"},
         { "predicate": {"custom_model_data": 2}, "model": "item/firework_star/fire/add_ice"},
         { "predicate": {"custom_model_data": 3}, "model": "item/firework_star/fire/add_lightning"},
         { "predicate": {"custom_model_data": 4}, "model": "item/firework_star/fire/add_light"},
@@ -206,7 +207,6 @@
         { "predicate": {"custom_model_data": 10097}, "model": "item/firework_star/dark/negative_violet_huge"},
         { "predicate": {"custom_model_data": 10098}, "model": "item/firework_star/dark/negative_yellow_huge"},
         { "predicate": {"custom_model_data": 10099}, "model": "item/firework_star/dark/negative_green_huge"},
-        { "predicate": {"custom_model_data": 10100}, "model": "item/firework_star/dark/negative_white_huge"},
-        { "predicate": {"custom_model_data": 1}, "model": "item/firework_star/fire/add_fire"}
+        { "predicate": {"custom_model_data": 10100}, "model": "item/firework_star/dark/negative_white_huge"}
     ]
 }

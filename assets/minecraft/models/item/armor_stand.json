@@ -5,20 +5,6 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "3d_item/armor_stand/sign/trading_engraving_plate"},
-        { "predicate": {"custom_model_data": 2}, "model": "3d_item/armor_stand/sign/transfer_engraving_plate"},
-        { "predicate": {"custom_model_data": 3}, "model": "3d_item/armor_stand/sign/log_grinding_engraving_plate"},
-        { "predicate": {"custom_model_data": 4}, "model": "3d_item/armor_stand/sign/gravel_grinding_engraving_plate"},
-        { "predicate": {"custom_model_data": 5}, "model": "3d_item/armor_stand/sign/snow_crushing_engraving_plate"},
-        { "predicate": {"custom_model_data": 6}, "model": "3d_item/armor_stand/sign/spider_web_grinding_engraving_plate"},
-        { "predicate": {"custom_model_data": 7}, "model": "3d_item/armor_stand/sign/boulder_crushing_engraving_plate"},
-        { "predicate": {"custom_model_data": 8}, "model": "3d_item/armor_stand/sign/wheat_harvesting_engraving_plate"},
-        { "predicate": {"custom_model_data": 9}, "model": "3d_item/armor_stand/sign/potato_harvesting_engraving_plate"},
-        { "predicate": {"custom_model_data": 10}, "model": "3d_item/armor_stand/sign/carrot_harvesting_engraving_plate"},
-        { "predicate": {"custom_model_data": 11}, "model": "3d_item/armor_stand/sign/beet_harvesting_engraving_plate"},
-        { "predicate": {"custom_model_data": 12}, "model": "3d_item/armor_stand/sign/white_wood_strengthening_engraving_plate"},
-        { "predicate": {"custom_model_data": 13}, "model": "3d_item/armor_stand/sign/black_wood_reinforced_engraving_plate"},
-        { "predicate": {"custom_model_data": 14}, "model": "3d_item/armor_stand/sign/inn_engraving_plate"},
-        { "predicate": {"custom_model_data": 15}, "model": "3d_item/armor_stand/sign/pile_up_engraving_plate"},
-        { "predicate": {"custom_model_data": 16}, "model": "3d_item/armor_stand/sign/annihilation_engraving_plate"}
+        { "predicate": {"custom_model_data": 2}, "model": "3d_item/armor_stand/sign/transfer_engraving_plate"}
     ]
 }

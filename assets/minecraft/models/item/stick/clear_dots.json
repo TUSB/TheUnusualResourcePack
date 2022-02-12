@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "3d_item/common/clear_dots"
+    }
+}

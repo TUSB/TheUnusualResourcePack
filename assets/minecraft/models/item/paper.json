@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/paper/ticket"},
+        { "predicate": {"custom_model_data": 1}, "model": "item/paper/ticket"},
+        { "predicate": {"custom_model_data": 1}, "model": "item/paper/ticket"},
+        { "predicate": {"custom_model_data": 1}, "model": "item/paper/ticket"},
+        { "predicate": {"custom_model_data": 1}, "model": "item/paper/ticket"},
+        { "predicate": {"custom_model_data": 1}, "model": "item/paper/ticket"},
+        { "predicate": {"custom_model_data": 1}, "model": "item/paper/ticket"},
+        { "predicate": {"custom_model_data": 1}, "model": "item/paper/ticket"}
+    ]
+}

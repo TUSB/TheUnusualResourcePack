@@ -1,6 +1,0 @@
-{
-    "parent": "block/block",
-    "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "item/carved_pumpkin/confession_of_pumpkin"}
-    ]
-}

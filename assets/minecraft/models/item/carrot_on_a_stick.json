@@ -53,14 +53,14 @@
         { "predicate": {"custom_model_data": 47}, "model": "item/carrot_on_a_stick/synthetic_narcotics_rta"},
         { "predicate": {"custom_model_data": 48}, "model": "item/carrot_on_a_stick/void_bundle"},
         { "predicate": {"custom_model_data": 49}, "model": "item/carrot_on_a_stick/fishing_rod_of_anger"},
-        { "predicate": {"custom_model_data": 1000}, "model": "3d_item/carrot_on_a_stick/entity/scarecrow_doll"},
-        { "predicate": {"custom_model_data": 50}, "model": "item/carrot_on_a_stick/golden_ticket"},
-        { "predicate": {"custom_model_data": 50}, "model": "item/carrot_on_a_stick/golden_ticket"},
-        { "predicate": {"custom_model_data": 50}, "model": "item/carrot_on_a_stick/golden_ticket"},
-        { "predicate": {"custom_model_data": 50}, "model": "item/carrot_on_a_stick/golden_ticket"},
-        { "predicate": {"custom_model_data": 50}, "model": "item/carrot_on_a_stick/golden_ticket"},
-        { "predicate": {"custom_model_data": 50}, "model": "item/carrot_on_a_stick/golden_ticket"},
-        { "predicate": {"custom_model_data": 50}, "model": "item/carrot_on_a_stick/golden_ticket"},
-        { "predicate": {"custom_model_data": 50}, "model": "item/carrot_on_a_stick/golden_ticket"}
+        { "predicate": {"custom_model_data": 50}, "model": "item/carrot_on_a_stick/ticket/golden_ticket_fencer"},
+        { "predicate": {"custom_model_data": 51}, "model": "item/carrot_on_a_stick/ticket/golden_ticket_ninja"},
+        { "predicate": {"custom_model_data": 52}, "model": "item/carrot_on_a_stick/ticket/golden_ticket_hunter"},
+        { "predicate": {"custom_model_data": 53}, "model": "item/carrot_on_a_stick/ticket/golden_ticket_white_mage"},
+        { "predicate": {"custom_model_data": 54}, "model": "item/carrot_on_a_stick/ticket/golden_ticket_black_mage"},
+        { "predicate": {"custom_model_data": 55}, "model": "item/carrot_on_a_stick/ticket/golden_ticket_summoners"},
+        { "predicate": {"custom_model_data": 56}, "model": "item/carrot_on_a_stick/ticket/golden_ticket_tinkerer"},
+        { "predicate": {"custom_model_data": 57}, "model": "item/carrot_on_a_stick/ticket/golden_ticket_phantom_thief"},
+        { "predicate": {"custom_model_data": 1000}, "model": "3d_item/carrot_on_a_stick/entity/scarecrow_doll"}
     ]
 }

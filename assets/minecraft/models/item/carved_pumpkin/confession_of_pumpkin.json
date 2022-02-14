@@ -1,7 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/carved_pumpkin",
-        "layer1": "item/aura/fire/negative_yellow"
-    }
-}

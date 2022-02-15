@@ -61,6 +61,8 @@
         { "predicate": {"custom_model_data": 55}, "model": "item/carrot_on_a_stick/ticket/golden_ticket_summoners"},
         { "predicate": {"custom_model_data": 56}, "model": "item/carrot_on_a_stick/ticket/golden_ticket_tinkerer"},
         { "predicate": {"custom_model_data": 57}, "model": "item/carrot_on_a_stick/ticket/golden_ticket_phantom_thief"},
+        { "predicate": {"custom_model_data": 58}, "model": "item/carrot_on_a_stick/corn_soup"},
+        { "predicate": {"custom_model_data": 59}, "model": "item/carrot_on_a_stick/cold_pumpkin_soup"},
         { "predicate": {"custom_model_data": 1000}, "model": "3d_item/carrot_on_a_stick/entity/scarecrow_doll"}
     ]
 }

@@ -4,13 +4,13 @@
         "layer0": "item/paper"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "item/paper/ticket/ticket_fencer"},
-        { "predicate": {"custom_model_data": 2}, "model": "item/paper/ticket/ticket_ninja"},
-        { "predicate": {"custom_model_data": 3}, "model": "item/paper/ticket/ticket_hunter"},
-        { "predicate": {"custom_model_data": 4}, "model": "item/paper/ticket/ticket_white_mage"},
-        { "predicate": {"custom_model_data": 5}, "model": "item/paper/ticket/ticket_black_mage"},
-        { "predicate": {"custom_model_data": 6}, "model": "item/paper/ticket/ticket_summoners"},
-        { "predicate": {"custom_model_data": 7}, "model": "item/paper/ticket/ticket_tinkerer"},
-        { "predicate": {"custom_model_data": 8}, "model": "item/paper/ticket/ticket_phantom_thief"}
+        { "predicate": {"custom_model_data": 1}, "model": "item/paper/ticket_fencer"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/paper/ticket_ninja"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/paper/ticket_hunter"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/paper/ticket_white_mage"},
+        { "predicate": {"custom_model_data": 5}, "model": "item/paper/ticket_black_mage"},
+        { "predicate": {"custom_model_data": 6}, "model": "item/paper/ticket_summoners"},
+        { "predicate": {"custom_model_data": 7}, "model": "item/paper/ticket_tinkerer"},
+        { "predicate": {"custom_model_data": 8}, "model": "item/paper/ticket_phantom_thief"}
     ]
 }

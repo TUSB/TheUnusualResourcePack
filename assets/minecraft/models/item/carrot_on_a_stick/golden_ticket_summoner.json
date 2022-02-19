@@ -1,6 +1,6 @@
 {
     "parent": "parent/handheld_flipped/1x",
     "textures": {
-        "layer0": "item/carrot_on_a_stick/golden_ticket_summoners"
+        "layer0": "item/carrot_on_a_stick/golden_ticket_summoner"
     }
 }

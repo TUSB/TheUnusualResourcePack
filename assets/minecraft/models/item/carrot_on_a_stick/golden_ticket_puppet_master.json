@@ -1,5 +1,5 @@
 {
-    "parent": "parent/handheld_flipped_rotate/1x",
+    "parent": "parent/ticket/1x",
     "textures": {
         "layer0": "item/carrot_on_a_stick/golden_ticket_puppet_master"
     }

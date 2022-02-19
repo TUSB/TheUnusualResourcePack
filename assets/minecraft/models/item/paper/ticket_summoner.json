@@ -1,5 +1,5 @@
 {
-    "parent": "item/generated",
+    "parent": "parent/ticket/1x",
     "textures": {
         "layer0": "item/paper/ticket_summoner"
     }

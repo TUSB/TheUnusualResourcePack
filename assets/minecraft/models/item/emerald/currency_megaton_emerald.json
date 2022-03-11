@@ -1,6 +1,6 @@
 {
     "parent": "parent/handheld/2x",
     "textures": {
-        "layer0": "item/diamond_sword/unsigned_light_sword"
+        "layer0": "item/emerald/currency_megaton_emerald"
     }
 }

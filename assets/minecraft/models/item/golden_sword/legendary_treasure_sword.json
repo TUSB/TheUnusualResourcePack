@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "parent/handheld/2x",
     "textures": {
         "layer0": "item/golden_sword/legendary_treasure_sword"
     }

@@ -1,0 +1,6 @@
+{
+    "parent": "parent/handheld/3x",
+    "textures": {
+        "layer0": "item/emerald/currency_gigant_emerald"
+    }
+}

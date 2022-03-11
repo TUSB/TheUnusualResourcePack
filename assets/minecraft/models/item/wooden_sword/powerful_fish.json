@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "parent/handheld_flipped/3x",
     "textures": {
         "layer0": "item/wooden_sword/powerful_fish"
     }

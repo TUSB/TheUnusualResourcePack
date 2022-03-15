@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "laser_shot",
 	"textures": {
 		"particle": "item/firework_star_overlay/etc/laser_shot",
 		"layer1": "item/firework_star_overlay/etc/laser_shot",

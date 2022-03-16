@@ -1,6 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "parent/handheld_flipped/1x",
     "textures": {
-        "layer0": "item/firework_star/key_block_key"
+        "layer0": "item/firework_star/clear_dots",
+        "layer1": "item/firework_star_overlay/etc/key_block_key"
     }
 }

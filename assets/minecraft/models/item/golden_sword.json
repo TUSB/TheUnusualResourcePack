@@ -5,6 +5,7 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "item/golden_sword/a_rahat_haherev_hamithapehet"},
-        { "predicate": {"custom_model_data": 2}, "model": "item/golden_sword/legendary_treasure_sword"}
+        { "predicate": {"custom_model_data": 2}, "model": "item/golden_sword/legendary_treasure_sword"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/golden_sword/homerun_bat"}
     ]
 }

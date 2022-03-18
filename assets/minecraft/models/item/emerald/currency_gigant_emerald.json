@@ -1,5 +1,5 @@
 {
-    "parent": "parent/handheld/3x",
+    "parent": "parent/handheld/2x",
     "textures": {
         "layer0": "item/emerald/currency_gigant_emerald"
     }

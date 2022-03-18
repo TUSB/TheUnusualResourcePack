@@ -65,6 +65,8 @@
         { "predicate": {"custom_model_data": 58}, "model": "item/carrot_on_a_stick/corn_soup"},
         { "predicate": {"custom_model_data": 59}, "model": "item/carrot_on_a_stick/cold_pumpkin_soup"},
         { "predicate": {"custom_model_data": 59}, "model": "item/carrot_on_a_stick/cold_pumpkin_soup"},
+        { "predicate": {"custom_model_data": 60}, "model": "item/carrot_on_a_stick/solar_wind"},
+        { "predicate": {"custom_model_data": 61}, "model": "item/carrot_on_a_stick/nil"},
         { "predicate": {"custom_model_data": 1000}, "model": "3d_item/carrot_on_a_stick/entity/scarecrow_doll"}
     ]
 }

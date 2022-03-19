@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/dried_kelp",
+        "layer1": "item/aura/ice/wave_of_element"
+    }
+}

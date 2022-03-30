@@ -1,5 +1,5 @@
 {
-    "parent": "parent/handheld_rod/2x",
+    "parent": "item/handheld_rod",
     "textures": {
         "layer0": "item/fishing_rod/good_fishing_rod_cast"
     }

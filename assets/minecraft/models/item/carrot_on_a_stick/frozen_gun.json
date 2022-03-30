@@ -1,5 +1,5 @@
 {
-    "parent": "parent/handheld_rod_flipped/2x",
+    "parent": "item/handheld_rod",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 53, -90, 55],

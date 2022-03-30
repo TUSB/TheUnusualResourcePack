@@ -1,5 +1,5 @@
 {
-    "parent": "parent/handheld_rod_flipped/2x",
+    "parent": "parent/handheld_rod_flipped/1x",
     "textures": {
         "layer0": "item/diamond_axe/tomahawk"
     }

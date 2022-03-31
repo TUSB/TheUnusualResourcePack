@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick/golden_mutton",
+        "layer1": "item/aura/light/addlight"
+    }
+}

@@ -22,8 +22,8 @@
 			"scale": [0.68, 0.68, 0.68]
 		},
 		"ground": {
-      "translation": [0, 5, 0],
-			"scale": [2, 2, 2]
+      "translation": [0, 5.2, 0],
+			"scale": [1.2, 1.2, 1.2]
 		}
 	}
 }

@@ -1,0 +1,21 @@
+{
+	"parent": "item/generated",
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"thirdperson_lefthand": {
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"firstperson_righthand": {
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"firstperson_lefthand": {
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"ground": {
+			"translation": [0, 2.4, 0],
+			"scale": [1.4, 1.4, 1.4]
+		}
+	}
+}

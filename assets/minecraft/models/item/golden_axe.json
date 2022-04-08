@@ -4,6 +4,7 @@
         "layer0": "item/golden_axe"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "item/golden_axe/fountain_goleden_axe"}
+        { "predicate": {"custom_model_data": 1}, "model": "item/golden_axe/fountain_goleden_axe"},
+        { "predicate": {"custom_model_data": 2}, "model": "3d_item/golden_axe/golden_lost_dream"}
     ]
 }

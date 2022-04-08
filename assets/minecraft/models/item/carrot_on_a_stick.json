@@ -70,6 +70,17 @@
         { "predicate": {"custom_model_data": 62}, "model": "item/carrot_on_a_stick/sword_of_oath"},
         { "predicate": {"custom_model_data": 63}, "model": "item/carrot_on_a_stick/mortar"},
         { "predicate": {"custom_model_data": 64}, "model": "item/carrot_on_a_stick/golden_mutton"},
+        { "predicate": {"custom_model_data": 65}, "model": "item/carrot_on_a_stick/staff_of_fire"},
+        { "predicate": {"custom_model_data": 66}, "model": "item/carrot_on_a_stick/staff_of_ice"},
+        { "predicate": {"custom_model_data": 67}, "model": "item/carrot_on_a_stick/staff_of_lightning"},
+        { "predicate": {"custom_model_data": 68}, "model": "item/carrot_on_a_stick/staff_of_light"},
+        { "predicate": {"custom_model_data": 69}, "model": "item/carrot_on_a_stick/staff_of_dark"},
+        { "predicate": {"custom_model_data": 70}, "model": "item/carrot_on_a_stick/staff_of_fire_lord"},
+        { "predicate": {"custom_model_data": 71}, "model": "item/carrot_on_a_stick/staff_of_ice_lord"},
+        { "predicate": {"custom_model_data": 72}, "model": "item/carrot_on_a_stick/staff_of_lightning_lord"},
+        { "predicate": {"custom_model_data": 73}, "model": "item/carrot_on_a_stick/staff_of_light_lord"},
+        { "predicate": {"custom_model_data": 74}, "model": "item/carrot_on_a_stick/staff_of_dark_lord"},
+        { "predicate": {"custom_model_data": 75}, "model": "item/carrot_on_a_stick/blue_eyes_white_dragon"},
         { "predicate": {"custom_model_data": 1000}, "model": "3d_item/carrot_on_a_stick/entity/scarecrow_doll"}
     ]
 }

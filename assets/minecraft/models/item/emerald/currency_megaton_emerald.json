@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "parent/accessories/1_2x",
     "textures": {
         "layer0": "item/emerald/currency_megaton_emerald"
     }

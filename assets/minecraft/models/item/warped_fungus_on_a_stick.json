@@ -15,16 +15,16 @@
         { "predicate": {"custom_model_data": 9}, "model": "3d_item/warped_fungus_on_a_stick/security_pole/security_pole_single_body"},
         { "predicate": {"custom_model_data": 10}, "model": "3d_item/warped_fungus_on_a_stick/security_pole/security_pole_dual_body"},
         { "predicate": {"custom_model_data": 11}, "model": "3d_item/warped_fungus_on_a_stick/security_pole/security_pole_triple_body"},
+        { "predicate": {"custom_model_data": 12}, "model": "3d_item/warped_fungus_on_a_stick/witch_hat_red"},
+        { "predicate": {"custom_model_data": 13}, "model": "3d_item/warped_fungus_on_a_stick/witch_hat_yellow"},
+        { "predicate": {"custom_model_data": 14}, "model": "3d_item/warped_fungus_on_a_stick/witch_hat_blue"},
+        { "predicate": {"custom_model_data": 15}, "model": "3d_item/warped_fungus_on_a_stick/witch_hat_white"},
         { "predicate": {"custom_model_data": 1001}, "model": "3d_item/warped_fungus_on_a_stick/block/portal"},
         { "predicate": {"custom_model_data": 1002}, "model": "3d_item/warped_fungus_on_a_stick/block/fire"},
         { "predicate": {"custom_model_data": 1003}, "model": "3d_item/warped_fungus_on_a_stick/block/soul_fire"},
         { "predicate": {"custom_model_data": 1004}, "model": "3d_item/warped_fungus_on_a_stick/block/lava"},
         { "predicate": {"custom_model_data": 1005}, "model": "3d_item/warped_fungus_on_a_stick/block/water"},
         { "predicate": {"custom_model_data": 1006}, "model": "3d_item/warped_fungus_on_a_stick/block/cobweb"},
-        { "predicate": {"custom_model_data": 1007}, "model": "3d_item/warped_fungus_on_a_stick/block/giant_cobweb"},
-        { "predicate": {"custom_model_data": 12}, "model": "3d_item/warped_fungus_on_a_stick/witch_hat_red"},
-        { "predicate": {"custom_model_data": 13}, "model": "3d_item/warped_fungus_on_a_stick/witch_hat_yellow"},
-        { "predicate": {"custom_model_data": 14}, "model": "3d_item/warped_fungus_on_a_stick/witch_hat_blue"},
-        { "predicate": {"custom_model_data": 15}, "model": "3d_item/warped_fungus_on_a_stick/witch_hat_white"}
+        { "predicate": {"custom_model_data": 1007}, "model": "3d_item/warped_fungus_on_a_stick/block/giant_cobweb"}
     ]
 }

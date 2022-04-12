@@ -105,6 +105,7 @@
         { "predicate": {"custom_model_data": 99}, "model": "item/firework_star/dark/negative_green"},
         { "predicate": {"custom_model_data": 100}, "model": "item/firework_star/dark/negative_white"},
         { "predicate": {"custom_model_data": 122}, "model": "item/firework_star/etc/shuriken"},
+        { "predicate": {"custom_model_data": 123}, "model": "3d_item/firework_star/bullet/thorn_iron_ball"},
         { "predicate": {"custom_model_data": 125}, "model": "3d_item/firework_star/bullet/magnum"},
         { "predicate": {"custom_model_data": 132}, "model": "item/firework_star/etc/color_egg"},
         { "predicate": {"custom_model_data": 135}, "model": "item/firework_star/etc/key_block_key"},

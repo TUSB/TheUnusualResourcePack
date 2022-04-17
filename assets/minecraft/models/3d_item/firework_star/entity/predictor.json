@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"layer1": "item/firework_star_overlay/entity/predictor"
+		"layer1": "3d_item/firework_star/entity/predictor"
 	},
 	"elements": [
 		{

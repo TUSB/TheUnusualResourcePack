@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"particle": "item/firework_star_overlay/entity/demon",
-		"layer1": "item/firework_star_overlay/entity/demon",
+		"particle": "3d_item/firework_star/entity/demon",
+		"layer1": "3d_item/firework_star/entity/demon",
 		"layer2": "item/carrot_on_a_stick/staff_of_fire"
 	},
 	"elements": [

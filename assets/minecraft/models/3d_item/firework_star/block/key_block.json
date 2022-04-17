@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"layer1": "item/firework_star_overlay/block/key_block_front",
-		"particle": "item/firework_star_overlay/block/key_block",
-		"layer2": "item/firework_star_overlay/block/key_block",
-		"layer3": "item/firework_star_overlay/block/key_block_barrier"
+		"layer1": "3d_item/firework_star/block/key_block_front",
+		"particle": "3d_item/firework_star/block/key_block",
+		"layer2": "3d_item/firework_star/block/key_block",
+		"layer3": "3d_item/firework_star/block/key_block_barrier"
 	},
 	"elements": [
 		{

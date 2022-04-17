@@ -2,8 +2,8 @@
 	"credit": "Made in TUSB",
 	"texture_size": [32, 32],
 	"textures": {
-		"layer1": "item/firework_star_overlay/bullet/thorn_iron_ball",
-		"particle": "item/firework_star_overlay/bullet/thorn_iron_ball"
+		"layer1": "3d_item/firework_star/bullet/thorn_iron_ball",
+		"particle": "3d_item/firework_star/bullet/thorn_iron_ball"
 	},
 	"elements": [
 		{

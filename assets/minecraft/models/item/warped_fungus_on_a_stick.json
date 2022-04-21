@@ -19,6 +19,7 @@
         { "predicate": {"custom_model_data": 13}, "model": "3d_item/warped_fungus_on_a_stick/witch_hat_yellow"},
         { "predicate": {"custom_model_data": 14}, "model": "3d_item/warped_fungus_on_a_stick/witch_hat_blue"},
         { "predicate": {"custom_model_data": 15}, "model": "3d_item/warped_fungus_on_a_stick/witch_hat_white"},
+        { "predicate": {"custom_model_data": 16}, "model": "3d_item/warped_fungus_on_a_stick/villager_nose"},
         { "predicate": {"custom_model_data": 1001}, "model": "3d_item/warped_fungus_on_a_stick/block/portal"},
         { "predicate": {"custom_model_data": 1002}, "model": "3d_item/warped_fungus_on_a_stick/block/fire"},
         { "predicate": {"custom_model_data": 1003}, "model": "3d_item/warped_fungus_on_a_stick/block/soul_fire"},

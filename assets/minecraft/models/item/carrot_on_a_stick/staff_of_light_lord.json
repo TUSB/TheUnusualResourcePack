@@ -1,6 +1,0 @@
-{
-    "parent": "parent/handheld_rod/2x",
-    "textures": {
-        "layer0": "item/carrot_on_a_stick/staff_of_light_lord"
-    }
-}

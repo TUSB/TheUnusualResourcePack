@@ -81,6 +81,7 @@
         { "predicate": {"custom_model_data": 73}, "model": "item/carrot_on_a_stick/staff_of_light"},
         { "predicate": {"custom_model_data": 74}, "model": "item/carrot_on_a_stick/staff_of_dark"},
         { "predicate": {"custom_model_data": 80}, "model": "item/carrot_on_a_stick/blue_eyes_nantoka_dragon"},
+        { "predicate": {"custom_model_data": 81}, "model": "item/carrot_on_a_stick/banana_peel"},
         { "predicate": {"custom_model_data": 1000}, "model": "3d_item/carrot_on_a_stick/entity/scarecrow_doll"}
     ]
 }

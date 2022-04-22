@@ -1,6 +1,13 @@
 {
     "parent": "item/handheld",
+    "display": {
+        "ground": {
+            "translation": [ 0, -3, 0],
+            "scale": [ 1.2, 1.2, 1.2]
+        }
+    },
     "textures": {
-        "layer0": "item/carrot_on_a_stick/a_chin_egg"
+        "layer0": "item/carrot_on_a_stick/a_chin_egg",
+        "particle": "item/carrot_on_a_stick/a_chin_egg"
     }
 }

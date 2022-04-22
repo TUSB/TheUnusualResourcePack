@@ -1,5 +1,11 @@
 {
     "parent": "item/handheld",
+    "display": {
+        "ground": {
+            "translation": [ 0, -3, 0],
+            "scale": [ 1.2, 1.2, 1.2]
+        }
+    },
     "textures": {
         "layer0": "item/sugar_cane",
         "layer1": "item/carrot_on_a_stick/a_sugar_cane_menace",

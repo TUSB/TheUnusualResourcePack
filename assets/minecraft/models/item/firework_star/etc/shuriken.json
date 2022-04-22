@@ -1,5 +1,11 @@
 {
     "parent": "item/generated",
+    "display": {
+        "ground": {
+            "translation": [ 0, -3, 0],
+            "scale": [ 1.2, 1.2, 1.2]
+        }
+    },
     "textures": {
         "layer0": "item/firework_star/clear_dots",
         "layer1": "item/firework_star_overlay/etc/shuriken"

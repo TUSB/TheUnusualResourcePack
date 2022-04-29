@@ -1,0 +1,6 @@
+{
+    "parent": "parent/handheld_rod_flipped/1x",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick/green_carrot"
+    }
+}

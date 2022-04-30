@@ -116,6 +116,7 @@
         { "predicate": {"custom_model_data": 136}, "model": "3d_item/firework_star/bullet/common_bomb_2"},
         { "predicate": {"custom_model_data": 137}, "model": "3d_item/firework_star/bullet/common_bomb_3"},
         { "predicate": {"custom_model_data": 138}, "model": "3d_item/firework_star/bullet/common_bomb_4"},
+        { "predicate": {"custom_model_data": 150}, "model": "3d_item/firework_star/bullet/tarai"},
         { "predicate": {"custom_model_data": 1001}, "model": "3d_item/firework_star/entity/predictor"},
         { "predicate": {"custom_model_data": 1002}, "model": "3d_item/firework_star/entity/fire_demon_wait"},
         { "predicate": {"custom_model_data": 1003}, "model": "3d_item/firework_star/entity/pot_of_chaos"},

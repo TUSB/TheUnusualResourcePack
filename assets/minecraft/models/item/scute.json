@@ -5,6 +5,18 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "3d_item/scute/entity/shark_normal"},
-        { "predicate": {"custom_model_data": 2}, "model": "3d_item/scute/entity/oak_tree"}
+        { "predicate": {"custom_model_data": 2}, "model": "3d_item/scute/entity/oak_tree"},
+        { "predicate": {"custom_model_data": 3}, "model": "3d_item/scute/entity/mushroom/red_model1"},
+        { "predicate": {"custom_model_data": 4}, "model": "3d_item/scute/entity/mushroom/blue_purple_model1"},
+        { "predicate": {"custom_model_data": 5}, "model": "3d_item/scute/entity/mushroom/brown_model1"},
+        { "predicate": {"custom_model_data": 6}, "model": "3d_item/scute/entity/mushroom/green_model1"},
+        { "predicate": {"custom_model_data": 7}, "model": "3d_item/scute/item/mushroom/red_model1"},
+        { "predicate": {"custom_model_data": 8}, "model": "3d_item/scute/item/mushroom/blue_purple_model1"},
+        { "predicate": {"custom_model_data": 9}, "model": "3d_item/scute/item/mushroom/brown_model1"},
+        { "predicate": {"custom_model_data": 10}, "model": "3d_item/scute/item/mushroom/green_model1"},
+        { "predicate": {"custom_model_data": 11}, "model": "3d_item/scute/entity/mushroom/gold_model1"},
+        { "predicate": {"custom_model_data": 12}, "model": "3d_item/scute/item/mushroom/gold_model1"},
+        { "predicate": {"custom_model_data": 13}, "model": "3d_item/scute/entity/mushroom/kaentake_model1"},
+        { "predicate": {"custom_model_data": 14}, "model": "3d_item/scute/item/mushroom/kaentake_model1"}
     ]
 }

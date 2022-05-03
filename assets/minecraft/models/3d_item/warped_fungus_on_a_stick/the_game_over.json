@@ -1,11 +1,54 @@
 {
 	"credit": "Made by AnminMakura",
 	"textures": {
-		"layer1": "3d_item/warped_fungus_on_a_stick/the_game_over",
-		"particle": "3d_item/warped_fungus_on_a_stick/the_game_over"
+		"particle": "3d_item/warped_fungus_on_a_stick/the_game_over",
+		"layer1": "3d_item/warped_fungus_on_a_stick/the_game_over"
 	},
 	"elements": [
 		{
+			"name": "e1",
+			"from": [0, 7.5, 16],
+			"to": [16, 8.5, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 2], "texture": "#layer1"},
+				"east": {"uv": [0, 16, 0, 16], "texture": "#layer1"},
+				"south": {"uv": [0, 0, 1, 2], "texture": "#layer1"},
+				"west": {"uv": [0, 16, 0, 16], "texture": "#layer1"},
+				"up": {"uv": [0, 16, 0, 16], "texture": "#layer1"},
+				"down": {"uv": [0, 16, 0, 16], "texture": "#layer1"}
+			}
+		},
+		{
+			"name": "e2",
+			"from": [16, 7.5, 0],
+			"to": [16, 8.5, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 2], "texture": "#layer1"},
+				"east": {"uv": [0, 0, 16, 2], "texture": "#layer1"},
+				"south": {"uv": [0, 0, 1, 2], "texture": "#layer1"},
+				"west": {"uv": [16, 0, 0, 2], "texture": "#layer1"},
+				"up": {"uv": [0, 16, 0, 16], "texture": "#layer1"},
+				"down": {"uv": [0, 16, 0, 16], "texture": "#layer1"}
+			}
+		},
+		{
+			"name": "e3",
+			"from": [0, 7.5, 0],
+			"to": [0, 8.5, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 2], "texture": "#layer1"},
+				"east": {"uv": [0, 0, 16, 2], "texture": "#layer1"},
+				"south": {"uv": [0, 0, 1, 2], "texture": "#layer1"},
+				"west": {"uv": [16, 0, 0, 2], "texture": "#layer1"},
+				"up": {"uv": [0, 16, 0, 16], "texture": "#layer1"},
+				"down": {"uv": [0, 16, 0, 16], "texture": "#layer1"}
+			}
+		},
+		{
+			"name": "mask_left",
 			"from": [8, 5, 0],
 			"to": [16, 11, 0],
 			"rotation": {"angle": 0, "axis": "y", "origin": [12, 8, 0]},
@@ -19,6 +62,7 @@
 			}
 		},
 		{
+			"name": "mask_right",
 			"from": [0, 5, 0],
 			"to": [8, 11, 0],
 			"rotation": {"angle": 0, "axis": "y", "origin": [4, 8, 0]},
@@ -29,44 +73,6 @@
 				"west": {"uv": [0, 0, 0, 8], "texture": "#layer1"},
 				"up": {"uv": [0, 0, 16, 0], "texture": "#layer1"},
 				"down": {"uv": [0, 0, 16, 0], "texture": "#layer1"}
-			}
-		},
-		{
-			"from": [16, 7, 0],
-			"to": [16, 9, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [16, 8, 8]},
-			"faces": {
-				"north": {"uv": [0, 0, 0, 2], "texture": "#missing"},
-				"east": {"uv": [-6, 0, 16, 2], "texture": "#layer1"},
-				"south": {"uv": [0, 0, 0, 2], "texture": "#missing"},
-				"west": {"uv": [16, 0, -10, 2], "texture": "#layer1"},
-				"up": {"uv": [0, 0, 0, 16], "texture": "#missing"},
-				"down": {"uv": [0, 0, 0, 16], "texture": "#missing"}
-			}
-		},
-		{
-			"from": [0, 7, 0],
-			"to": [0, 9, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 8]},
-			"faces": {
-				"north": {"uv": [0, 0, 0, 2], "texture": "#missing"},
-				"east": {"uv": [-10, 0, 16, 2], "texture": "#layer1"},
-				"south": {"uv": [0, 0, 0, 2], "texture": "#missing"},
-				"west": {"uv": [16, 0, -6, 2], "texture": "#layer1"},
-				"up": {"uv": [0, 0, 0, 16], "texture": "#missing"},
-				"down": {"uv": [0, 0, 0, 16], "texture": "#missing"}
-			}
-		},
-		{
-			"from": [0, 7, 16],
-			"to": [16, 9, 16],
-			"faces": {
-				"north": {"uv": [0, 0, 1, 2], "texture": "#layer1"},
-				"east": {"uv": [0, 16, 0, 16], "texture": "#layer1"},
-				"south": {"uv": [0, 0, 1, 2], "texture": "#layer1"},
-				"west": {"uv": [0, 16, 0, 16], "texture": "#layer1"},
-				"up": {"uv": [0, 16, 0, 16], "texture": "#layer1"},
-				"down": {"uv": [0, 16, 0, 16], "texture": "#layer1"}
 			}
 		}
 	],
@@ -97,5 +103,23 @@
 			"rotation": [30, 225, 0],
 			"scale": [0.65, 0.65, 0.65]
 		}
-	}
+	},
+	"groups": [
+		{
+			"name": "elastic_cord",
+			"origin": [16, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [0, 1, 2]
+		},
+		{
+			"name": "mask",
+			"origin": [12, 8, 0],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [3, 4]
+		}
+	]
 }

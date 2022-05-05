@@ -2,11 +2,12 @@
 	"credit": "Made by AnminMakura",
 	"texture_size": [64, 64],
 	"textures": {
-		"layer1": "3d_item/carrot_on_a_stick/salmon_susi",
-		"particle": "3d_item/carrot_on_a_stick/salmon_susi"
+		"particle": "3d_item/carrot_on_a_stick/salmon_susi",
+		"layer1": "3d_item/carrot_on_a_stick/salmon_susi"
 	},
 	"elements": [
 		{
+			"name": "cooked_rice",
 			"from": [0, 0, -4],
 			"to": [16, 8, 20],
 			"faces": {
@@ -19,37 +20,40 @@
 			}
 		},
 		{
+			"name": "s1",
 			"from": [-1, 6, -2],
 			"to": [17, 12, 18],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 4.5, 1.5], "texture": "#missing"},
+				"north": {"uv": [0, 0, 4.5, 1.5], "texture": "#layer1"},
 				"east": {"uv": [16, 5.5, 0, 8], "texture": "#layer1"},
-				"south": {"uv": [0, 0, 4.5, 1.5], "texture": "#missing"},
+				"south": {"uv": [0, 0, 4.5, 1.5], "texture": "#layer1"},
 				"west": {"uv": [0, 2.5, 16, 0], "texture": "#layer1"},
 				"up": {"uv": [0, 2.5, 16, 5.5], "rotation": 90, "texture": "#layer1"},
 				"down": {"uv": [16, 5.5, 0, 2.5], "rotation": 90, "texture": "#layer1"}
 			}
 		},
 		{
+			"name": "s2",
 			"from": [-0.925, 6, -13],
 			"to": [16.925, 12, -2],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 12, -2]},
 			"faces": {
 				"north": {"uv": [2.5, 2.5, 13.5, 5.5], "rotation": 90, "texture": "#layer1"},
 				"east": {"uv": [16, 5.5, 2.5, 8], "texture": "#layer1"},
-				"south": {"uv": [0, 0, 4.48125, 1.5], "texture": "#missing"},
+				"south": {"uv": [0, 0, 4.48125, 1.5], "texture": "#layer1"},
 				"west": {"uv": [2.5, 2.5, 16, 0], "texture": "#layer1"},
 				"up": {"uv": [2.5, 2.5, 16, 5.5], "rotation": 90, "texture": "#layer1"},
 				"down": {"uv": [2.5, 5.5, 16, 2.5], "rotation": 90, "texture": "#layer1"}
 			}
 		},
 		{
+			"name": "s3",
 			"from": [-0.975, 6, 18],
 			"to": [16.95, 12, 29],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 12, 18]},
 			"faces": {
-				"north": {"uv": [0, 0, 4.48125, 1.5], "texture": "#missing"},
+				"north": {"uv": [0, 0, 4.48125, 1.5], "texture": "#layer1"},
 				"east": {"uv": [16, 5.5, 0, 8], "texture": "#layer1"},
 				"south": {"uv": [2.5, 2.5, 13.5, 5.5], "rotation": 90, "texture": "#layer1"},
 				"west": {"uv": [0, 2.5, 13.5, 0], "texture": "#layer1"},
@@ -98,14 +102,23 @@
 		}
 	},
 	"groups": [
-		0,
 		{
-			"name": "group",
-			"origin": [8, 11, 8],
+			"name": "all",
+			"origin": [0, 0, 0],
 			"color": 0,
 			"nbt": "{}",
 			"armAnimationEnabled": false,
-			"children": [1, 2, 3]
+			"children": [
+				0,
+				{
+					"name": "sushi_topping",
+					"origin": [8, 11, 8],
+					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
+					"children": [1, 2, 3]
+				}
+			]
 		}
 	]
 }

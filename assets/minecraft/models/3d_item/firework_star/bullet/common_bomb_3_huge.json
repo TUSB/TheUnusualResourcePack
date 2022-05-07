@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by AnminMakura",
 	"texture_size": [32, 32],
 	"textures": {
 		"particle": "3d_item/firework_star/bullet/common_bomb",
@@ -427,7 +427,7 @@
 			"scale": [0.6, 0.6, 0.6]
 		},
 		"head": {
-			"translation": [0, -0.75, 0],
+			"translation": [0, -12.75, 0],
 			"scale": [3.5, 3.5, 3.5]
 		},
 		"fixed": {

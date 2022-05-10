@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cookie"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/cookie/wafer_skylands"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/cookie/wafer_ice"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/cookie/wafer_nether"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/cookie/wafer_gulliver"},
+        { "predicate": {"custom_model_data": 5}, "model": "item/cookie/wafer_cloudia"}
+    ]
+}

@@ -112,6 +112,7 @@
         { "predicate": {"custom_model_data": 128}, "model": "item/firework_star/etc/bone_bullet"},
         { "predicate": {"custom_model_data": 131}, "model": "item/firework_star/etc/throwing_knife"},
         { "predicate": {"custom_model_data": 132}, "model": "item/firework_star/etc/color_egg"},
+        { "predicate": {"custom_model_data": 134}, "model": "3d_item/firework_star/bullet/laser_shot"},
         { "predicate": {"custom_model_data": 135}, "model": "3d_item/firework_star/bullet/common_bomb_1"},
         { "predicate": {"custom_model_data": 136}, "model": "3d_item/firework_star/bullet/common_bomb_2"},
         { "predicate": {"custom_model_data": 137}, "model": "3d_item/firework_star/bullet/common_bomb_3"},

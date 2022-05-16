@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/common.png",
+            "file": "minecraft:font/icon/job/common.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -11,7 +11,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/mana.png",
+            "file": "minecraft:font/icon/status/mana.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -20,7 +20,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/knight.png",
+            "file": "minecraft:font/icon/job/knight.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -29,7 +29,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/ninja.png",
+            "file": "minecraft:font/icon/job/ninja.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -38,7 +38,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/hunter.png",
+            "file": "minecraft:font/icon/job/hunter.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -47,7 +47,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/white_mage.png",
+            "file": "minecraft:font/icon/job/white_mage.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -56,7 +56,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/black_mage.png",
+            "file": "minecraft:font/icon/job/black_mage.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -65,7 +65,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/summoner.png",
+            "file": "minecraft:font/icon/job/summoner.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -74,7 +74,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/puppet_master.png",
+            "file": "minecraft:font/icon/job/puppet_master.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -83,7 +83,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/thief.png",
+            "file": "minecraft:font/icon/job/thief.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -92,7 +92,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/physical.png",
+            "file": "minecraft:font/icon/element/physical.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -101,7 +101,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/fire.png",
+            "file": "minecraft:font/icon/element/fire.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -110,7 +110,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/ice.png",
+            "file": "minecraft:font/icon/element/ice.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -119,7 +119,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/lightning.png",
+            "file": "minecraft:font/icon/element/lightning.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -128,7 +128,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/light.png",
+            "file": "minecraft:font/icon/element/light.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -137,7 +137,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/dark.png",
+            "file": "minecraft:font/icon/element/dark.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -146,7 +146,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/health.png",
+            "file": "minecraft:font/icon/status/health.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -155,7 +155,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/defense.png",
+            "file": "minecraft:font/icon/status/defense.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -164,7 +164,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/special_attack.png",
+            "file": "minecraft:font/icon/status/special_attack.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -173,7 +173,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/special_defense.png",
+            "file": "minecraft:font/icon/status/special_defense.png",
             "height": 8,
             "ascent": 8,
             "chars": [

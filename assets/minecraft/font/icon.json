@@ -110,7 +110,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/icon/cold.png",
+            "file": "minecraft:font/icon/ice.png",
             "height": 8,
             "ascent": 8,
             "chars": [
@@ -142,6 +142,42 @@
             "ascent": 8,
             "chars": [
             "d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/health.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "h"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/defense.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/special_attack.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/special_defense.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "D"
             ]
         }
     ]

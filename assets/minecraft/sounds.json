@@ -99,10 +99,5 @@
       "empty"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
-  },
-  "tusb.levelup": {
-    "sounds": [
-      "random/levelup"
-    ]
   }
 }

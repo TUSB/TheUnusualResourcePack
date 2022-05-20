@@ -219,6 +219,35 @@
                 "pull": 0.9
             },
             "model": "item/bow/evil_eye_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "item/bow/nermai_resanter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12,
+                "pulling": 1
+            },
+            "model": "item/bow/nermai_resanter_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/bow/nermai_resanter_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/bow/nermai_resanter_pulling_2"
         }
     ]
 }

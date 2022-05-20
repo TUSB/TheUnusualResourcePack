@@ -5,6 +5,10 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "3d_item/armor_stand/sign/trading_engraving_plate"},
-        { "predicate": {"custom_model_data": 2}, "model": "3d_item/armor_stand/sign/transfer_engraving_plate"}
+        { "predicate": {"custom_model_data": 2}, "model": "3d_item/armor_stand/sign/transfer_engraving_plate"},
+        { "predicate": {"custom_model_data": 17}, "model": "3d_item/armor_stand/sign/protective_chain_armor_engraving_plate"},
+        { "predicate": {"custom_model_data": 18}, "model": "3d_item/armor_stand/sign/protective_iron_armor_engraving_plate"},
+        { "predicate": {"custom_model_data": 19}, "model": "3d_item/armor_stand/sign/protective_diamond_armor_engraving_plate"},
+        { "predicate": {"custom_model_data": 20}, "model": "3d_item/armor_stand/sign/protective_netherite_armor_engraving_plate"}
     ]
 }

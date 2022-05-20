@@ -124,6 +124,8 @@
         { "predicate": {"custom_model_data": 1004}, "model": "3d_item/firework_star/entity/garbage_can_demon"},
         { "predicate": {"custom_model_data": 2001}, "model": "3d_item/firework_star/bullet/tnt"},
         { "predicate": {"custom_model_data": 3001}, "model": "3d_item/firework_star/block/key_block"},
+        { "predicate": {"custom_model_data": 4001}, "model": "item/firework_star/etc/warning"},
+        { "predicate": {"custom_model_data": 4001}, "model": "item/firework_star/etc/warning"},
         { "predicate": {"custom_model_data": 10001}, "model": "item/firework_star/fire/add_fire_huge"},
         { "predicate": {"custom_model_data": 10002}, "model": "item/firework_star/fire/add_ice_huge"},
         { "predicate": {"custom_model_data": 10003}, "model": "item/firework_star/fire/add_lightning_huge"},

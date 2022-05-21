@@ -22,19 +22,6 @@
                 "cast": 1
             },
             "model": "item/fishing_rod/good_fishing_rod_cast"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2
-            },
-            "model": "item/fishing_rod/amazing_fishing_rods"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2,
-                "cast": 1
-            },
-            "model": "item/fishing_rod/amazing_fishing_rods_cast"
         }
     ]
 }

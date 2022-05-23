@@ -122,6 +122,7 @@
         { "predicate": {"custom_model_data": 1002}, "model": "3d_item/firework_star/entity/fire_demon_wait"},
         { "predicate": {"custom_model_data": 1003}, "model": "3d_item/firework_star/entity/pot_of_chaos"},
         { "predicate": {"custom_model_data": 1004}, "model": "3d_item/firework_star/entity/garbage_can_demon"},
+        { "predicate": {"custom_model_data": 1005}, "model": "3d_item/firework_star/entity/heavenly_messenger"},
         { "predicate": {"custom_model_data": 2001}, "model": "3d_item/firework_star/bullet/tnt"},
         { "predicate": {"custom_model_data": 3001}, "model": "3d_item/firework_star/block/key_block"},
         { "predicate": {"custom_model_data": 4001}, "model": "item/firework_star/etc/warning"},

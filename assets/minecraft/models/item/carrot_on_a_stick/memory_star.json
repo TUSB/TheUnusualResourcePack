@@ -1,5 +1,5 @@
 {
-    "parent": "parent/accessories/1_2x",
+    "parent": "item/generated",
     "textures": {
         "layer0": "item/carrot_on_a_stick/memory_star"
     }

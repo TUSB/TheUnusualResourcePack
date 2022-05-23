@@ -86,6 +86,9 @@
         { "predicate": {"custom_model_data": 1000}, "model": "3d_item/carrot_on_a_stick/entity/scarecrow_doll"},
         { "predicate": {"custom_model_data": 1001}, "model": "3d_item/carrot_on_a_stick/entity/salmon_susi"},
         { "predicate": {"custom_model_data": 1002}, "model": "3d_item/carrot_on_a_stick/entity/sun_eater"},
+        { "predicate": {"custom_model_data": 2000}, "model": "item/carrot_on_a_stick/memory_star"},
+        { "predicate": {"custom_model_data": 2000}, "model": "item/carrot_on_a_stick/memory_star"},
+        { "predicate": {"custom_model_data": 2000}, "model": "item/carrot_on_a_stick/memory_star"},
         { "predicate": {"custom_model_data": 2000}, "model": "item/carrot_on_a_stick/memory_star"}
     ]
 }

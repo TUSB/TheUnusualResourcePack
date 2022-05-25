@@ -400,7 +400,7 @@
 		},
 		"head": {
 			"translation": [0, -22.5, 0],
-			"scale": [0.5, 0.5, 0.7]
+			"scale": [0.5, 0.5, 1]
 		},
 		"fixed": {
 			"translation": [0, 0, -16.75],

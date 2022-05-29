@@ -7,6 +7,7 @@
         { "predicate": {"custom_model_data": 1}, "model": "item/golden_apple/edible_gold"},
         { "predicate": {"custom_model_data": 2}, "model": "item/golden_apple/edible_iron"},
         { "predicate": {"custom_model_data": 3}, "model": "item/golden_apple/edible_copper"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/golden_apple/redstone_onigiri"},
         { "predicate": {"custom_model_data": 4}, "model": "item/golden_apple/konpeito"}
     ]
 }

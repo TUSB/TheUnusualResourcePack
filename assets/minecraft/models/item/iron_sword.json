@@ -10,6 +10,7 @@
         { "predicate": {"custom_model_data": 4}, "model": "item/iron_sword/argentum"},
         { "predicate": {"custom_model_data": 5}, "model": "item/iron_sword/a_death_flag"},
         { "predicate": {"custom_model_data": 6}, "model": "item/iron_sword/voltec_saber"},
-        { "predicate": {"custom_model_data": 7}, "model": "item/iron_sword/monohosizao"}
+        { "predicate": {"custom_model_data": 7}, "model": "item/iron_sword/monohosizao"},
+        { "predicate": {"custom_model_data": 8}, "model": "item/iron_sword/ninja_sword"}
     ]
 }

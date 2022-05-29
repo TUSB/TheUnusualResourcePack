@@ -5,7 +5,7 @@
 		"layer1": "block/water_flow",
 		"layer2": "block/water_still",
 		"layer3": "3d_item/common/clear_dots",
-		"layer4": "3d_item/firework_star/entity/heavenly_messenger_eye"
+		"layer4": "3d_item/firework_star/entity/monster_eye"
 	},
 	"elements": [
 		{

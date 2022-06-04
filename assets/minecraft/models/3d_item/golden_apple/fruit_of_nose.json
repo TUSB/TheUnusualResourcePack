@@ -1,0 +1,55 @@
+{
+	"credit": "Made by AnminMakura",
+	"textures": {
+		"particle": "3d_item/warped_fungus_on_a_stick/villager_nose",
+		"layer1": "3d_item/warped_fungus_on_a_stick/villager_nose"
+	},
+	"elements": [
+		{
+			"name": "nose",
+			"from": [6.875, 5.975, 7],
+			"to": [9.125, 10.1, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 8, 12], "texture": "#layer1"},
+				"east": {"uv": [8, 4, 12, 12], "texture": "#layer1"},
+				"south": {"uv": [12, 4, 16, 12], "texture": "#layer1"},
+				"west": {"uv": [0, 4, 4, 12], "texture": "#layer1"},
+				"up": {"uv": [8, 0, 12, 4], "texture": "#layer1"},
+				"down": {"uv": [4, 0, 8, 4], "texture": "#layer1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 0, 0],
+			"translation": [0, 0.75, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 0, 0],
+			"translation": [0, 0.75, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 225, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"ground": {
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"translation": [0, -8, -8],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"scale": [2, 2, 2]
+		}
+	}
+}

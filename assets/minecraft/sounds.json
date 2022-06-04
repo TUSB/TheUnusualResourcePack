@@ -10,12 +10,6 @@
     ],
     "subtitle": "subtitles.block.generic.break"
   },
-  "entity.player.levelup": {
-    "replace": true,
-    "sounds": [
-      "empty"
-    ]
-  },
   "entity.zombie_villager.ambient": {"replace": true,
     "sounds": [
       {

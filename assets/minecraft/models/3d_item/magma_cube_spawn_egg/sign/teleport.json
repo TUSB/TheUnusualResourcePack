@@ -1,9 +1,9 @@
 {
 	"credit": "Made by AnminMakura",
 	"textures": {
-		"particle": "entity/signs/acacia",
-		"layer1": "entity/signs/acacia",
-		"layer2": "3d_item/armor_stand/sign/trading_sign",
+		"particle": "entity/signs/warped",
+		"layer1": "entity/signs/warped",
+		"layer2": "font/sign/teleport",
 		"layer3": "3d_item/common/clear_dots"
 	},
 	"elements": [

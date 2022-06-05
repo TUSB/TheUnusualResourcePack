@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:3d_item/armor_stand/sign/trading_sign.png",
+            "file": "minecraft:font/sign/trade.png",
             "height": 36,
             "ascent": 36,
             "chars": [
@@ -11,7 +11,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:3d_item/armor_stand/sign/transfer_sign.png",
+            "file": "minecraft:font/sign/teleport.png",
             "height": 36,
             "ascent": 36,
             "chars": [

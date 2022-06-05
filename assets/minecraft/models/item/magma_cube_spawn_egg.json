@@ -1,0 +1,10 @@
+{
+    "parent": "item/template_spawn_egg",
+    "textures": {
+        "layer0": "item/magma_cube_spawn_egg"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "3d_item/magma_cube_spawn_egg/sign/trade"},
+        { "predicate": {"custom_model_data": 2}, "model": "3d_item/magma_cube_spawn_egg/sign/teleport"}
+    ]
+}

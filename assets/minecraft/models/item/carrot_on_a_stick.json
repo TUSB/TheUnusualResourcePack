@@ -84,6 +84,7 @@
         { "predicate": {"custom_model_data": 81}, "model": "item/carrot_on_a_stick/banana_peel"},
         { "predicate": {"custom_model_data": 82}, "model": "item/carrot_on_a_stick/green_carrot"},
         { "predicate": {"custom_model_data": 111}, "model": "item/carrot_on_a_stick/fluffy"},
+        { "predicate": {"custom_model_data": 112}, "model": "3d_item/carrot_on_a_stick/weapon/morning_star"},
         { "predicate": {"custom_model_data": 1000}, "model": "3d_item/carrot_on_a_stick/entity/scarecrow_doll"},
         { "predicate": {"custom_model_data": 1001}, "model": "3d_item/carrot_on_a_stick/entity/salmon_susi"},
         { "predicate": {"custom_model_data": 1002}, "model": "3d_item/carrot_on_a_stick/entity/sun_eater"},

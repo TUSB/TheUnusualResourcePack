@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/nautilus_shell",
+        "layer1": "item/aura/light/silver"
+    }
+}

@@ -8,6 +8,9 @@
         { "predicate": {"custom_model_data": 2}, "model": "item/cookie/wafer_ice"},
         { "predicate": {"custom_model_data": 3}, "model": "item/cookie/wafer_nether"},
         { "predicate": {"custom_model_data": 4}, "model": "item/cookie/wafer_gulliver"},
-        { "predicate": {"custom_model_data": 5}, "model": "item/cookie/wafer_cloudia"}
+        { "predicate": {"custom_model_data": 5}, "model": "item/cookie/wafer_cloudia"},
+        { "predicate": {"custom_model_data": 20}, "model": "item/cookie/beef_jerky"},
+        { "predicate": {"custom_model_data": 21}, "model": "item/cookie/marmite"},
+        { "predicate": {"custom_model_data": 22}, "model": "item/cookie/chocolate_chip"}
     ]
 }

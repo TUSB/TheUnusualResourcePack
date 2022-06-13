@@ -101,6 +101,7 @@
         { "predicate": {"custom_model_data": 2000}, "model": "item/carrot_on_a_stick/memory_star"},
         { "predicate": {"custom_model_data": 2001}, "model": "item/carrot_on_a_stick/bug_memory_star"},
         { "predicate": {"custom_model_data": 2001}, "model": "item/carrot_on_a_stick/bug_memory_star"},
+        { "predicate": {"custom_model_data": 2001}, "model": "item/carrot_on_a_stick/bug_memory_star"},
         { "predicate": {"custom_model_data": 2001}, "model": "item/carrot_on_a_stick/bug_memory_star"}
     ]
 }

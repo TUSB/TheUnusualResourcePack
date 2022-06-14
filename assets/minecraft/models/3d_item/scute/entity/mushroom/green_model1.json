@@ -738,6 +738,7 @@
 		}
 	],
 	"gui_light": "front",
+	"gui_light": "front",
 	"display": {
 		"ground": {
 			"translation": [0, 11, 0]

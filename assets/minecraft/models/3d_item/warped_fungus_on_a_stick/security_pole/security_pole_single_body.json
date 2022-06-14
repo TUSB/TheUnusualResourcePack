@@ -135,6 +135,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"firstperson_righthand": {
 			"rotation": [0, 45, 0]

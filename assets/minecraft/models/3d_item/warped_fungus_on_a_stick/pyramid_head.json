@@ -188,6 +188,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"ground": {
 			"rotation": [23, 0, 0],

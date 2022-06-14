@@ -2,8 +2,8 @@
 	"credit": "Made by AnminMakura",
 	"texture_size": [64, 64],
 	"textures": {
-		"particle": "3d_item/carrot_on_a_stick/salmon_susi",
-		"layer1": "3d_item/carrot_on_a_stick/salmon_susi"
+		"particle": "3d_item/carrot_on_a_stick/entity/salmon_susi",
+		"layer1": "3d_item/carrot_on_a_stick/entity/salmon_susi"
 	},
 	"elements": [
 		{

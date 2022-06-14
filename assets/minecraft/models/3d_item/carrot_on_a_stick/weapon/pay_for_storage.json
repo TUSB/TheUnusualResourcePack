@@ -2,7 +2,7 @@
 	"credit": "Made by AnminMakura",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "3d_item/carrot_on_a_stick/weapon/golden_chest"
+		"0": "3d_item/carrot_on_a_stick/weapon/pay_for_storage"
 	},
 	"elements": [
 		{
@@ -223,6 +223,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [15, 10, -10],

@@ -93,5 +93,477 @@
       "empty"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "ambient.cave_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave1"
+      }
+    ]
+  },
+  "ambient.cave_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave2"
+      }
+    ]
+  },
+  "ambient.cave_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave3"
+      }
+    ]
+  },
+  "ambient.cave_4": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave4"
+      }
+    ]
+  },
+  "ambient.cave_5": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave5"
+      }
+    ]
+  },
+  "ambient.cave_6": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave6"
+      }
+    ]
+  },
+  "ambient.cave_7": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave7"
+      }
+    ]
+  },
+  "ambient.cave_8": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave8"
+      }
+    ]
+  },
+  "ambient.cave_9": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave9"
+      }
+    ]
+  },
+  "ambient.cave_10": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave10"
+      }
+    ]
+  },
+  "ambient.cave_11": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave11"
+      }
+    ]
+  },
+  "ambient.cave_12": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave12"
+      }
+    ]
+  },
+  "ambient.cave_13": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave13"
+      }
+    ]
+  },
+  "ambient.cave_14": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave14"
+      }
+    ]
+  },
+  "ambient.cave_15": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave15"
+      }
+    ]
+  },
+  "ambient.cave_16": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave16"
+      }
+    ]
+  },
+  "ambient.cave_17": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave17"
+      }
+    ]
+  },
+  "ambient.cave_18": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave18"
+      }
+    ]
+  },
+  "ambient.cave_19": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave19"
+      }
+    ]
+  },
+  "ambient.underwater.loop.additions.ultra_rare_4": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/underwater/additions/dark4"
+      }
+    ]
+  },
+  "ambient.basalt_deltas.twist_4": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/basalt_deltas/twist4"
+      }
+    ]
+  },
+  "ambient.crimson_forest.shine_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/crimson_forest/shine1"
+      }
+    ]
+  },
+  "ambient.crimson_forest.shine_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/crimson_forest/shine2"
+      }
+    ]
+  },
+  "ambient.crimson_forest.shine_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/crimson_forest/shine3"
+      }
+    ]
+  },
+  "ambient.crimson_forest.mood_4": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/crimson_forest/mood4"
+      }
+    ]
+  },
+  "ambient.nether_waste.mood_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/nether_wastes/mood1"
+      }
+    ]
+  },
+  "ambient.nether_waste.mood_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/nether_wastes/mood2"
+      }
+    ]
+  },
+  "ambient.nether_waste.mood_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/nether_wastes/mood3"
+      }
+    ]
+  },
+  "ambient.nether_waste.mood_4": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/nether_wastes/mood4"
+      }
+    ]
+  },
+  "ambient.nether_waste.mood_5": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/nether_wastes/mood5"
+      }
+    ]
+  },
+  "ambient.warped_forest.mood_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/warped_forest/mood1"
+      }
+    ]
+  },
+  "ambient.warped_forest.mood_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/warped_forest/mood2"
+      }
+    ]
+  },
+  "ambient.warped_forest.mood_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/warped_forest/mood3"
+      }
+    ]
+  },
+  "ambient.warped_forest.mood_7": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/warped_forest/mood7"
+      }
+    ]
+  },
+  "ambient.warped_forest.mood_8": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/warped_forest/mood8"
+      }
+    ]
+  },
+  "ambient.warped_forest.mood_9": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/warped_forest/mood9"
+      }
+    ]
+  },
+  "block.enchantment_table.use_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/enchantment_table/enchant1"
+      }
+    ]
+  },
+  "block.enchantment_table.use_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/enchantment_table/enchant2"
+      }
+    ]
+  },
+  "block.enchantment_table.use_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/enchantment_table/enchant3"
+      }
+    ]
+  },
+  "block.end_portal_frame.fill_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/end_portal/eyeplace1"
+      }
+    ]
+  },
+  "block.end_portal_frame.fill_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/end_portal/eyeplace2"
+      }
+    ]
+  },
+  "block.end_portal_frame.fill_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/end_portal/eyeplace3"
+      }
+    ]
+  },
+  "block.grindstone.use_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/grindstone/grindstone1"
+      }
+    ]
+  },
+  "block.grindstone.use_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/grindstone/grindstone2"
+      }
+    ]
+  },
+  "block.grindstone.use_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/grindstone/grindstone3"
+      }
+    ]
+  },
+  "block.respawn_anchor.charge_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/respawn_anchor/charge1"
+      }
+    ]
+  },
+  "block.respawn_anchor.charge_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/respawn_anchor/charge2"
+      }
+    ]
+  },
+  "block.respawn_anchor.charge_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/respawn_anchor/charge3"
+      }
+    ]
+  },
+  "block.respawn_anchor.deplete_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/respawn_anchor/deplete1"
+      }
+    ]
+  },
+  "block.respawn_anchor.deplete_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/respawn_anchor/deplete2"
+      }
+    ]
+  },
+  "block.respawn_anchor.set_spawn_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/respawn_anchor/set_spawn1"
+      }
+    ]
+  },
+  "block.respawn_anchor.set_spawn_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/respawn_anchor/set_spawn2"
+      }
+    ]
+  },
+  "block.respawn_anchor.set_spawn_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/respawn_anchor/set_spawn3"
+      }
+    ]
+  },
+  "entity.evoker.cast_spell_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/evocation_illager/cast1"
+      }
+    ]
+  },
+  "entity.evoker.cast_spell_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/evocation_illager/cast2"
+      }
+    ]
+  },
+  "entity.evoker.prepare_attack_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/evocation_illager/prepare_attack1"
+      }
+    ]
+  },
+  "entity.evoker.prepare_attack_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/evocation_illager/prepare_attack2"
+      }
+    ]
+  },
+  "entity.illusioner.mirror_move_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/illusion_illager/mirror_move1"
+      }
+    ]
+  },
+  "entity.illusioner.mirror_move_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/illusion_illager/mirror_move2"
+      }
+    ]
   }
 }

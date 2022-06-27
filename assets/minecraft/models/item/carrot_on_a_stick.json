@@ -86,6 +86,7 @@
         { "predicate": {"custom_model_data": 99}, "model": "3d_item/carrot_on_a_stick/entity/jumping_board"},
         { "predicate": {"custom_model_data": 111}, "model": "item/carrot_on_a_stick/fluffy"},
         { "predicate": {"custom_model_data": 112}, "model": "3d_item/carrot_on_a_stick/weapon/morning_star"},
+        { "predicate": {"custom_model_data": 113}, "model": "item/carrot_on_a_stick/contraindicated_hell_drop"},
         { "predicate": {"custom_model_data": 114}, "model": "3d_item/carrot_on_a_stick/weapon/pay_for_storage"},
         { "predicate": {"custom_model_data": 118}, "model": "item/carrot_on_a_stick/anti_burn"},
         { "predicate": {"custom_model_data": 119}, "model": "item/carrot_on_a_stick/anti_freeze"},

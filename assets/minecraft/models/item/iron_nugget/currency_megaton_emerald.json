@@ -1,5 +1,5 @@
 {
-    "parent": "parent/accessories/1_2x",
+    "parent": "parent/accessories/1_5x",
     "textures": {
         "layer0": "item/iron_nugget/currency_megaton_emerald"
     }

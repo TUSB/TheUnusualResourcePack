@@ -1,5 +1,5 @@
 {
-    "parent": "item/generated",
+    "parent": "parent/accessories/1_0x",
     "textures": {
         "layer0": "item/gold_nugget/wave_of_element/gemstone"
     }

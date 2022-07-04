@@ -1,0 +1,30 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bundle"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "filled": 1e-07
+            },
+            "model": "item/bundle_filled"
+        },
+        { "predicate": {"custom_model_data": 1}, "model": "item/bundle/nether_star_bundle"},
+        {
+            "predicate": {
+                "custom_model_data": 1,
+                "filled": 1e-07
+            },
+            "model": "item/bundle/nether_star_bundle_filled"
+        },
+        { "predicate": {"custom_model_data": 2}, "model": "item/bundle/emerald_bundle"},
+        {
+            "predicate": {
+                "custom_model_data": 2,
+                "filled": 1e-07
+            },
+            "model": "item/bundle/emerald_bundle_filled"
+        }
+    ]
+}

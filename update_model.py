@@ -86,6 +86,8 @@ if __name__ == '__main__':
         model_list = ['','_arrow','_firework','_pulling_0','_pulling_1','_pulling_2']
       elif df.loc[i,'ID'] == 'fishing_rod':
         model_list = ['','_cast']
+      elif df.loc[i,'ID'] == 'bundle':
+        model_list = ['','_filled']
       else:
         model_list = ['']
 

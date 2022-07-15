@@ -142,6 +142,7 @@
         { "predicate": {"custom_model_data": 4001}, "model": "item/firework_star/etc/warning"},
         { "predicate": {"custom_model_data": 4001}, "model": "item/firework_star/etc/warning"},
         { "predicate": {"custom_model_data": 4001}, "model": "item/firework_star/etc/warning"},
+        { "predicate": {"custom_model_data": 4001}, "model": "item/firework_star/etc/warning"},
         { "predicate": {"custom_model_data": 10001}, "model": "item/firework_star/fire/add_fire_huge"},
         { "predicate": {"custom_model_data": 10002}, "model": "item/firework_star/fire/add_ice_huge"},
         { "predicate": {"custom_model_data": 10003}, "model": "item/firework_star/fire/add_lightning_huge"},

@@ -1,34 +1,5 @@
 {
     "parent": "parent/handheld_rod_flipped/1x",
-    "display": {
-        "thirdperson_righthand": {
-            "rotation": [ 100, 50, 0],
-            "translation": [ 7, 6.5, 12],
-            "scale": [ 2.5, 2.5, 1]
-        },
-        "thirdperson_lefthand": {
-            "rotation": [ 100, -130, 0],
-            "translation": [ 7, 6.5, 12],
-            "scale": [ 2.5, 2.5, 1]
-        },
-        "firstperson_righthand": {
-            "rotation": [ -15, -75, 25],
-            "translation": [ 3.5, 2, -1.5],
-            "scale": [ 2.5, 2.5, 1]
-        },
-        "firstperson_lefthand": {
-            "rotation": [ 14.5, -75, -25],
-            "translation": [ 3.5, 2, -1.5],
-            "scale": [ 2.5, 2.5, 1]
-        },
-        "ground": {
-            "translation": [ 0, 13, 0],
-            "scale": [ 2.5, 2.5, 1]
-        },
-        "fixed": {
-            "scale": [ 1.2, 1.2, 1]
-        }
-    },
     "textures": {
         "layer0": "item/carrot_on_a_stick/nebula_rod"
     }

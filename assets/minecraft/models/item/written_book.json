@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/written_book"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/written_book/meaning_of_color_name"}
+    ]
+}

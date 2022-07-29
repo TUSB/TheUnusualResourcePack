@@ -1,0 +1,7 @@
+{
+    "parent": "parent/accessories/1_0x",
+    "textures": {
+        "layer0": "item/written_book",
+        "layer1": "item/aura/light/element"
+    }
+}

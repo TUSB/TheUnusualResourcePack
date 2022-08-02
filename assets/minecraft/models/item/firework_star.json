@@ -247,8 +247,6 @@
         { "predicate": {"custom_model_data": 10135}, "model": "3d_item/firework_star/bullet/common_bomb_1_huge"},
         { "predicate": {"custom_model_data": 10136}, "model": "3d_item/firework_star/bullet/common_bomb_2_huge"},
         { "predicate": {"custom_model_data": 10137}, "model": "3d_item/firework_star/bullet/common_bomb_3_huge"},
-        { "predicate": {"custom_model_data": 10138}, "model": "3d_item/firework_star/bullet/common_bomb_4_huge"},
-        { "predicate": {"custom_model_data": 20001}, "model": "item/firework_star/fire/add_fire_maximum"},
         { "predicate": {"custom_model_data": 20002}, "model": "item/firework_star/fire/add_ice_maximum"},
         { "predicate": {"custom_model_data": 20003}, "model": "item/firework_star/fire/add_lightning_maximum"},
         { "predicate": {"custom_model_data": 20004}, "model": "item/firework_star/fire/add_light_maximum"},
@@ -347,6 +345,8 @@
         { "predicate": {"custom_model_data": 20097}, "model": "item/firework_star/dark/negative_violet_maximum"},
         { "predicate": {"custom_model_data": 20098}, "model": "item/firework_star/dark/negative_yellow_maximum"},
         { "predicate": {"custom_model_data": 20099}, "model": "item/firework_star/dark/negative_green_maximum"},
-        { "predicate": {"custom_model_data": 20100}, "model": "item/firework_star/dark/negative_white_maximum"}
+        { "predicate": {"custom_model_data": 20100}, "model": "item/firework_star/dark/negative_white_maximum"},
+        { "predicate": {"custom_model_data": 10138}, "model": "3d_item/firework_star/bullet/common_bomb_4_huge"},
+        { "predicate": {"custom_model_data": 20001}, "model": "item/firework_star/fire/add_fire_maximum"}
     ]
 }

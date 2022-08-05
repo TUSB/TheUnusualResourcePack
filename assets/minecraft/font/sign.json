@@ -17,6 +17,24 @@
             "chars": [
             "②"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/upgrade_white.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑪"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/upgrade_black.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑫"
+            ]
         }
     ]
 }

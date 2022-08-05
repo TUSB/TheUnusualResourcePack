@@ -1,0 +1,7 @@
+{
+    "parent": "parent/accessories/1_0x",
+    "textures": {
+        "layer0": "item/magma_cream",
+        "layer1": "item/aura/fire/addfire"
+    }
+}

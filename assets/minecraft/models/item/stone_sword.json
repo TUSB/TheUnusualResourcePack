@@ -6,6 +6,7 @@
     "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "item/stone_sword/fencil_stria"},
         { "predicate": {"custom_model_data": 2}, "model": "item/stone_sword/dillen_wise"},
-        { "predicate": {"custom_model_data": 3}, "model": "item/stone_sword/gram_sword"}
+        { "predicate": {"custom_model_data": 3}, "model": "item/stone_sword/gram_sword"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/stone_sword/broken_bottle_of_sake"}
     ]
 }

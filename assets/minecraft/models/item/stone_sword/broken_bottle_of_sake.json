@@ -1,0 +1,7 @@
+{
+    "parent": "parent/accessories/1_0x",
+    "textures": {
+        "layer0": "item/glass_bottle",
+        "layer1": "item/aura/lightning/silver"
+    }
+}

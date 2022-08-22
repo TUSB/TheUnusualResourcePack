@@ -131,6 +131,7 @@
         { "predicate": {"custom_model_data": 1007}, "model": "3d_item/firework_star/entity/large_vase_0"},
         { "predicate": {"custom_model_data": 1008}, "model": "3d_item/firework_star/entity/large_vase_1"},
         { "predicate": {"custom_model_data": 1009}, "model": "3d_item/firework_star/entity/large_vase_2"},
+        { "predicate": {"custom_model_data": 1010}, "model": "3d_item/firework_star/entity/huge_vase_0"},
         { "predicate": {"custom_model_data": 2001}, "model": "3d_item/firework_star/bullet/tnt"},
         { "predicate": {"custom_model_data": 3001}, "model": "3d_item/firework_star/block/key_block"},
         { "predicate": {"custom_model_data": 4001}, "model": "item/firework_star/etc/warning"},

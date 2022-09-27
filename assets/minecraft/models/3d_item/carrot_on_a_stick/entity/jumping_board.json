@@ -1,5 +1,5 @@
 {
-	"credit": "Made by AnminMakura",
+	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "3d_item/carrot_on_a_stick/entity/jumping_board",
@@ -309,8 +309,9 @@
 			"scale": [0.625, 0.625, 0.625]
 		},
 		"head": {
-			"translation": [0, -16.5, 0],
-			"scale": [2.3, 2.3, 2.3]
+			"rotation": [-90, 0, 0],
+			"translation": [0, -10, 0],
+			"scale": [2, 2, 2]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],

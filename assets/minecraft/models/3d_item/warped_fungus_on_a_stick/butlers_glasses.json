@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "3d_item/warped_fungus_on_a_stick/glasses",
-		"layer1": "3d_item/warped_fungus_on_a_stick/glasses"
+		"particle": "3d_item/warped_fungus_on_a_stick/butlers_glasses",
+		"layer1": "3d_item/warped_fungus_on_a_stick/butlers_glasses"
 	},
 	"elements": [
 		{
@@ -29,34 +29,6 @@
 				"east": {"uv": [16, 16, 16, 16], "texture": "#layer1"},
 				"south": {"uv": [8, 8, 0, 16], "texture": "#layer1"},
 				"west": {"uv": [16, 16, 16, 16], "texture": "#layer1"},
-				"up": {"uv": [16, 16, 16, 16], "texture": "#layer1"},
-				"down": {"uv": [16, 16, 16, 16], "texture": "#layer1"}
-			}
-		},
-		{
-			"name": "right_lens",
-			"from": [-1, 5, -0.001],
-			"to": [7, 13, -0.001],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.75, 3.9995]},
-			"faces": {
-				"north": {"uv": [16, 8, 8, 16], "texture": "#layer1"},
-				"east": {"uv": [16, 16, 16, 16], "texture": "#layer1"},
-				"south": {"uv": [8, 8, 16, 16], "texture": "#layer1"},
-				"west": {"uv": [16, 16, 16, 16], "texture": "#layer1"},
-				"up": {"uv": [16, 16, 16, 16], "texture": "#layer1"},
-				"down": {"uv": [16, 16, 16, 16], "texture": "#layer1"}
-			}
-		},
-		{
-			"name": "right_temple",
-			"from": [-2, 6, 0],
-			"to": [-2, 10, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.75, 3.9995]},
-			"faces": {
-				"north": {"uv": [16, 16, 16, 16], "texture": "#layer1"},
-				"east": {"uv": [0, 8, 16, 4], "texture": "#layer1"},
-				"south": {"uv": [16, 16, 16, 16], "texture": "#layer1"},
-				"west": {"uv": [16, 8, 0, 4], "texture": "#layer1"},
 				"up": {"uv": [16, 16, 16, 16], "texture": "#layer1"},
 				"down": {"uv": [16, 16, 16, 16], "texture": "#layer1"}
 			}
@@ -109,12 +81,12 @@
 	},
 	"groups": [
 		{
-			"name": "glasses",
+			"name": "butlers_glasses",
 			"origin": [4, 1.75, 5],
 			"color": 0,
 			"nbt": "{}",
 			"armAnimationEnabled": false,
-			"children": [0, 1, 2, 3, 4]
+			"children": [0, 1, 2]
 		}
 	]
 }

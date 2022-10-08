@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by AnminMakura",
 	"textures": {
 		"particle": "3d_item/warped_fungus_on_a_stick/butlers_glasses",
 		"layer1": "3d_item/warped_fungus_on_a_stick/butlers_glasses"
@@ -76,7 +76,7 @@
 		},
 		"head": {
 			"translation": [0, -1.5, -1.25],
-			"scale": [0.69, 0.69, 0.69]
+			"scale": [0.77, 0.77, 0.77]
 		}
 	},
 	"groups": [

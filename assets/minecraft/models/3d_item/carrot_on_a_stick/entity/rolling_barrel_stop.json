@@ -2,9 +2,8 @@
 	"credit": "Made by AnminMakura",
 	"textures": {
 		"layer1": "3d_item/carrot_on_a_stick/entity/rolling_barrel_stop_side",
-		"layer2": "block/barrel_side",
-		"particle": "block/barrel_side"
-
+		"particle": "block/barrel_side",
+		"layer2": "block/barrel_side"
 	},
 	"elements": [
 		{
@@ -105,7 +104,8 @@
 			"scale": [0.625, 0.625, 0.625]
 		},
 		"head": {
-			"translation": [0, -16.5, 0],
+			"rotation": [0, 0, 90],
+			"translation": [0, -13, 0],
 			"scale": [2.3, 2.3, 2.3]
 		},
 		"fixed": {

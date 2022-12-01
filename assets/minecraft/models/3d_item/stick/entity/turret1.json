@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "turret1",
 	"textures": {
 		"1": "block/netherite_block",
 		"2": "block/polished_blackstone",
@@ -10,7 +9,7 @@
 		"6": "block/black_concrete",
 		"7": "block/iron_block",
 		"8": "3d_item/stick/entity/turret1",
-		"particle": "block/netherite_block"
+		"particle": "block/bedrock"
 	},
 	"elements": [
 		{
@@ -414,24 +413,24 @@
 			"from": [12.25, 11, 1],
 			"to": [12.25, 16, 7],
 			"faces": {
-				"north": {"uv": [0, 0, 0, 5], "texture": "#missing"},
+				"north": {"uv": [16, 16, 16, 16], "texture": "#8"},
 				"east": {"uv": [2, 10.5, 8, 15.5], "texture": "#8"},
-				"south": {"uv": [0, 0, 0, 5], "texture": "#missing"},
+				"south": {"uv": [16, 16, 16, 16], "texture": "#8"},
 				"west": {"uv": [8, 10.5, 2, 15.5], "texture": "#8"},
-				"up": {"uv": [0, 0, 0, 6], "texture": "#missing"},
-				"down": {"uv": [0, 0, 0, 6], "texture": "#missing"}
+				"up": {"uv": [16, 16, 16, 16], "texture": "#8"},
+				"down": {"uv": [16, 16, 16, 16], "texture": "#8"}
 			}
 		},
 		{
 			"from": [3.75, 11, 1],
 			"to": [3.75, 16, 7],
 			"faces": {
-				"north": {"uv": [0, 0, 0, 5], "texture": "#missing"},
+				"north": {"uv": [16, 16, 16, 16], "texture": "#8"},
 				"east": {"uv": [2, 10.5, 8, 15.5], "texture": "#8"},
-				"south": {"uv": [0, 0, 0, 5], "texture": "#missing"},
+				"south": {"uv": [16, 16, 16, 16], "texture": "#8"},
 				"west": {"uv": [8, 10.5, 2, 15.5], "texture": "#8"},
-				"up": {"uv": [0, 0, 0, 6], "texture": "#missing"},
-				"down": {"uv": [0, 0, 0, 6], "texture": "#missing"}
+				"up": {"uv": [16, 16, 16, 16], "texture": "#8"},
+				"down": {"uv": [16, 16, 16, 16], "texture": "#8"}
 			}
 		},
 		{

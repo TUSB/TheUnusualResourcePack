@@ -1,9 +1,8 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "absorber",
 	"textures": {
 		"0": "3d_item/stick/entity/absorber",
-		"particle": "3d_item/stick/entity/absorber"
+		"particle": "block/bedrock"
 	},
 	"elements": [
 		{
@@ -139,11 +138,11 @@
 			"rotation": {"angle": -22.5, "axis": "y", "origin": [0, 0, 0]},
 			"faces": {
 				"north": {"uv": [0, 14, 1.25, 16], "texture": "#0"},
-				"east": {"uv": [0, 8, 0, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
 				"south": {"uv": [2.5, 14, 1.25, 16], "texture": "#0"},
-				"west": {"uv": [5, 8, 5, 16], "texture": "#missing"},
-				"up": {"uv": [5, 8, 0, 8], "texture": "#missing"},
-				"down": {"uv": [10, 8, 5, 8], "texture": "#missing"}
+				"west": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#0"}
 			}
 		},
 		{

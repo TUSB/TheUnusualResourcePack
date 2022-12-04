@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/mushroom_stew"
+    },
+    "overrides": [
+      { "predicate": {"custom_model_data": 1}, "model": "3d_item/mushroom_stew/heart/small"},
+      { "predicate": {"custom_model_data": 2}, "model": "3d_item/mushroom_stew/heart/medium"},
+      { "predicate": {"custom_model_data": 3}, "model": "3d_item/mushroom_stew/heart/large"},
+      { "predicate": {"custom_model_data": 4}, "model": "3d_item/mushroom_stew/heart/giant"},
+      { "predicate": {"custom_model_data": 11}, "model": "3d_item/mushroom_stew/mana/small"},
+      { "predicate": {"custom_model_data": 12}, "model": "3d_item/mushroom_stew/mana/medium"},
+      { "predicate": {"custom_model_data": 13}, "model": "3d_item/mushroom_stew/mana/large"},
+      { "predicate": {"custom_model_data": 14}, "model": "3d_item/mushroom_stew/mana/giant"}
+    ]
+}

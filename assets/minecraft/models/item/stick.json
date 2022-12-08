@@ -6,6 +6,7 @@
     "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "item/stick/clear_dots"},
         { "predicate": {"custom_model_data": 1001}, "model": "3d_item/stick/entity/absorber"},
-        { "predicate": {"custom_model_data": 1002}, "model": "3d_item/stick/entity/turret1"}
+        { "predicate": {"custom_model_data": 1002}, "model": "3d_item/stick/entity/turret1"},
+        { "predicate": {"custom_model_data": 1003}, "model": "3d_item/stick/entity/cobweb"}
     ]
 }

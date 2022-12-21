@@ -118,6 +118,7 @@
         { "predicate": {"custom_model_data": 1014}, "model": "3d_item/carrot_on_a_stick/entity/wooden_container"},
         { "predicate": {"custom_model_data": 1015}, "model": "3d_item/carrot_on_a_stick/entity/rolling_barrel_stop"},
         { "predicate": {"custom_model_data": 1016}, "model": "3d_item/carrot_on_a_stick/entity/rolling_barrel_move"},
+        { "predicate": {"custom_model_data": 1100}, "model": "3d_item/carrot_on_a_stick/tomb/tomb_1"},
         { "predicate": {"custom_model_data": 2000}, "model": "item/carrot_on_a_stick/memory_star"},
         { "predicate": {"custom_model_data": 2000}, "model": "item/carrot_on_a_stick/memory_star"},
         { "predicate": {"custom_model_data": 2000}, "model": "item/carrot_on_a_stick/memory_star"},

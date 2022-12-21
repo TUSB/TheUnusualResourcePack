@@ -4,6 +4,7 @@
         "layer0": "item/diamond_axe"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "item/diamond_axe/tomahawk"}
+        { "predicate": {"custom_model_data": 1}, "model": "item/diamond_axe/tomahawk"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/diamond_axe/death_scythe"}
     ]
 }

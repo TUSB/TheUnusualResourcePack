@@ -179,6 +179,15 @@
             "chars": [
             "D"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/message.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "m"
+            ]
         }
     ]
 }

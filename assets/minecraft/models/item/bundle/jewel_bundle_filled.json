@@ -1,6 +1,6 @@
 {
     "parent": "parent/accessories/1_0x",
     "textures": {
-        "layer0": "item/bundle/nether_star_bundle_filled"
+        "layer0": "item/bundle/jewel_bundle_filled"
     }
 }

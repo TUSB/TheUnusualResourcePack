@@ -7,6 +7,21 @@
         { "predicate": {"custom_model_data": 1}, "model": "item/stick/clear_dots"},
         { "predicate": {"custom_model_data": 1001}, "model": "3d_item/stick/entity/absorber"},
         { "predicate": {"custom_model_data": 1002}, "model": "3d_item/stick/entity/turret1"},
-        { "predicate": {"custom_model_data": 1003}, "model": "3d_item/stick/entity/cobweb"}
+        { "predicate": {"custom_model_data": 1003}, "model": "3d_item/stick/entity/cobweb"},
+        { "predicate": {"custom_model_data": 2001}, "model": "3d_item/stick/entity/zedra/zedra_full"},
+        { "predicate": {"custom_model_data": 2002}, "model": "3d_item/stick/entity/zedra/zedra_head1"},
+        { "predicate": {"custom_model_data": 2003}, "model": "3d_item/stick/entity/zedra/zedra_head2"},
+        { "predicate": {"custom_model_data": 2004}, "model": "3d_item/stick/entity/zedra/zedra_head3"},
+        { "predicate": {"custom_model_data": 2005}, "model": "3d_item/stick/entity/zedra/zedra_head4"},
+        { "predicate": {"custom_model_data": 2006}, "model": "3d_item/stick/entity/zedra/zedra_body1"},
+        { "predicate": {"custom_model_data": 2007}, "model": "3d_item/stick/entity/zedra/zedra_body2"},
+        { "predicate": {"custom_model_data": 2008}, "model": "3d_item/stick/entity/zedra/zedra_body3"},
+        { "predicate": {"custom_model_data": 2009}, "model": "3d_item/stick/entity/zedra/zedra_body4"},
+        { "predicate": {"custom_model_data": 2010}, "model": "3d_item/stick/entity/zedra/zedra_body5"},
+        { "predicate": {"custom_model_data": 2011}, "model": "3d_item/stick/entity/zedra/zedra_body6"},
+        { "predicate": {"custom_model_data": 2012}, "model": "3d_item/stick/entity/zedra/zedra_hand1"},
+        { "predicate": {"custom_model_data": 2013}, "model": "3d_item/stick/entity/zedra/zedra_hand2"},
+        { "predicate": {"custom_model_data": 2014}, "model": "3d_item/stick/entity/zedra/zedra_hand3"},
+        { "predicate": {"custom_model_data": 2015}, "model": "3d_item/stick/entity/zedra/zedra_hand4"}
     ]
 }

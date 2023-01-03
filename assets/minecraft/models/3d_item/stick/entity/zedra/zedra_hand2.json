@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "3d_item/stick/entity/scythe",
+		"0": "3d_item/stick/entity/zedra_scythe",
 		"1": "block/redstone_block",
 		"2": "block/polished_deepslate",
 		"3": "3d_item/stick/entity/zedra"

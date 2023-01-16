@@ -22,6 +22,9 @@
         { "predicate": {"custom_model_data": 2012}, "model": "3d_item/stick/entity/zedra/zedra_hand1"},
         { "predicate": {"custom_model_data": 2013}, "model": "3d_item/stick/entity/zedra/zedra_hand2"},
         { "predicate": {"custom_model_data": 2014}, "model": "3d_item/stick/entity/zedra/zedra_hand3"},
-        { "predicate": {"custom_model_data": 2015}, "model": "3d_item/stick/entity/zedra/zedra_hand4"}
+        { "predicate": {"custom_model_data": 2015}, "model": "3d_item/stick/entity/zedra/zedra_hand4"},
+        { "predicate": {"custom_model_data": 2016}, "model": "3d_item/stick/entity/zedra/zedra_hand5"},
+        { "predicate": {"custom_model_data": 2020}, "model": "3d_item/stick/entity/zedra/zedra_scythe"},
+        { "predicate": {"custom_model_data": 2021}, "model": "3d_item/stick/entity/zedra/zedra_sword"}
     ]
 }

@@ -1,6 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "3d_item/common/clear_dots"
+        "layer0": "3d_item/common/clear_dots",
+        "particle": "3d_item/common/clear_dots"
     }
 }

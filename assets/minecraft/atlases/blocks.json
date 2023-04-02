@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "3d_item",
+      "prefix": "3d_item/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/signs",
+      "prefix": "entity/signs/"
+    },
+    {
+      "type": "directory",
+      "source": "font/sign",
+      "prefix": "font/sign/"
+    }
+  ]
+}

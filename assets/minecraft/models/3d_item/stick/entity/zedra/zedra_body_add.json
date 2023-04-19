@@ -1,0 +1,66 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "3d_item/stick/entity/zedra",
+		"particle": "3d_item/stick/entity/zedra"
+	},
+	"elements": [
+		{
+			"name": "Body",
+			"from": [3.95, 2, 8],
+			"to": [3.95, 8, 12],
+			"rotation": {"angle": 0, "axis": "z", "origin": [0, -2, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [13.5, 4, 15, 5], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [13.5, 5, 15, 4], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Body",
+			"from": [12.05, 2, 8],
+			"to": [12.05, 8, 12],
+			"rotation": {"angle": 0, "axis": "z", "origin": [0, -2, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [13.5, 4, 15, 5], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [13.5, 5, 15, 4], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Body",
+			"from": [4, 2, 11.95],
+			"to": [12, 8, 12.35],
+			"rotation": {"angle": 0, "axis": "z", "origin": [0, -2, 0]},
+			"faces": {
+				"north": {"uv": [14.5, 2, 16, 0], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [11, 6.5, 11, 6.5], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [14.5, 2, 16, 0], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [11, 6.5, 11, 6.5], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [11, 6.5, 11, 6.5], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -27, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "Body Add",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

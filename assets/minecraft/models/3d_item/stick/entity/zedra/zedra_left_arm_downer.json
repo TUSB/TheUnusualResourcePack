@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "3d_item/stick/entity/zedra",
+		"particle": "3d_item/stick/entity/zedra"
+	},
+	"elements": [
+		{
+			"name": "Right Arm",
+			"from": [6.505, 2, 6.005],
+			"to": [9.495, 9, 9.995],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"north": {"uv": [11.775, 6.25, 11.025, 8], "texture": "#1"},
+				"east": {"uv": [12.775, 6.25, 11.775, 8], "texture": "#1"},
+				"south": {"uv": [13.525, 6.25, 12.775, 8], "texture": "#1"},
+				"west": {"uv": [11.025, 6.25, 10.025, 8], "texture": "#1"},
+				"up": {"uv": [10.25, 5, 11, 4], "texture": "#1"},
+				"down": {"uv": [11.75, 4, 12.5, 5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Right Arm Layer",
+			"from": [6.25, 1.75, 5.75],
+			"to": [9.75, 9.25, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"north": {"uv": [11.5, 10.5, 10.75, 12.25], "texture": "#1"},
+				"east": {"uv": [12.5, 10.5, 11.5, 12.25], "texture": "#1"},
+				"south": {"uv": [13.25, 10.5, 12.5, 12.25], "texture": "#1"},
+				"west": {"uv": [10.75, 10.5, 9.75, 12.25], "texture": "#1"},
+				"up": {"uv": [10.75, 9, 11.5, 8], "texture": "#1"},
+				"down": {"uv": [11.5, 8, 12.25, 9], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -27, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "RightArm Downer",
+			"origin": [5, 22, 0],
+			"rotation": [10, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

@@ -6,7 +6,7 @@
       "block/bone_block/break3",
       "block/bone_block/break4",
       "block/bone_block/break5"
-      
+
     ],
     "subtitle": "subtitles.block.generic.break"
   },
@@ -563,6 +563,102 @@
     "sounds": [
       {
         "name": "mob/illusion_illager/mirror_move2"
+      }
+    ]
+  },
+  "ambient.basalt_deltas.active_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/basalt_deltas/active1"
+      }
+    ]
+  },
+    "ambient.basalt_deltas.active_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/basalt_deltas/active2"
+      }
+    ]
+  },
+    "ambient.basalt_deltas.active_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/basalt_deltas/active3"
+      }
+    ]
+  },
+    "ambient.basalt_deltas.active_4": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/basalt_deltas/active4"
+      }
+    ]
+  },
+    "ambient.basalt_deltas.basaltground_4": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/nether/basalt_deltas/basaltground4"
+      }
+    ]
+  },
+  "random.door.close_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "random/door_close"
+      }
+    ]
+  },
+  "random.door.open_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "random/door_open"
+      }
+    ]
+  },
+  "mob.goat.impact_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/goat/impact3"
+      }
+    ]
+  },
+  "entity.boober.retrieve_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity/bobber/retrieve3"
+      }
+    ]
+  },
+  "block.tuff.break_5": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/tuff/break5"
+      }
+    ]
+  },
+  "block.wooden_door.clause_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "block/wooden_door/clause3"
+      }
+    ]
+  },
+  "random.classic_hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "random/classic_hurt"
       }
     ]
   }

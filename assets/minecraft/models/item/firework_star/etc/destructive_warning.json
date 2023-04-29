@@ -3,6 +3,6 @@
     "textures": {
         "layer0": "item/firework_star/clear_dots",
         "layer1": "item/firework_star_overlay/etc/warning",
-        "layer2": "item/aura/fire/negative_violet"
+        "layer2": "item/aura/dark/negative_red"
     }
 }

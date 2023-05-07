@@ -143,6 +143,8 @@
         { "predicate": {"custom_model_data": 1030}, "model": "3d_item/firework_star/entity/dolphin"},
         { "predicate": {"custom_model_data": 1031}, "model": "3d_item/firework_star/entity/dolphin_fin"},
         { "predicate": {"custom_model_data": 1032}, "model": "3d_item/firework_star/entity/dolphin_tail_fin"},
+        { "predicate": {"custom_model_data": 1033}, "model": "3d_item/firework_star/bullet/magic_circle"},
+        { "predicate": {"custom_model_data": 1034}, "model": "3d_item/firework_star/entity/angel_ring"},
         { "predicate": {"custom_model_data": 2001}, "model": "3d_item/firework_star/bullet/tnt"},
         { "predicate": {"custom_model_data": 3001}, "model": "3d_item/firework_star/block/key_block"},
         { "predicate": {"custom_model_data": 4001}, "model": "item/firework_star/etc/warning"},

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "3d_item/firework_star/bullet/magic_circle",
-		"particle": "3d_item/firework_star/bullet/magic_circle"
+		"particle": "block/bedrock"
 	},
 	"elements": [
 		{

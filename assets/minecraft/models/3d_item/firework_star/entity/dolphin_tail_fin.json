@@ -8,16 +8,16 @@
 	"elements": [
 		{
 			"name": "tail_fin",
-			"from": [3, 7.5, 7.5],
-			"to": [13, 8.5, 13.5],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 2.5, 19.5]},
+			"from": [3, 7.5, 2.5],
+			"to": [13, 8.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [3, 3, 8, 3.5], "texture": "#1"},
-				"east": {"uv": [0, 3, 3, 3.5], "texture": "#1"},
-				"south": {"uv": [11, 3, 16, 3.5], "texture": "#1"},
-				"west": {"uv": [8, 3, 11, 3.5], "texture": "#1"},
-				"up": {"uv": [8, 3, 3, 0], "texture": "#1"},
-				"down": {"uv": [13, 0, 8, 3], "texture": "#1"}
+				"north": {"uv": [11, 3, 16, 3.5], "texture": "#1"},
+				"east": {"uv": [8, 3, 11, 3.5], "texture": "#1"},
+				"south": {"uv": [3, 3, 8, 3.5], "texture": "#1"},
+				"west": {"uv": [0, 3, 3, 3.5], "texture": "#1"},
+				"up": {"uv": [8, 3, 3, 0], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [13, 0, 8, 3], "rotation": 180, "texture": "#1"}
 			}
 		}
 	]

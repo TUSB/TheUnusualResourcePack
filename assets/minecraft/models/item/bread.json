@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bread"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "3d_item/bread/entity/sky_share"}
+    ]
+}

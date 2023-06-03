@@ -7,7 +7,7 @@
 		"3": "block/cake_top",
 		"4": "block/red_candle_lit",
 		"5": "block/campfire_fire",
-		"particle": "block/cake_bottom"
+		"particle": "block/cake_top"
 	},
 	"elements": [
 		{

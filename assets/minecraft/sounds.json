@@ -661,5 +661,23 @@
         "name": "random/classic_hurt"
       }
     ]
+  },
+  "entity.mooshroom.convert_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/mooshroom/convert1",
+        "volume": 0.75
+      }
+    ]
+  },
+  "entity.mooshroom.convert_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/mooshroom/convert2",
+        "volume": 0.75
+      }
+    ]
   }
 }

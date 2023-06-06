@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "3d_item/firework_star/entity/curse/magic_stone2",
+		"particle": "block/bedrock"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 16], "texture": "#0", "tintindex": 1},
+				"east": {"uv": [4, 0, 0, 16], "texture": "#0", "tintindex": 1},
+				"south": {"uv": [0, 0, 4, 16], "texture": "#0", "tintindex": 1},
+				"west": {"uv": [4, 0, 0, 16], "texture": "#0", "tintindex": 1},
+				"up": {"uv": [4, 0, 8, 4], "texture": "#0", "tintindex": 1},
+				"down": {"uv": [8, 4, 4, 8], "texture": "#0", "tintindex": 1}
+			}
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "3d_item/firework_star/entity/curse/magic_stone4",
+		"particle": "block/bedrock"
+	},
+	"elements": [
+		{
+			"from": [6.5, 7, 5],
+			"to": [9.5, 9, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 7, 0]},
+			"faces": {
+				"north": {"uv": [15, 15, 16, 16], "texture": "#0", "tintindex": 1},
+				"east": {"uv": [6, 6, 12, 10], "texture": "#0", "tintindex": 1},
+				"south": {"uv": [15, 15, 16, 16], "texture": "#0", "tintindex": 1},
+				"west": {"uv": [6, 6, 12, 10], "texture": "#0", "tintindex": 1},
+				"up": {"uv": [0, 0, 6, 12], "texture": "#0", "tintindex": 1},
+				"down": {"uv": [0, 0, 6, 12], "texture": "#0", "tintindex": 1}
+			}
+		},
+		{
+			"from": [7.84315, 7.0005, 10.24264],
+			"to": [9.96445, 8.9995, 12.36394],
+			"rotation": {"angle": 45, "axis": "y", "origin": [0.84315, 7, 9.24264]},
+			"faces": {
+				"north": {"uv": [10, 6, 12, 10], "texture": "#0", "tintindex": 1},
+				"east": {"uv": [10, 6, 12, 10], "texture": "#0", "tintindex": 1},
+				"south": {"uv": [10, 6, 12, 10], "texture": "#0", "tintindex": 1},
+				"west": {"uv": [10, 6, 12, 10], "texture": "#0", "tintindex": 1},
+				"up": {"uv": [6, 0, 12, 6], "texture": "#0", "tintindex": 1},
+				"down": {"uv": [6, 0, 12, 6], "texture": "#0", "tintindex": 1}
+			}
+		},
+		{
+			"from": [7.84315, 7.0005, 3.63606],
+			"to": [9.96445, 8.9995, 5.75736],
+			"rotation": {"angle": -45, "axis": "y", "origin": [0.84315, 7, 6.75736]},
+			"faces": {
+				"north": {"uv": [12, 6, 10, 10], "texture": "#0", "tintindex": 1},
+				"east": {"uv": [12, 6, 10, 10], "texture": "#0", "tintindex": 1},
+				"south": {"uv": [12, 6, 10, 10], "texture": "#0", "tintindex": 1},
+				"west": {"uv": [12, 6, 10, 10], "texture": "#0", "tintindex": 1},
+				"up": {"uv": [6, 6, 12, 0], "texture": "#0", "tintindex": 1},
+				"down": {"uv": [6, 6, 12, 0], "texture": "#0", "tintindex": 1}
+			}
+		}
+	]
+}

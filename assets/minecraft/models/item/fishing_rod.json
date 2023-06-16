@@ -22,6 +22,32 @@
                 "cast": 1
             },
             "model": "item/fishing_rod/good_fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/fishing_rod/fishing_rod_with_false_bait"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2,
+                "cast": 1
+            },
+            "model": "item/fishing_rod/fishing_rod_with_false_bait_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/fishing_rod/fishing_rod_with_high_quality_bait"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "cast": 1
+            },
+            "model": "item/fishing_rod/fishing_rod_with_high_quality_bait_cast"
         }
     ]
 }

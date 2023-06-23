@@ -333,12 +333,12 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_righthand": {
-			"rotation": [-2, -45, 0],
+			"rotation": [-5, -15, 0],
 			"translation": [0, 1.75, 0.75],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-2, -45, 0],
+			"rotation": [-5, -15, 0],
 			"translation": [0, 1.75, 0.75],
 			"scale": [0.4, 0.4, 0.4]
 		},

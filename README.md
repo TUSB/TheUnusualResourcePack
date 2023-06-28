@@ -1,4 +1,4 @@
-![Minecraft version](https://img.shields.io/badge/version-1.16.4-blue.svg)
+![Minecraft version](https://img.shields.io/badge/version-1.19.4-blue.svg)
 ![GitHub stars](https://img.shields.io/github/stars/TUSB/TheUnusualResourcePack.svg?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/TUSkyBlock.svg?style=social)
 

@@ -1,23 +1,35 @@
 {
 	"credit": "Made by AnminMakura",
 	"textures": {
-		"layer1": "3d_item/firework_star/bullet/tnt_side",
-		"layer2": "3d_item/firework_star/bullet/tnt_top",
-		"layer3": "3d_item/firework_star/bullet/tnt_bottom",
-		"particle": "3d_item/firework_star/bullet/tnt_bottom"
+		"layer1": "3d_item/firework_star/bullet/color_tnt",
+		"particle": "3d_item/firework_star/bullet/color_tnt"
 	},
 	"elements": [
 		{
+			"name": "cover",
+			"from": [-0.001, -0.001, -0.001],
+			"to": [16.001, 16.001, 16.001],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [8, 8, 16, 16], "texture": "#layer1", "tintindex": 1},
+				"east": {"uv": [8, 8, 16, 16], "texture": "#layer1", "tintindex": 1},
+				"south": {"uv": [8, 8, 16, 16], "texture": "#layer1", "tintindex": 1},
+				"west": {"uv": [8, 8, 16, 16], "texture": "#layer1", "tintindex": 1},
+				"up": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 1},
+				"down": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 1}
+			}
+		},
+		{
+			"name": "main",
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [6, 6, 6]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
-				"up": {"uv": [16, 16, 0, 0], "texture": "#layer2", "tintindex": 1},
-				"down": {"uv": [16, 0, 0, 16], "texture": "#layer3", "tintindex": 1}
+				"north": {"uv": [0, 0, 8, 8], "texture": "#layer1", "tintindex": 1},
+				"east": {"uv": [0, 0, 8, 8], "texture": "#layer1", "tintindex": 1},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#layer1", "tintindex": 1},
+				"west": {"uv": [0, 0, 8, 8], "texture": "#layer1", "tintindex": 1},
+				"up": {"uv": [16, 8, 8, 0], "texture": "#layer1", "tintindex": 1},
+				"down": {"uv": [8, 8, 0, 16], "texture": "#layer1", "tintindex": 1}
 			}
 		}
 	],

@@ -12,9 +12,9 @@
         { "predicate": {"custom_model_data": 12}, "model": "3d_item/mushroom_stew/mana/medium"},
         { "predicate": {"custom_model_data": 13}, "model": "3d_item/mushroom_stew/mana/large"},
         { "predicate": {"custom_model_data": 14}, "model": "3d_item/mushroom_stew/mana/giant"},
-        { "predicate": {"custom_model_data": 21}, "model": "3d_item/mushroom_stew/burst/small"},
-        { "predicate": {"custom_model_data": 22}, "model": "3d_item/mushroom_stew/burst/medium"},
-        { "predicate": {"custom_model_data": 23}, "model": "3d_item/mushroom_stew/burst/large"},
-        { "predicate": {"custom_model_data": 24}, "model": "3d_item/mushroom_stew/burst/giant"}
+        { "predicate": {"custom_model_data": 21}, "model": "3d_item/mushroom_stew/radiance/small"},
+        { "predicate": {"custom_model_data": 22}, "model": "3d_item/mushroom_stew/radiance/medium"},
+        { "predicate": {"custom_model_data": 23}, "model": "3d_item/mushroom_stew/radiance/large"},
+        { "predicate": {"custom_model_data": 24}, "model": "3d_item/mushroom_stew/radiance/giant"}
     ]
 }

@@ -3,8 +3,8 @@
     {
         "type": "bitmap",
         "file": "minecraft:font/element/physical.png",
-        "height": 12,
-        "ascent": 10,
+        "height": 9,
+        "ascent": 8,
         "chars": [
         "p"
         ]
@@ -12,8 +12,8 @@
     {
         "type": "bitmap",
         "file": "minecraft:font/element/fire.png",
-        "height": 12,
-        "ascent": 10,
+        "height": 9,
+        "ascent": 8,
         "chars": [
         "f"
         ]
@@ -21,8 +21,8 @@
     {
         "type": "bitmap",
         "file": "minecraft:font/element/ice.png",
-        "height": 12,
-        "ascent": 10,
+        "height": 9,
+        "ascent": 8,
         "chars": [
         "c"
         ]
@@ -30,8 +30,8 @@
     {
         "type": "bitmap",
         "file": "minecraft:font/element/lightning.png",
-        "height": 12,
-        "ascent": 10,
+        "height": 9,
+        "ascent": 8,
         "chars": [
         "n"
         ]
@@ -39,8 +39,8 @@
     {
         "type": "bitmap",
         "file": "minecraft:font/element/light.png",
-        "height": 12,
-        "ascent": 10,
+        "height": 9,
+        "ascent": 8,
         "chars": [
         "l"
         ]
@@ -48,8 +48,8 @@
     {
         "type": "bitmap",
         "file": "minecraft:font/element/dark.png",
-        "height": 12,
-        "ascent": 10,
+        "height": 9,
+        "ascent": 8,
         "chars": [
         "d"
         ]

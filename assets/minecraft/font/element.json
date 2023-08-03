@@ -53,6 +53,42 @@
         "chars": [
         "d"
         ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/weak.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "O"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/normal.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "o"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/resistance.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "x"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/recover.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "X"
+        ]
     }
   ]
 }

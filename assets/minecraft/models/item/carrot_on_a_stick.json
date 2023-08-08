@@ -111,6 +111,7 @@
         { "predicate": {"custom_model_data": 127}, "model": "item/carrot_on_a_stick/pendulum"},
         { "predicate": {"custom_model_data": 128}, "model": "item/carrot_on_a_stick/corn_soup_pot"},
         { "predicate": {"custom_model_data": 129}, "model": "item/carrot_on_a_stick/cold_pumpkin_soup_pot"},
+        { "predicate": {"custom_model_data": 131}, "model": "item/carrot_on_a_stick/potato_tips"},
         { "predicate": {"custom_model_data": 1000}, "model": "3d_item/carrot_on_a_stick/entity/scarecrow_doll"},
         { "predicate": {"custom_model_data": 1001}, "model": "3d_item/carrot_on_a_stick/entity/salmon_susi"},
         { "predicate": {"custom_model_data": 1002}, "model": "3d_item/carrot_on_a_stick/entity/sun_eater"},

@@ -3,8 +3,8 @@
     {
         "type": "bitmap",
         "file": "minecraft:font/hp_bar/heart.png",
-        "height": 12,
-        "ascent": 10,
+        "height": 9,
+        "ascent": 8,
         "chars": [
         "H"
         ]
@@ -12,8 +12,8 @@
     {
         "type": "bitmap",
         "file": "minecraft:font/hp_bar/on.png",
-        "height": 12,
-        "ascent": 10,
+        "height": 9,
+        "ascent": 8,
         "chars": [
         "+"
         ]
@@ -21,8 +21,8 @@
     {
         "type": "bitmap",
         "file": "minecraft:font/hp_bar/off.png",
-        "height": 12,
-        "ascent": 10,
+        "height": 9,
+        "ascent": 8,
         "chars": [
         "-"
         ]

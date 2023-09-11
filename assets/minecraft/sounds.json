@@ -679,5 +679,41 @@
         "volume": 0.75
       }
     ]
+  },
+  "entity.wither.hurt_1": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/wither/hurt1",
+        "volume": 0.75
+      }
+    ]
+  },
+  "entity.wither.hurt_2": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/wither/hurt2",
+        "volume": 0.75
+      }
+    ]
+  },
+  "entity.wither.hurt_3": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/wither/hurt3",
+        "volume": 0.75
+      }
+    ]
+  },
+  "entity.wither.hurt_4": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/wither/hurt4",
+        "volume": 0.75
+      }
+    ]
   }
 }

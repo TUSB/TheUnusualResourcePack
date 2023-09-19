@@ -7,6 +7,9 @@
         { "predicate": {"custom_model_data": 12}, "model": "3d_item/magma_cube_spawn_egg/sign/upgrade_black"},
         { "predicate": {"custom_model_data": 23}, "model": "3d_item/magma_cube_spawn_egg/sign/swordman_soul"},
         { "predicate": {"custom_model_data": 24}, "model": "3d_item/magma_cube_spawn_egg/sign/ninja_soul"},
-        { "predicate": {"custom_model_data": 25}, "model": "3d_item/magma_cube_spawn_egg/sign/hunter_soul"}
+        { "predicate": {"custom_model_data": 25}, "model": "3d_item/magma_cube_spawn_egg/sign/hunter_soul"},
+        { "predicate": {"custom_model_data": 26}, "model": "3d_item/magma_cube_spawn_egg/sign/white_mage_soul"},
+        { "predicate": {"custom_model_data": 27}, "model": "3d_item/magma_cube_spawn_egg/sign/black_mage_soul"},
+        { "predicate": {"custom_model_data": 28}, "model": "3d_item/magma_cube_spawn_egg/sign/summoner_soul"}
     ]
 }

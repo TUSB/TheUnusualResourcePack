@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/clay_ball",
+        "layer1": "item/aura/light/gold"
+    }
+}

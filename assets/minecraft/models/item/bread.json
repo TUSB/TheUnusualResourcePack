@@ -4,6 +4,7 @@
         "layer0": "item/bread"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "3d_item/bread/entity/sky_share"}
+        { "predicate": {"custom_model_data": 1}, "model": "3d_item/bread/entity/sky_share"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/bread/entity/food_clay"}
     ]
 }

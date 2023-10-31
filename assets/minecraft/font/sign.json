@@ -35,6 +35,15 @@
             "chars": [
             "⑫"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/sheep_spawner.png",
+            "height": 27,
+            "ascent": 27,
+            "chars": [
+            "⑰"
+            ]
         }
     ]
 }

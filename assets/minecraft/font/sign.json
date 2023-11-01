@@ -44,6 +44,15 @@
             "chars": [
             "⑰"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/trade2.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉙"
+            ]
         }
     ]
 }

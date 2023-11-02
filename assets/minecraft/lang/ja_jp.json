@@ -1,6 +1,12 @@
 {
 "## 注意 ##": "複数キーで1単語を表わす場合は改行を使って区別すること",
 
+"## Minecraft翻訳変更 ##": "",
+
+  "attribute.name.generic.luck": "魔力",
+  "effect.minecraft.luck": "魔力上昇",
+  "effect.minecraft.unluck": "魔力低下",
+
 "## リソースパック導入チェック ##": "",
 
   "TUSBちゃん: ": "TUSBちゃん: ",

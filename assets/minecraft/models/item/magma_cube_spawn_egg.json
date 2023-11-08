@@ -12,6 +12,6 @@
         { "predicate": {"custom_model_data": 26}, "model": "3d_item/magma_cube_spawn_egg/sign/white_mage_soul"},
         { "predicate": {"custom_model_data": 27}, "model": "3d_item/magma_cube_spawn_egg/sign/black_mage_soul"},
         { "predicate": {"custom_model_data": 28}, "model": "3d_item/magma_cube_spawn_egg/sign/summoner_soul"},
-        { "predicate": {"custom_model_data": 29}, "model": "3d_item/magma_cube_spawn_egg/sign/trade2"}
+        { "predicate": {"custom_model_data": 29}, "model": "3d_item/magma_cube_spawn_egg/sign/trade_all"}
     ]
 }

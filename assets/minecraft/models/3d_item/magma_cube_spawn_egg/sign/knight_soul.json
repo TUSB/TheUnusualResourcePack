@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "entity/signs/oak",
 		"layer1": "entity/signs/oak",
-		"layer2": "font/sign/swordman_soul",
+		"layer2": "font/sign/knight_soul",
 		"layer3": "3d_item/common/clear_dots"
 	},
 	"elements": [

@@ -47,6 +47,60 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:font/sign/knight_soul.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉒"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/ninja_soul.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉓"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/hunter_soul.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉔"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/white_mage_soul.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉕"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/black_mage_soul.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉖"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/summoner_soul.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉗"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/sign/trade2.png",
             "height": 36,
             "ascent": 36,

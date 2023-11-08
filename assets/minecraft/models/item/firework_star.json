@@ -149,6 +149,7 @@
         { "predicate": {"custom_model_data": 1035}, "model": "3d_item/firework_star/entity/angel_ring2"},
         { "predicate": {"custom_model_data": 1036}, "model": "3d_item/firework_star/entity/cannon_body"},
         { "predicate": {"custom_model_data": 1037}, "model": "3d_item/firework_star/entity/cannon_legs"},
+        { "predicate": {"custom_model_data": 1038}, "model": "3d_item/firework_star/entity/angel_ring3"},
         { "predicate": {"custom_model_data": 2001}, "model": "item/firework_star/etc/key_block_key"},
         { "predicate": {"custom_model_data": 2001}, "model": "item/firework_star/etc/key_block_key"},
         { "predicate": {"custom_model_data": 2001}, "model": "item/firework_star/etc/key_block_key"},

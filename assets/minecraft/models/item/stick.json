@@ -33,6 +33,23 @@
         { "predicate": {"custom_model_data": 2016}, "model": "3d_item/stick/entity/zedra/zedra_leg_downer"},
         { "predicate": {"custom_model_data": 2017}, "model": "3d_item/stick/entity/zedra/zedra_twintail"},
         { "predicate": {"custom_model_data": 2020}, "model": "3d_item/stick/entity/zedra/zedra_scythe"},
-        { "predicate": {"custom_model_data": 2021}, "model": "3d_item/stick/entity/zedra/zedra_sword"}
+        { "predicate": {"custom_model_data": 2021}, "model": "3d_item/stick/entity/sonica/zedra_sword"},
+        { "predicate": {"custom_model_data": 3001}, "model": "3d_item/stick/entity/sonica/head_0"},
+        { "predicate": {"custom_model_data": 3002}, "model": "3d_item/stick/entity/sonica/head_1"},
+        { "predicate": {"custom_model_data": 3003}, "model": "3d_item/stick/entity/sonica/head_2"},
+        { "predicate": {"custom_model_data": 3004}, "model": "3d_item/stick/entity/sonica/head_3"},
+        { "predicate": {"custom_model_data": 3005}, "model": "3d_item/stick/entity/sonica/body_0"},
+        { "predicate": {"custom_model_data": 3006}, "model": "3d_item/stick/entity/sonica/body_1"},
+        { "predicate": {"custom_model_data": 3007}, "model": "3d_item/stick/entity/sonica/arm_right_0"},
+        { "predicate": {"custom_model_data": 3008}, "model": "3d_item/stick/entity/sonica/arm_right_1"},
+        { "predicate": {"custom_model_data": 3009}, "model": "3d_item/stick/entity/sonica/arm_left_0"},
+        { "predicate": {"custom_model_data": 3010}, "model": "3d_item/stick/entity/sonica/arm_left_1"},
+        { "predicate": {"custom_model_data": 3011}, "model": "3d_item/stick/entity/sonica/leg_right_0"},
+        { "predicate": {"custom_model_data": 3012}, "model": "3d_item/stick/entity/sonica/leg_right_1"},
+        { "predicate": {"custom_model_data": 3013}, "model": "3d_item/stick/entity/sonica/leg_left_0"},
+        { "predicate": {"custom_model_data": 3014}, "model": "3d_item/stick/entity/sonica/leg_left_1"},
+        { "predicate": {"custom_model_data": 3015}, "model": "3d_item/stick/entity/sonica/sword"},
+        { "predicate": {"custom_model_data": 3016}, "model": "3d_item/stick/entity/sonica/wing_right"},
+        { "predicate": {"custom_model_data": 3017}, "model": "3d_item/stick/entity/sonica/wing_left"}
     ]
 }

@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "3d_item/stick/entity/sonica",
+		"particle": "3d_item/stick/entity/sonica"
+	},
+	"elements": [
+		{
+			"name": "wing",
+			"from": [-14, 6, 8],
+			"to": [2, 10, 8],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [1.375, 6, 4.375, 6.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.125, 0.125], "texture": "#0"},
+				"south": {"uv": [4.375, 6, 1.375, 6.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.125, 0.125], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.125, 0.125], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.125, 0.125], "texture": "#0"}
+			}
+		},
+		{
+			"name": "wing",
+			"from": [-14, 6, 8],
+			"to": [2, 10, 8],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [1.375, 6.125, 4.375, 6.625], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.125, 0.125], "texture": "#0"},
+				"south": {"uv": [4.375, 6.125, 1.375, 6.625], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.125, 0.125], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.125, 0.125], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.125, 0.125], "texture": "#0"}
+			}
+		}
+	]
+}

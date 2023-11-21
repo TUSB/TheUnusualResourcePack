@@ -1,0 +1,47 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "3d_item/stick/entity/sonica",
+		"particle": "3d_item/stick/entity/sonica"
+	},
+	"elements": [
+		{
+			"name": "left_leg",
+			"from": [6, 2, 6],
+			"to": [10, 8, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -3, 0]},
+			"faces": {
+				"north": {"uv": [6, 3, 6.5, 3.75], "texture": "#0"},
+				"east": {"uv": [5.5, 3, 6, 3.75], "texture": "#0"},
+				"south": {"uv": [7, 3, 7.5, 3.75], "texture": "#0"},
+				"west": {"uv": [6.5, 3, 7, 3.75], "texture": "#0"},
+				"up": {"uv": [6.5, 3, 6, 2.5], "texture": "#0"},
+				"down": {"uv": [7, 2.5, 6.5, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "porch",
+			"from": [5.9, 3, 5.9],
+			"to": [10.1, 7, 10.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -3, 0]},
+			"faces": {
+				"north": {"uv": [8, 3, 8.5, 3.5], "texture": "#0"},
+				"east": {"uv": [7.5, 3, 8, 3.5], "texture": "#0"},
+				"south": {"uv": [9, 3, 9.5, 3.5], "texture": "#0"},
+				"west": {"uv": [8.5, 3, 9, 3.5], "texture": "#0"},
+				"up": {"uv": [8.5, 3, 8, 2.5], "texture": "#0"},
+				"down": {"uv": [9, 2.5, 8.5, 3], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "leg_left_0",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1]
+		}
+	]
+}

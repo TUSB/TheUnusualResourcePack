@@ -1337,7 +1337,6 @@
 		}
 	],
 	"gui_light": "front",
-	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, 6.5, 2.5]
@@ -1366,102 +1365,119 @@
 			"name": "under",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2, 3]
 		},
 		{
 			"name": "under",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [4, 5, 6, 7]
 		},
 		{
 			"name": "under",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [8, 9, 10, 11]
 		},
 		{
 			"name": "under",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [12, 13, 14, 15, 16]
 		},
 		{
 			"name": "under",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [17, 18, 19, 20]
 		},
 		{
 			"name": "upper",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [21, 22, 23, 24, 25, 26, 27, 28]
 		},
 		{
 			"name": "upper",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [29, 30, 31, 32, 33, 34, 35, 36]
 		},
 		{
 			"name": "upper",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [37, 38, 39, 40, 41, 42, 43, 44]
 		},
 		{
 			"name": "upper",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [45, 46, 47, 48, 49, 50, 51, 52]
 		},
 		{
 			"name": "upper",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [53, 54, 55, 56, 57, 58, 59, 60]
 		},
 		{
 			"name": "under",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [61, 62, 63, 64]
 		},
 		{
 			"name": "under",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [65, 66, 67, 68]
 		},
 		{
 			"name": "under",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [69, 70, 71, 72]
 		},
 		{
 			"name": "under",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [73, 74, 75, 76]
 		},
 		{
 			"name": "under",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [77, 78, 79, 80]
 		},
 		{
 			"name": "green",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92]
 		},
 		{
 			"name": "red_model1_eye",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [93, 94, 95, 96, 97, 98, 99, 100, 101]
 		}
 	]

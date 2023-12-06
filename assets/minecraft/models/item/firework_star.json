@@ -194,6 +194,7 @@
         { "predicate": {"custom_model_data": 4002}, "model": "item/firework_star/etc/destructive_warning"},
         { "predicate": {"custom_model_data": 4002}, "model": "item/firework_star/etc/destructive_warning"},
         { "predicate": {"custom_model_data": 4002}, "model": "item/firework_star/etc/destructive_warning"},
+        { "predicate": {"custom_model_data": 4002}, "model": "item/firework_star/etc/destructive_warning"},
         { "predicate": {"custom_model_data": 4003}, "model": "3d_item/firework_star/bullet/magic_square_crystal"},
         { "predicate": {"custom_model_data": 4004}, "model": "3d_item/firework_star/bullet/magic_square_crystal_v2"},
         { "predicate": {"custom_model_data": 10001}, "model": "item/firework_star/fire/add_fire_huge"},

@@ -188,6 +188,15 @@
             "chars": [
             "m"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/elite_enemy.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "E"
+            ]
         }
     ]
 }

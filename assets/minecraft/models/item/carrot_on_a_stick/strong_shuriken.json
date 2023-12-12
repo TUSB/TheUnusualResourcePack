@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "display": {
+        "ground": {
+            "translation": [ 0, -3, 0],
+            "scale": [ 1.2, 1.2, 1.2]
+        }
+    },
+    "textures": {
+        "layer0": "item/carrot_on_a_stick/a_shuriken",
+        "layer1": "item/aura/fire/negative_red",
+        "particle": "item/carrot_on_a_stick/a_shuriken"
+    }
+}

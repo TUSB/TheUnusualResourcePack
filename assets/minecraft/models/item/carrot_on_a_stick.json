@@ -128,6 +128,7 @@
         { "predicate": {"custom_model_data": 146}, "model": "3d_item/carrot_on_a_stick/weapon/disease_debaria"},
         { "predicate": {"custom_model_data": 147}, "model": "3d_item/carrot_on_a_stick/weapon/super_debaria"},
         { "predicate": {"custom_model_data": 148}, "model": "item/carrot_on_a_stick/calling_grass"},
+        { "predicate": {"custom_model_data": 149}, "model": "item/carrot_on_a_stick/sacred_potatoes"},
         { "predicate": {"custom_model_data": 1000}, "model": "3d_item/carrot_on_a_stick/entity/scarecrow_doll"},
         { "predicate": {"custom_model_data": 1001}, "model": "3d_item/carrot_on_a_stick/entity/salmon_susi"},
         { "predicate": {"custom_model_data": 1002}, "model": "3d_item/carrot_on_a_stick/entity/sun_eater"},

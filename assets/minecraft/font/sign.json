@@ -2,6 +2,21 @@
     "providers": [
         {
             "type": "bitmap",
+            "file": "minecraft:font/sign/harvest_frame.png",
+            "height": 36,
+            "ascent": 26,
+            "chars": [
+            "H"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                "_": -1.0
+            }
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/sign/trade.png",
             "height": 36,
             "ascent": 36,
@@ -16,6 +31,42 @@
             "ascent": 36,
             "chars": [
             "②"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/wheat.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑦"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/potato.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑧"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/carrot.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑨"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/beetroot.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑩"
             ]
         },
         {

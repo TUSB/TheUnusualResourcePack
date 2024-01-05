@@ -1,0 +1,103 @@
+{
+	"credit": "Made by AnminMakura",
+	"textures": {
+		"particle": "entity/signs/bamboo",
+		"layer1": "entity/signs/bamboo",
+		"layer2": "item/carrot",
+		"layer3": "3d_item/common/clear_dots",
+		"layer4": "font/sign/harvest_frame"
+	},
+	"elements": [
+		{
+			"name": "sign_leg",
+			"from": [7.5, 0, 8],
+			"to": [8.5, 8, 9],
+			"faces": {
+				"north": {"uv": [0, 8, 0.5, 15], "texture": "#layer1"},
+				"east": {"uv": [1.5, 8, 2, 15], "texture": "#layer1"},
+				"south": {"uv": [1, 8, 1.5, 15], "texture": "#layer1"},
+				"west": {"uv": [0.5, 8, 1, 15], "texture": "#layer1"},
+				"up": {"uv": [0.5, 7, 1.5, 8], "texture": "#layer1"},
+				"down": {"uv": [0.5, 7, 1.5, 8], "texture": "#layer1"}
+			}
+		},
+		{
+			"name": "sign_main",
+			"from": [0, 8, 8],
+			"to": [16, 16, 9],
+			"faces": {
+				"north": {"uv": [0.5, 1, 6.5, 7], "texture": "#layer1"},
+				"east": {"uv": [0, 1, 0.5, 7], "texture": "#layer1"},
+				"south": {"uv": [6.5, 1, 12.5, 7], "texture": "#layer1"},
+				"west": {"uv": [12.5, 1, 13, 7], "texture": "#layer1"},
+				"up": {"uv": [0.5, 0, 6.5, 1], "texture": "#layer1"},
+				"down": {"uv": [6.5, 0, 12.5, 1], "texture": "#layer1"}
+			}
+		},
+		{
+			"name": "sign_mark",
+			"from": [5, 9, 7.98],
+			"to": [11, 15, 9.02],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#layer2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#layer3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#layer2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#layer3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#layer3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#layer3"}
+			}
+		},
+		{
+			"name": "sign_frame",
+			"from": [5, 9, 7.99],
+			"to": [11, 15, 9.01],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#layer4"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#layer3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#layer4"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#layer3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#layer3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#layer3"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 120, 0],
+			"translation": [0, 4, 1.25],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 120, 0],
+			"translation": [0, 4, 1.25],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 120, 0],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 120, 0],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"gui": {
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"head": {
+			"translation": [0, -33, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"translation": [0, 0, -1]
+		}
+	},
+	"groups": [
+		{
+			"name": "sign",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

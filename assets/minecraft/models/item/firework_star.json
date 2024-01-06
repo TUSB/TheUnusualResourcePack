@@ -151,6 +151,7 @@
         { "predicate": {"custom_model_data": 1040}, "model": "3d_item/firework_star/entity/petit_blackfall"},
         { "predicate": {"custom_model_data": 1041}, "model": "3d_item/firework_star/entity/magic_vegetable_yasaosan"},
         { "predicate": {"custom_model_data": 1042}, "model": "3d_item/firework_star/entity/magic_fruit_cheriff"},
+        { "predicate": {"custom_model_data": 1043}, "model": "3d_item/firework_star/entity/magic_cannon_salute_donchian"},
         { "predicate": {"custom_model_data": 2001}, "model": "item/firework_star/etc/key_block_key"},
         { "predicate": {"custom_model_data": 2001}, "model": "item/firework_star/etc/key_block_key"},
         { "predicate": {"custom_model_data": 2001}, "model": "item/firework_star/etc/key_block_key"},

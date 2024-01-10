@@ -198,8 +198,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:item/light_15.png",
-            "height": 36,
-            "ascent": 36,
+            "height": 32,
+            "ascent": 32,
             "chars": [
             "㉘"
             ]

@@ -10,6 +10,15 @@
             ]
         },
         {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/harvest_frame.png",
+            "height": 42,
+            "ascent": 29,
+            "chars": [
+            "B"
+            ]
+        },
+        {
             "type": "space",
             "advances": {
                 "_": -1.0
@@ -31,6 +40,33 @@
             "ascent": 36,
             "chars": [
             "②"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/gravel.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "④"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/cobweb.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑤"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/cobblestone.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑥"
             ]
         },
         {

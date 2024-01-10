@@ -19,6 +19,15 @@
             ]
         },
         {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/harvest_frame.png",
+            "height": 36,
+            "ascent": 26,
+            "chars": [
+            "V"
+            ]
+        },
+        {
             "type": "space",
             "advances": {
                 "_": -1.0
@@ -184,6 +193,15 @@
             "ascent": 36,
             "chars": [
             "㉗"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/light_15.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉘"
             ]
         },
         {

@@ -230,6 +230,15 @@
             "chars": [
             "㉚"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/nether_wart.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉛"
+            ]
         }
     ]
 }

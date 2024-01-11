@@ -22,6 +22,7 @@
         { "predicate": {"custom_model_data": 27}, "model": "3d_item/magma_cube_spawn_egg/sign/summoner_soul"},
         { "predicate": {"custom_model_data": 28}, "model": "3d_item/magma_cube_spawn_egg/sign/very_glow"},
         { "predicate": {"custom_model_data": 29}, "model": "3d_item/magma_cube_spawn_egg/sign/trade_all"},
-        { "predicate": {"custom_model_data": 30}, "model": "3d_item/magma_cube_spawn_egg/sign/warden_kit"}
+        { "predicate": {"custom_model_data": 30}, "model": "3d_item/magma_cube_spawn_egg/sign/warden_kit"},
+        { "predicate": {"custom_model_data": 31}, "model": "3d_item/magma_cube_spawn_egg/sign/harvest_nether_wart"}
     ]
 }

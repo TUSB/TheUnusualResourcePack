@@ -3,6 +3,7 @@
     "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "3d_item/magma_cube_spawn_egg/sign/trade"},
         { "predicate": {"custom_model_data": 2}, "model": "3d_item/magma_cube_spawn_egg/sign/teleport"},
+        { "predicate": {"custom_model_data": 3}, "model": "3d_item/magma_cube_spawn_egg/sign/break_log"},
         { "predicate": {"custom_model_data": 4}, "model": "3d_item/magma_cube_spawn_egg/sign/break_gravel"},
         { "predicate": {"custom_model_data": 5}, "model": "3d_item/magma_cube_spawn_egg/sign/break_cobweb"},
         { "predicate": {"custom_model_data": 6}, "model": "3d_item/magma_cube_spawn_egg/sign/break_cobblestone"},

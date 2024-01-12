@@ -1,8 +1,8 @@
 {
 	"credit": "Made by AnminMakura",
 	"textures": {
-		"particle": "entity/signs/bamboo",
-		"layer1": "entity/signs/bamboo",
+		"particle": "entity/signs/acacia",
+		"layer1": "entity/signs/acacia",
 		"layer2": "item/carrot",
 		"layer3": "3d_item/common/clear_dots",
 		"layer4": "font/sign/harvest_frame"

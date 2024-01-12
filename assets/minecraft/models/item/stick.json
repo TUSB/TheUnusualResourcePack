@@ -33,7 +33,7 @@
         { "predicate": {"custom_model_data": 2016}, "model": "3d_item/stick/entity/zedra/zedra_leg_downer"},
         { "predicate": {"custom_model_data": 2017}, "model": "3d_item/stick/entity/zedra/zedra_twintail"},
         { "predicate": {"custom_model_data": 2020}, "model": "3d_item/stick/entity/zedra/zedra_scythe"},
-        { "predicate": {"custom_model_data": 2021}, "model": "3d_item/stick/entity/sonica/zedra_sword"},
+        { "predicate": {"custom_model_data": 2021}, "model": "3d_item/stick/entity/zedra/zedra_sword"},
         { "predicate": {"custom_model_data": 3001}, "model": "3d_item/stick/entity/sonica/head_0"},
         { "predicate": {"custom_model_data": 3002}, "model": "3d_item/stick/entity/sonica/head_1"},
         { "predicate": {"custom_model_data": 3003}, "model": "3d_item/stick/entity/sonica/head_2"},

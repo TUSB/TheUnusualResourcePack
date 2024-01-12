@@ -1,6 +1,5 @@
 {
 	"credit": "Made by AnminMakura",
-	"parent": "dolphin",
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "3d_item/firework_star/entity/dolphin_fin"

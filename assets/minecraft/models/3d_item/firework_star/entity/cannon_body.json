@@ -1,6 +1,5 @@
 {
 	"credit": "Made by AnminMakura",
-	"parent": "cannon",
 	"textures": {
 		"layer1": "3d_item/firework_star/entity/cannon_body",
 		"layer2": "3d_item/firework_star/entity/cannon_muzzle",

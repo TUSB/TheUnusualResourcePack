@@ -1,6 +1,5 @@
 {
 	"credit": "Made by AnminMakura",
-	"parent": "tomb_1",
 	"textures": {
 		"0": "block/stone",
 		"particle": "block/stone"

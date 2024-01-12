@@ -1,6 +1,5 @@
 {
 	"credit": "Made by AnminMakura",
-	"parent": "mask_of_potatoism",
 	"textures": {
 		"layer1": "3d_item/warped_fungus_on_a_stick/mask_of_potatoism",
 		"particle": "3d_item/warped_fungus_on_a_stick/mask_of_potatoism"

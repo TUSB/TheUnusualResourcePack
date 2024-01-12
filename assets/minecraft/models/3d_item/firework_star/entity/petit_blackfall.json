@@ -1,6 +1,5 @@
 {
 	"credit": "Made by AnminMakura",
-	"parent": "petit_blackfall",
 	"textures": {
 		"particle": "block/nether_portal",
 		"layer1": "block/nether_portal",

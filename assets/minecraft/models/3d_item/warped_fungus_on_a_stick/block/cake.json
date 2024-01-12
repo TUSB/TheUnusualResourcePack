@@ -1,6 +1,5 @@
 {
 	"credit": "Made by AnminMakura",
-	"parent": "cake",
 	"textures": {
 		"0": "block/cake_bottom",
 		"2": "block/cake_side",

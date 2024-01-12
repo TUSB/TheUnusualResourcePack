@@ -646,11 +646,11 @@
       }
     ]
   },
-  "block.wooden_door.clause_3": {
+  "block.wooden_door.close_3": {
     "replace": true,
     "sounds": [
       {
-        "name": "block/wooden_door/clause3"
+        "name": "block/wooden_door/close3"
       }
     ]
   },

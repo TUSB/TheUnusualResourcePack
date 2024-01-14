@@ -1,0 +1,21 @@
+{
+    "area.entered.skylands": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:entity.illusioner.prepare_blindness","pitch":"0.5"}]
+    },
+
+    "area.entered.cloudia": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:entity.player.levelup","pitch":"0.5"}]
+    },
+
+    "area.entered.cloudia_tutorial": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:entity.player.levelup","pitch":"0.5"}]
+    },
+
+    "area.entered.flying_island": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:entity.player.levelup","pitch":"0.5"}]
+    }
+}

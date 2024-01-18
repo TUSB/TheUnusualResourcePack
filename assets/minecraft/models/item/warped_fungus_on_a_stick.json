@@ -29,6 +29,7 @@
         { "predicate": {"custom_model_data": 26}, "model": "3d_item/warped_fungus_on_a_stick/mask_of_potatoism"},
         { "predicate": {"custom_model_data": 27}, "model": "3d_item/warped_fungus_on_a_stick/safety_helmet"},
         { "predicate": {"custom_model_data": 28}, "model": "3d_item/warped_fungus_on_a_stick/mandarin_oranges"},
+        { "predicate": {"custom_model_data": 29}, "model": "3d_item/warped_fungus_on_a_stick/magic_leafy_vegetables_menicles"},
         { "predicate": {"custom_model_data": 1001}, "model": "3d_item/warped_fungus_on_a_stick/block/portal"},
         { "predicate": {"custom_model_data": 1002}, "model": "3d_item/warped_fungus_on_a_stick/block/fire"},
         { "predicate": {"custom_model_data": 1003}, "model": "3d_item/warped_fungus_on_a_stick/block/soul_fire"},

@@ -5,7 +5,7 @@
 		"layer1": "entity/signs/spruce",
 		"layer2": "block/gravel",
 		"layer3": "3d_item/common/clear_dots",
-		"layer4": "font/sign/harvest_frame"
+		"layer4": "font/sign/crushes_frame"
 	},
 	"elements": [
 		{

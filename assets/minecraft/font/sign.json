@@ -11,7 +11,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/sign/harvest_frame.png",
+            "file": "minecraft:font/sign/crushes_frame.png",
             "height": 42,
             "ascent": 29,
             "chars": [

@@ -197,6 +197,24 @@
             "chars": [
             "E"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/effect/tnt.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "t"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/effect/death_sentence.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "s"
+            ]
         }
     ]
 }

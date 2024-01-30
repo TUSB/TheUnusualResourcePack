@@ -215,6 +215,15 @@
             "chars": [
             "s"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/ender_eye.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+            "r"
+            ]
         }
     ]
 }

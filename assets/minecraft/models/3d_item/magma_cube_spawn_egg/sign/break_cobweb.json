@@ -1,8 +1,8 @@
 {
 	"credit": "Made by AnminMakura",
 	"textures": {
-		"particle": "entity/signs/oak",
-		"layer1": "entity/signs/oak",
+		"particle": "entity/signs/spruce",
+		"layer1": "entity/signs/spruce",
 		"layer2": "block/cobweb",
 		"layer3": "3d_item/common/clear_dots",
 		"layer4": "font/sign/crushes_frame"

@@ -6,7 +6,16 @@
           "ascent": 8,
           "height": 8,
           "chars": [
-              "0123456789.+-<>"
+              "0123456789+-<>"
+          ]
+      },
+      {
+          "type": "bitmap",
+          "file": "minecraft:font/value/dot.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": [
+              "."
           ]
       },
       {

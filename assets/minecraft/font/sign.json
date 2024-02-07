@@ -2,6 +2,39 @@
     "providers": [
         {
             "type": "bitmap",
+            "file": "minecraft:font/sign/harvest_frame.png",
+            "height": 36,
+            "ascent": 26,
+            "chars": [
+            "H"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/crushes_frame.png",
+            "height": 42,
+            "ascent": 29,
+            "chars": [
+            "B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/harvest_frame.png",
+            "height": 36,
+            "ascent": 26,
+            "chars": [
+            "V"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                "_": -1.0
+            }
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/sign/trade.png",
             "height": 36,
             "ascent": 36,
@@ -20,6 +53,78 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:block/oak_log.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "③"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/gravel.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "④"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/cobweb.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑤"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/cobblestone.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑥"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/wheat.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑦"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/potato.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑧"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/carrot.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑨"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/beetroot.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "⑩"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/sign/upgrade_white.png",
             "height": 36,
             "ascent": 36,
@@ -34,6 +139,105 @@
             "ascent": 36,
             "chars": [
             "⑫"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/sheep_spawner.png",
+            "height": 27,
+            "ascent": 27,
+            "chars": [
+            "⑰"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/knight_soul.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉒"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/ninja_soul.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉓"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/hunter_soul.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉔"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/white_mage_soul.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉕"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/black_mage_soul.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉖"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/summoner_soul.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉗"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/light_15.png",
+            "height": 32,
+            "ascent": 32,
+            "chars": [
+            "㉘"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/trade2.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉙"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sign/sculk_catalyst_top_bloom.png",
+            "height": 27,
+            "ascent": 27,
+            "chars": [
+            "㉚"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/nether_wart.png",
+            "height": 36,
+            "ascent": 36,
+            "chars": [
+            "㉛"
             ]
         }
     ]

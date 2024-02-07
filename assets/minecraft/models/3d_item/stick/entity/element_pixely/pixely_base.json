@@ -1,0 +1,61 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "3d_item/stick/entity/pixely_base",
+		"particle": "3d_item/stick/entity/pixely_base"
+	},
+	"elements": [
+		{
+			"from": [4, 7.005, 3],
+			"to": [12, 8.995, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 8, 4]},
+			"faces": {
+				"north": {"uv": [0, 4, 8, 6], "texture": "#0"},
+				"east": {"uv": [8, 2, 10, 4], "texture": "#0"},
+				"south": {"uv": [8, 4, 16, 6], "texture": "#0"},
+				"west": {"uv": [8, 0, 10, 2], "texture": "#0"},
+				"up": {"uv": [8, 2, 0, 0], "texture": "#0"},
+				"down": {"uv": [8, 2, 0, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 7.005, 11],
+			"to": [12, 8.995, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 8, 12]},
+			"faces": {
+				"north": {"uv": [16, 4, 8, 6], "texture": "#0"},
+				"east": {"uv": [10, 2, 8, 4], "texture": "#0"},
+				"south": {"uv": [8, 4, 0, 6], "texture": "#0"},
+				"west": {"uv": [10, 0, 8, 2], "texture": "#0"},
+				"up": {"uv": [8, 0, 0, 2], "texture": "#0"},
+				"down": {"uv": [8, 4, 0, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11, 7, 4],
+			"to": [13, 9, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [17, 0, 15]},
+			"faces": {
+				"north": {"uv": [8, 0, 10, 2], "texture": "#0"},
+				"east": {"uv": [0, 4, 8, 6], "texture": "#0"},
+				"south": {"uv": [8, 2, 10, 4], "texture": "#0"},
+				"west": {"uv": [8, 4, 16, 6], "texture": "#0"},
+				"up": {"uv": [8, 2, 0, 0], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 4, 8, 2], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 7, 4],
+			"to": [5, 9, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 15]},
+			"faces": {
+				"north": {"uv": [10, 0, 8, 2], "texture": "#0"},
+				"east": {"uv": [16, 4, 8, 6], "texture": "#0"},
+				"south": {"uv": [10, 2, 8, 4], "texture": "#0"},
+				"west": {"uv": [8, 4, 0, 6], "texture": "#0"},
+				"up": {"uv": [8, 0, 0, 2], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 2, 8, 4], "rotation": 90, "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,75 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "3d_item/stick/entity/sonica",
+		"particle": "3d_item/stick/entity/sonica"
+	},
+	"elements": [
+		{
+			"name": "body_0_under",
+			"from": [4, 8, 6],
+			"to": [12, 14, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10.375, 8]},
+			"faces": {
+				"north": {"uv": [6, 0.5, 7, 1.25], "texture": "#0"},
+				"east": {"uv": [5.5, 0.5, 6, 1.25], "texture": "#0"},
+				"south": {"uv": [7.5, 0.5, 8.5, 1.25], "texture": "#0"},
+				"west": {"uv": [7, 0.5, 7.5, 1.25], "texture": "#0"},
+				"up": {"uv": [7, 0.5, 6, 0], "texture": "#0"},
+				"down": {"uv": [8, 0, 7, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "body_0_cloth",
+			"from": [3.9, 7.8, 5.9],
+			"to": [12.1, 14.2, 10.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10.375, 8]},
+			"faces": {
+				"north": {"uv": [9, 0.5, 10, 1.25], "texture": "#0"},
+				"east": {"uv": [8.5, 0.5, 9, 1.25], "texture": "#0"},
+				"south": {"uv": [10.5, 0.5, 11.5, 1.25], "texture": "#0"},
+				"west": {"uv": [10, 0.5, 10.5, 1.25], "texture": "#0"},
+				"up": {"uv": [10, 0.5, 9, 0], "texture": "#0"},
+				"down": {"uv": [11, 0, 10, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "body_0_armor",
+			"from": [3.8, 7.6, 5.8],
+			"to": [12.2, 14.4, 10.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10.375, 8]},
+			"faces": {
+				"north": {"uv": [12, 0.5, 13, 1.25], "texture": "#0"},
+				"east": {"uv": [11.5, 0.5, 12, 1.25], "texture": "#0"},
+				"south": {"uv": [13.5, 0.5, 14.5, 1.25], "texture": "#0"},
+				"west": {"uv": [13, 0.5, 13.5, 1.25], "texture": "#0"},
+				"up": {"uv": [13, 0.5, 12, 0], "texture": "#0"},
+				"down": {"uv": [14, 0, 13, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "body_0_armor2",
+			"from": [3.7, 7.5, 5.7],
+			"to": [12.3, 11, 10.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10.375, 8]},
+			"faces": {
+				"north": {"uv": [15, 0.875, 16, 1.25], "texture": "#0"},
+				"east": {"uv": [14.5, 0.875, 15, 1.25], "texture": "#0"},
+				"south": {"uv": [15, 0.5, 16, 0.875], "texture": "#0"},
+				"west": {"uv": [14.5, 0.5, 15, 0.875], "texture": "#0"},
+				"up": {"uv": [15, 0.5, 14, 0], "texture": "#0"},
+				"down": {"uv": [16, 0, 15, 0.5], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "body_0",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

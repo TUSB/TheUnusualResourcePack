@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "3d_item/stick/entity/zedra",
+		"particle": "3d_item/stick/entity/zedra"
+	},
+	"elements": [
+		{
+			"from": [7.25, 2, 7.25],
+			"to": [8.75, 8, 8.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [-12.15316, 8.09229, 10.6]},
+			"faces": {
+				"north": {"uv": [1.75, 2, 2, 2.25], "texture": "#1"},
+				"east": {"uv": [1.75, 2, 2, 2.25], "texture": "#1"},
+				"south": {"uv": [1.75, 2, 2, 2.25], "texture": "#1"},
+				"west": {"uv": [1.75, 2, 2, 2.25], "texture": "#1"},
+				"up": {"uv": [2, 2.25, 1.75, 2], "texture": "#1"},
+				"down": {"uv": [1.75, 2, 2, 2.25], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -27, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

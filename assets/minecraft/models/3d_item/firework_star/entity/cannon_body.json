@@ -1,0 +1,121 @@
+{
+	"credit": "Made by AnminMakura",
+	"textures": {
+		"layer1": "3d_item/firework_star/entity/cannon_body",
+		"layer2": "3d_item/firework_star/entity/cannon_muzzle",
+		"particle": "3d_item/firework_star/entity/cannon_body"
+	},
+	"elements": [
+		{
+			"name": "b1",
+			"from": [3, 3, 17],
+			"to": [13, 13, 18],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 0.75]},
+			"faces": {
+				"north": {"uv": [0, 16, 0, 16], "texture": "#layer2", "tintindex": 1},
+				"east": {"uv": [12, 3, 13, 13], "texture": "#layer1", "tintindex": 1},
+				"south": {"uv": [3, 3, 13, 13], "texture": "#layer1", "tintindex": 1},
+				"west": {"uv": [3, 3, 4, 13], "texture": "#layer1", "tintindex": 1},
+				"up": {"uv": [3, 3, 13, 4], "texture": "#layer1", "tintindex": 1},
+				"down": {"uv": [3, 12, 13, 13], "texture": "#layer1", "tintindex": 1}
+			}
+		},
+		{
+			"name": "b2",
+			"from": [1, 1, -1],
+			"to": [15, 15, 17],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 0.75]},
+			"faces": {
+				"north": {"uv": [15, 1, 1, 15], "texture": "#layer1", "tintindex": 1},
+				"east": {"uv": [2, 1, 14, 15], "texture": "#layer1", "tintindex": 1},
+				"south": {"uv": [1, 1, 15, 15], "texture": "#layer1", "tintindex": 1},
+				"west": {"uv": [0, 1, 16, 15], "texture": "#layer1", "tintindex": 1},
+				"up": {"uv": [1, 0, 15, 16], "texture": "#layer1", "tintindex": 1},
+				"down": {"uv": [15, 16, 1, 0], "texture": "#layer1", "tintindex": 1}
+			}
+		},
+		{
+			"name": "b3",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 0.75]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#layer1", "tintindex": 1},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#layer1", "tintindex": 1}
+			}
+		},
+		{
+			"name": "b4",
+			"from": [2, 2, -4],
+			"to": [14, 14, -1],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 0.75]},
+			"faces": {
+				"north": {"uv": [14, 2, 2, 14], "texture": "#layer1", "tintindex": 1},
+				"east": {"uv": [12, 2, 15, 14], "texture": "#layer1", "tintindex": 1},
+				"south": {"uv": [0, 16, 0, 16], "texture": "#layer2", "tintindex": 1},
+				"west": {"uv": [1, 2, 4, 14], "texture": "#layer1", "tintindex": 1},
+				"up": {"uv": [2, 1, 14, 4], "texture": "#layer1", "tintindex": 1},
+				"down": {"uv": [2, 12, 14, 15], "texture": "#layer1", "tintindex": 1}
+			}
+		},
+		{
+			"name": "b5",
+			"from": [3, 3, -9],
+			"to": [13, 13, -4],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 0.75]},
+			"faces": {
+				"north": {"uv": [10, 0, 0, 10], "texture": "#layer2", "tintindex": 1},
+				"east": {"uv": [11, 3, 16, 13], "texture": "#layer1", "tintindex": 1},
+				"south": {"uv": [16, 16, 16, 16], "texture": "#layer2", "tintindex": 1},
+				"west": {"uv": [6, 3, 1, 13], "texture": "#layer1", "tintindex": 1},
+				"up": {"uv": [4, 5, 14, 0], "texture": "#layer1", "tintindex": 1},
+				"down": {"uv": [14, 10, 4, 15], "texture": "#layer1", "tintindex": 1}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [0, -2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, -2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 1.25, 0],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -25],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "body",
+			"origin": [8, 8, 0.75],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

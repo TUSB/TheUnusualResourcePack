@@ -1,4 +1,8 @@
 {
+  "attribute.name.generic.luck": "Magical Power",
+  "effect.minecraft.luck": "MP Increase",
+  "effect.minecraft.unluck": "MP Decrease",
+  "effect.minecraft.bad_omen": "Curse",
   "enchantment.level.12": "XII",
   "enchantment.level.14": "XIV",
   "enchantment.level.16": "XVI"

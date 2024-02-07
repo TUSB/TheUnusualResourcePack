@@ -1,0 +1,94 @@
+{
+  "providers": [
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/physical.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "p"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/fire.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "f"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/ice.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "c"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/lightning.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "n"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/light.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "l"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/dark.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "d"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/weak.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "O"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/normal.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "o"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/resistance.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "x"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/element/recover.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "X"
+        ]
+    }
+  ]
+}

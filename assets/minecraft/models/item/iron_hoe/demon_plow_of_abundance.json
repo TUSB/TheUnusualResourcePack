@@ -1,0 +1,6 @@
+{
+    "parent": "parent/handheld/2x",
+    "textures": {
+        "layer0": "item/iron_hoe/demon_plow_of_abundance"
+    }
+}

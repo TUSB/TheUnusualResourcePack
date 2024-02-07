@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "3d_item/stick/entity/zedra",
+		"particle": "3d_item/stick/entity/zedra"
+	},
+	"elements": [
+		{
+			"name": "Leg",
+			"from": [6.005, 0.8, 6.005],
+			"to": [9.995, 8.8, 9.995],
+			"faces": {
+				"north": {"uv": [0, 6.5, 2.5, 7.75], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [0, 5.25, 2.5, 6.5], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0, 7.75, 2.5, 9], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2.5, 5.25, 3.75, 7.75], "texture": "#1"},
+				"up": {"uv": [0, 4, 1.25, 5.25], "texture": "#1"},
+				"down": {"uv": [1.25, 4, 2.5, 5.25], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Leg",
+			"from": [5.8, 0.8, 5.8],
+			"to": [10.2, 8.8, 10.2],
+			"faces": {
+				"north": {"uv": [0, 10.25, 2.5, 11.5], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [0, 9, 2.5, 10.25], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0, 11.5, 2.5, 12.75], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [2.5, 8.75, 3.75, 11.25], "texture": "#1"},
+				"up": {"uv": [0, 0, 0.25, 0.25], "texture": "#1"},
+				"down": {"uv": [0, 0, 0.25, 0.25], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -27, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "RightLeg Upper",
+			"origin": [1.9, 12, 0],
+			"rotation": [-11, 0, 2],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

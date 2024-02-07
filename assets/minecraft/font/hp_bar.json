@@ -1,0 +1,37 @@
+{
+  "providers": [
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/hp_bar/heart.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "H"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/hp_bar/on.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "+"
+        ]
+    },
+    {
+        "type": "bitmap",
+        "file": "minecraft:font/hp_bar/off.png",
+        "height": 9,
+        "ascent": 8,
+        "chars": [
+        "-"
+        ]
+    },
+    {
+        "type": "space",
+        "advances": {
+            "_": -1.0
+        }
+    }
+  ]
+}

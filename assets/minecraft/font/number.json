@@ -1,0 +1,28 @@
+{
+  "providers": [
+      {
+          "type": "bitmap",
+          "file": "minecraft:font/value/number.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": [
+              "0123456789+-<>"
+          ]
+      },
+      {
+          "type": "bitmap",
+          "file": "minecraft:font/value/dot.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": [
+              "."
+          ]
+      },
+      {
+          "type": "space",
+          "advances": {
+              " ": 4.0
+          }
+      }
+  ]
+}

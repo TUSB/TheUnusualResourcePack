@@ -1,0 +1,23 @@
+{
+	"credit": "Made by AnminMakura",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "3d_item/firework_star/entity/dolphin_fin"
+	},
+	"elements": [
+		{
+			"name": "tail_fin",
+			"from": [3, 7.5, 2.5],
+			"to": [13, 8.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [11, 3, 16, 3.5], "texture": "#1"},
+				"east": {"uv": [8, 3, 11, 3.5], "texture": "#1"},
+				"south": {"uv": [3, 3, 8, 3.5], "texture": "#1"},
+				"west": {"uv": [0, 3, 3, 3.5], "texture": "#1"},
+				"up": {"uv": [8, 3, 3, 0], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [13, 0, 8, 3], "rotation": 180, "texture": "#1"}
+			}
+		}
+	]
+}

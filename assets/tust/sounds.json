@@ -1,0 +1,138 @@
+{
+    "area.entered.": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:random/levelup","pitch":0.5}]
+    },
+
+    "area.entered.babel": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:mob/illusion_illager/prepare_blind","pitch":0.5}]
+    },
+
+    "area.entered.casino": {
+        "replace": true,
+        "sounds": [{"name": "fireworks/launch1","pitch":0.5}]
+    },
+
+    "area.entered.casino_add1": {
+        "replace": true,
+        "sounds": [{"name": "fireworks/twinkle_far1","pitch":1.0}]
+    },
+
+    "area.entered.cloudia": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:random/levelup","pitch":0.5}]
+    },
+
+    "area.entered.cloudia_tutorial": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:random/levelup","pitch":0.5}]
+    },
+
+    "area.entered.control_area": {
+        "replace": true,
+        "sounds": [
+            {"name": "minecraft:entity.lightning_bolt.thunder","pitch":0.5,"type":"event"}
+        ]
+    },
+
+    "area.entered.debug_room": {
+        "replace": true,
+        "sounds": [
+            {"name": "minecraft:entity.lightning_bolt.thunder","pitch":1.0,"type":"event"}
+        ]
+    },
+
+    "area.entered.desert": {
+        "replace": true,
+        "sounds": [
+            {"name": "minecraft:block.sand.place","pitch":0.5,"type":"event"}
+        ]
+    },
+
+    "area.entered.end": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:block/end_portal/endportal","pitch":0.5}]
+    },
+
+    "area.entered.extra_domain": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:random/levelup","pitch":0.5}]
+    },
+
+    "area.entered.flying_island": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:random/levelup","pitch":0.5}]
+    },
+
+    "area.entered.gullivers_land": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:ambient.cave","pitch":0.5,"type":"event"}]
+    },
+
+    "area.entered.imaginary_space": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:empty","pitch":1.0}]
+    },
+
+    "area.entered.moon": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:empty","pitch":1.0}]
+    },
+
+    "area.entered.nether": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:portal/portal","pitch":1.0}]
+    },
+
+    "area.entered.nether_dungeon": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:portal/portal","pitch":1.0}]
+    },
+
+    "area.entered.nether_trial": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:portal/portal","pitch":1.0}]
+    },
+
+    "area.entered.quest_area": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:random/levelup","pitch":0.5}]
+    },
+
+    "area.entered.skylands": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:mob/illusion_illager/prepare_blind","pitch":0.5}]
+    },
+
+    "area.entered.table_mountain": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:entity.generic.explode","pitch":0.5,"type":"event"}]
+    },
+
+    "area.entered.theater": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:block.wooden_door.open","pitch":0.5,"type":"event"}]
+    },
+
+    "area.entered.theater_back": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:block.wooden_door.open","pitch":0.5,"type":"event"}]
+    },
+
+    "area.entered.tocult_colde": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:random/levelup","pitch":0.5}]
+    },
+
+    "area.entered.underworld": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:ambient.cave","pitch":0.5,"type":"event"}]
+    },
+
+    "area.entered.void": {
+        "replace": true,
+        "sounds": [{"name": "minecraft:random/levelup","pitch":0.5}]
+    }
+
+}

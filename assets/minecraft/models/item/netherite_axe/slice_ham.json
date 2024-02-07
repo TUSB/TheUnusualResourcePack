@@ -1,0 +1,40 @@
+{
+    "credit": "Made by AnminMakura",
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_axe/slice_ham"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -50, 0],
+            "translation": [ 2.25, 6.25, 3.75],
+            "scale": [ 1, 1, 0.15]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, -50, 0],
+            "translation": [ 2.25, 6.25, 3.75],
+            "scale": [ 1, 1, 0.15]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -50, 0],
+            "translation": [ -2, 4.5, 4],
+            "scale": [ 0.7, 0.7, 0.15]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, -50, 0],
+            "translation": [ -2, 4.5, 4],
+            "scale": [ 0.7, 0.7, 0.15]
+        },
+        "ground": {
+            "rotation": [ 90, 0, 0],
+            "scale": [ 1.2, 1.2, 0.2]
+        },
+        "gui": {
+            "scale": [ 0.8, 0.8, 0.8]
+        },
+        "head": {
+            "rotation": [ 90, 0, 0],
+            "scale": [ 3, 3, 0.2]
+        }
+    }
+}

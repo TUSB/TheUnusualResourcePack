@@ -17,6 +17,7 @@
         { "predicate": {"custom_model_data": 11}, "model": "3d_item/scute/entity/mushroom/gold_model1"},
         { "predicate": {"custom_model_data": 12}, "model": "3d_item/scute/item/mushroom/gold_model1"},
         { "predicate": {"custom_model_data": 13}, "model": "3d_item/scute/entity/mushroom/kaentake_model1"},
-        { "predicate": {"custom_model_data": 14}, "model": "3d_item/scute/item/mushroom/kaentake_model1"}
+        { "predicate": {"custom_model_data": 14}, "model": "3d_item/scute/item/mushroom/kaentake_model1"},
+        { "predicate": {"custom_model_data": 15}, "model": "3d_item/scute/entity/cherry_tree"}
     ]
 }

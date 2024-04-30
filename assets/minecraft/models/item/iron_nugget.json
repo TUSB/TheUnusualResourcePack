@@ -6,6 +6,8 @@
     "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "item/iron_nugget/currency_megaton_emerald"},
         { "predicate": {"custom_model_data": 2}, "model": "item/iron_nugget/currency_gigant_emerald"},
-        { "predicate": {"custom_model_data": 13}, "model": "item/iron_nugget/currency_void"}
+        { "predicate": {"custom_model_data": 4}, "model": "item/iron_nugget/currency_underworld"},
+        { "predicate": {"custom_model_data": 13}, "model": "item/iron_nugget/currency_void"},
+        { "predicate": {"custom_model_data": 17}, "model": "item/iron_nugget/chaos_core"}
     ]
 }

@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "tusb:item/bow/ragged_bow/pulling_0"
+    }
+}

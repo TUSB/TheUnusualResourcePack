@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "tusb:item/bow/a_ray_on_the_move/pulling_2"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "tusb:item/bow/demons_repel_bow/pulling_1"
+    }
+}

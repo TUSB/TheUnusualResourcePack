@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/nautilus_shell",
+        "layer1": "tusb:item/aura/light/silver"
+    }
+}

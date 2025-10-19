@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/fishing_rod",
+        "layer1": "tusb:item/aura/fire/element"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bundle_open_back",
+        "layer1": "item/bundle_open_front"
+    }
+}

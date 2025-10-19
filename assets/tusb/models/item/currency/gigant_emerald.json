@@ -1,6 +1,6 @@
 {
     "parent": "parent/accessories/2_0x",
     "textures": {
-        "layer0": "item/iron_nugget/currency_gigant_emerald"
+        "layer0": "tusb:item/currency/gigant_emerald"
     }
 }

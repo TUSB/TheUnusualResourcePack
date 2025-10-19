@@ -1,6 +1,6 @@
 {
     "parent": "parent/accessories/1_5x",
     "textures": {
-        "layer0": "item/iron_nugget/currency_megaton_emerald"
+        "layer0": "tusb:item/currency/megaton_emerald"
     }
 }

@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:bundle/fullness",
+        "entries": [
+            {
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tusb:item/bundle/jewel/normal"
+                },
+                "threshold": 1e-7
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "tusb:item/bundle/jewel/filled"
+        }
+    }
+}

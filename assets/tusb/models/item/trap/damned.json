@@ -1,5 +1,5 @@
 {
-    "parent": "parent/accessories/1_0x",
+    "parent": "tusb:parent/accessories/1_0x",
     "textures": {
         "layer0": "minecraft:item/end_crystal",
         "layer1": "tusb:item/aura/light/negative_violet"

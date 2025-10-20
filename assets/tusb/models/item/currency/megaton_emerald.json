@@ -1,5 +1,5 @@
 {
-    "parent": "parent/accessories/1_5x",
+    "parent": "tusb:tusb:parent/accessories/1_5x",
     "textures": {
         "layer0": "tusb:item/currency/megaton_emerald"
     }

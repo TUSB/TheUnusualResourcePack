@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "tusb:item/weapon/bow/fion_seatra/pulling_2"
+    }
+}

@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/bow",
     "textures": {
-        "layer0": "tusb:item/skill/bow/pulling_1"
+        "layer0": "tusb:item/skill/bow/hunter_bow/pulling_1"
     }
 }

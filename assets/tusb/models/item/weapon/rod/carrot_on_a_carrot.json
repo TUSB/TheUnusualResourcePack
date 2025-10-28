@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "tusb:item/weapon/rod/carrot_on_a_carrot"
+    }
+}

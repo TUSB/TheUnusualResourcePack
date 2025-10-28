@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:item/handheld",
+    "display": {
+        "ground": {
+            "translation": [ 0, -3, 0],
+            "scale": [ 1.2, 1.2, 1.2]
+        }
+    },
+    "textures": {
+        "layer0": "tusb:item/skill/misc/a_chin_egg",
+        "particle": "tusb:item/skill/misc/a_chin_egg"
+    }
+}

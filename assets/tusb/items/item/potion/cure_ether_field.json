@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "tusb:item/potion/cure_ether_field"
+    }
+}

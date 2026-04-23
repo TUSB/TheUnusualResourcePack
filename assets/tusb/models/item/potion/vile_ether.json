@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/carrot_on_a_stick/high_ether"
+        "layer0": "tusb:item/potion/vile_ether"
     }
 }

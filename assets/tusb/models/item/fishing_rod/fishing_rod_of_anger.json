@@ -2,6 +2,6 @@
     "parent": "item/handheld",
     "textures": {
         "layer0": "item/fishing_rod",
-        "layer1": "item/aura/fire/element"
+        "layer1": "tusb:item/aura/fire/element"
     }
 }

@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/carrot_on_a_stick/holy_water"
+        "layer0": "tusb:item/potion/holy_water"
     }
 }

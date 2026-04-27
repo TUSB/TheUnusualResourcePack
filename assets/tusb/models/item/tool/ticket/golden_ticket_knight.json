@@ -1,0 +1,6 @@
+{
+    "parent": "tusb:parent/ticket/1x",
+    "textures": {
+        "layer0": "tusb:item/tool/ticket/golden_ticket_knight"
+    }
+}

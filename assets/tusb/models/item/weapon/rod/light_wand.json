@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld_rod",
     "textures": {
-        "layer0": "item/carrot_on_a_stick/dark_wand"
+        "layer0": "tusb:item/weapon/rod/light_wand"
     }
 }

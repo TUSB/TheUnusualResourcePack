@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "tusb:item/food/golden_mutton",
+        "layer1": "tusb:item/aura/light/addlight"
+    }
+}

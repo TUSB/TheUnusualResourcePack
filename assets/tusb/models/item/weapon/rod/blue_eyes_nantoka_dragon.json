@@ -2,6 +2,6 @@
     "parent": "item/handheld",
     "textures": {
         "layer0": "item/diamond_horse_armor",
-        "layer1": "item/aura/lightning/addice"
+        "layer1": "tusb:item/aura/lightning/addice"
     }
 }

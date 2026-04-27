@@ -7,7 +7,7 @@
         }
     },
     "textures": {
-        "layer0": "item/carrot_on_a_stick/banana_peel",
-        "particle": "item/carrot_on_a_stick/banana_peel"
+        "layer0": "tusb:item/weapon/rod/banana_peel",
+        "particle": "tusb:item/weapon/rod/banana_peel"
     }
 }

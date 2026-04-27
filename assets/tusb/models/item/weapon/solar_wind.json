@@ -2,6 +2,6 @@
     "parent": "item/handheld",
     "textures": {
         "layer0": "item/feather",
-        "layer1": "item/aura/fire/gold"
+        "layer1": "tusb:item/aura/fire/gold"
     }
 }

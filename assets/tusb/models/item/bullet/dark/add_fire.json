@@ -1,0 +1,7 @@
+{
+    "parent": "tusb:parent/bullet/2x",
+    "textures": {
+        "layer0": "tusb:item/bullet/clear_dots",
+        "layer1": "tusb:item/bullet/overlay/dark/add_fire"
+    }
+}

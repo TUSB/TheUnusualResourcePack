@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "tusb:item/food/wafer_skylands"
+    }
+}

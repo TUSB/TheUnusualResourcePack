@@ -2,8 +2,8 @@
 	"credit": "Made by AnminMakura",
 	"texture_size": [32, 32],
 	"textures": {
-		"particle": "3d_item/firework_star/bullet/kana_tarai",
-		"layer1": "3d_item/firework_star/bullet/kana_tarai"
+		"particle": "tusb:item/bullet/kana_tarai",
+		"layer1": "tusb:item/bullet/kana_tarai"
 	},
 	"elements": [
 		{

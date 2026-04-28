@@ -1,8 +1,8 @@
 {
 	"credit": "Made by AnminMakura",
 	"textures": {
-		"particle": "3d_item/firework_star/bullet/magnum",
-		"layer1": "3d_item/firework_star/bullet/magnum"
+		"particle": "tusb:item/bullet/magnum",
+		"layer1": "tusb:item/bullet/magnum"
 	},
 	"elements": [
 		{

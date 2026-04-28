@@ -2,8 +2,8 @@
 	"credit": "Made by AnminMakura",
 	"texture_size": [32, 32],
 	"textures": {
-		"particle": "3d_item/firework_star/bullet/common_bomb",
-		"layer1": "3d_item/firework_star/bullet/common_bomb"
+		"particle": "tusb:item/bullet/common_bomb",
+		"layer1": "tusb:item/bullet/common_bomb"
 	},
 	"elements": [
 		{

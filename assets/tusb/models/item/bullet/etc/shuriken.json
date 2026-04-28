@@ -7,7 +7,7 @@
         }
     },
     "textures": {
-        "layer0": "item/firework_star/clear_dots",
-        "layer1": "item/firework_star_overlay/etc/shuriken"
+        "layer0": "tusb:item/bullet/clear_dots",
+        "layer1": "tusb:item/bullet/overlay/etc/shuriken"
     }
 }

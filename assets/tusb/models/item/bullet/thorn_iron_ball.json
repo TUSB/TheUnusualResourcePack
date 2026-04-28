@@ -2,8 +2,8 @@
 	"credit": "Made by AnminMakura",
 	"texture_size": [32, 32],
 	"textures": {
-		"layer1": "3d_item/firework_star/bullet/thorn_iron_ball",
-		"particle": "3d_item/firework_star/bullet/thorn_iron_ball"
+		"layer1": "tusb:item/bullet/thorn_iron_ball",
+		"particle": "tusb:item/bullet/thorn_iron_ball"
 	},
 	"elements": [
 		{

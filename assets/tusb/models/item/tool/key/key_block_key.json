@@ -2,6 +2,6 @@
     "parent": "tusb:parent/handheld_flipped/1x",
     "textures": {
         "layer0": "tusb:item/bullet/clear_dots",
-        "layer1": "item/firework_star_overlay/etc/key_block_key"
+        "layer1": "tusb:item/tool/key/key_block_key"
     }
 }

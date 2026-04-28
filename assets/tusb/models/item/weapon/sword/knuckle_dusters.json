@@ -1,7 +1,7 @@
 {
 	"credit": "Made by Rei",
 	"textures": {
-		"layer1": "3d_item/carrot_on_a_stick/weapon/knuckle_dusters"
+		"layer1": "tusb:item/weapon/sword/knuckle_dusters"
 	},
 	"elements": [
 		{

@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "tusb:item/weapon/sword/ragged_sword"
+    }
+}

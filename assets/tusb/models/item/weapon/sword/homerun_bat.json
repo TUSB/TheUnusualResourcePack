@@ -1,0 +1,6 @@
+{
+    "parent": "tusb:parent/handheld_flipped/2x",
+    "textures": {
+        "layer0": "tusb:item/weapon/sword/homerun_bat"
+    }
+}

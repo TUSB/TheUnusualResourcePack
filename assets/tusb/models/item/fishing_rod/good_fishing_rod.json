@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld_rod",
     "textures": {
-        "layer0": "item/fishing_rod/good_fishing_rod"
+        "layer0": "tusb:item/fishing_rod/good_fishing_rod"
     }
 }

@@ -2,9 +2,9 @@
 	"credit": "Made by AnminMakura",
 	"texture_size": [32, 32],
 	"textures": {
-		"particle": "3d_item/firework_star/bullet/crystal_main",
-		"layer1": "3d_item/firework_star/bullet/crystal_main",
-		"layer2": "3d_item/firework_star/bullet/crystal_reflections"
+		"particle": "tusb:item/tool/accessory/crystal_main",
+		"layer1": "tusb:item/tool/accessory/crystal_main",
+		"layer2": "tusb:item/tool/accessory/crystal_reflections"
 	},
 	"elements": [
 		{

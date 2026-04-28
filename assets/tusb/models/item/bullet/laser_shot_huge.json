@@ -1,8 +1,8 @@
 {
 	"credit": "Made by AnminMakura",
 	"textures": {
-		"particle": "3d_item/firework_star/bullet/laser_shot",
-		"layer1": "3d_item/firework_star/bullet/laser_shot"
+		"particle": "tusb:item/bullet/laser_shot",
+		"layer1": "tusb:item/bullet/laser_shot"
 	},
 	"elements": [
 		{

@@ -2,6 +2,6 @@
     "parent": "item/handheld",
     "textures": {
         "layer0": "item/stone_axe",
-        "layer1": "item/aura/fire/blade"
+        "layer1": "tusb:item/aura/fire/blade"
     }
 }

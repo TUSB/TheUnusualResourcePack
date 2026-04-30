@@ -19,6 +19,6 @@
         }
     },
     "textures": {
-        "layer0": "item/stone_sword/dillen_wise"
+        "layer0": "tusb:item/weapon/sword/dillen_wise"
     }
 }

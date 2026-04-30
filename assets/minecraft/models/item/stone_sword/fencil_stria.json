@@ -1,6 +1,0 @@
-{
-    "parent": "parent/handheld/2x",
-    "textures": {
-        "layer0": "item/stone_sword/fencil_stria"
-    }
-}

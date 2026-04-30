@@ -23,6 +23,6 @@
         }
     },
     "textures": {
-        "layer0": "item/stone_sword/gram_sword"
+        "layer0": "tusb:item/weapon/sword/gram_sword"
     }
 }

@@ -1,6 +1,14 @@
 {
     "model": {
-        "type": "minecraft:model",
-        "model": "tusb:item/fishing_rod/good_fishing_rod"
+        "type": "minecraft:condition",
+        "property": "fishing_rod/cast",
+        "on_false": {
+            "type": "minecraft:model",
+            "model": "tusb:item/fishing_rod/good_fishing_rod"
+        },
+        "on_true": {
+            "type": "minecraft:model",
+            "model": "tusb:item/fishing_rod/good_fishing_rod_cast"
+        }
     }
 }

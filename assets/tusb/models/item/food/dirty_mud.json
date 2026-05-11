@@ -2,6 +2,6 @@
     "parent": "item/generated",
     "textures": {
         "layer0": "item/brown_dye",
-        "layer1": "item/aura/lightning/negative_green"
+        "layer1": "tusb:item/aura/lightning/negative_green"
     }
 }

@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "3d_item/firework_star/entity/curse/magic_stone6_blue",
-		"particle": "3d_item/firework_star/entity/curse/magic_stone6_blue"
+		"0": "tusb:item/mob/curse/magic_stone6_blue",
+		"particle": "tusb:item/mob/curse/magic_stone6_blue"
 	},
 	"elements": [
 		{

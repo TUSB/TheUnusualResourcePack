@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "3d_item/stick/entity/sonica",
-		"particle": "3d_item/stick/entity/sonica"
+		"0": "tusb:item/mob/sonica",
+		"particle": "tusb:item/mob/sonica"
 	},
 	"elements": [
 		{

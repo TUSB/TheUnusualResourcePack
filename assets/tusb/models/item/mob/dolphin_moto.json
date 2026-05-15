@@ -2,8 +2,8 @@
 	"credit": "Made by AnminMakura",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "3d_item/firework_star/entity/dolphin",
-		"particle": "3d_item/firework_star/entity/dolphin"
+		"0": "tusb:item/mob/dolphin",
+		"particle": "tusb:item/mob/dolphin"
 	},
 	"elements": [
 		{

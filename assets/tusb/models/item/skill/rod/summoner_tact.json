@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:parent/handheld_rod_flipped/1x",
+    "parent": "tusb:parent/handheld_rod_flipped/1x",
     "textures": {
         "layer0": "tusb:item/skill/rod/summoner_tact"
     }

@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "tusb:item/bullet/negative_red"
+        "model": "tusb:item/bullet/fire/negative_red"
     }
 }

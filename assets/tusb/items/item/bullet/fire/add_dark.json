@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "tusb:item/bullet/add_dark"
+        "model": "tusb:item/bullet/fire/add_dark"
     }
 }

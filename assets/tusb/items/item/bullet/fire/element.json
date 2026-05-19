@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "tusb:item/bullet/element"
+        "model": "tusb:item/bullet/fire/element"
     }
 }

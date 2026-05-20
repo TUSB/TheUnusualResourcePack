@@ -4,7 +4,7 @@
 		"2": "block/nether_portal",
 		"3": "block/crying_obsidian",
 		"4": "block/obsidian",
-		"layer3": "tusb:common/clear_dots",
+		"layer3": "tusb:item/common/clear_dots",
 		"layer4": "tusb:item/mob/monster_eye",
 		"particle": "block/nether_portal"
 	},

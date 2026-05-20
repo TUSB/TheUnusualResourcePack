@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "tusb:common/clear_dots"
+        "model": "tusb:item/common/clear_dots"
     }
 }

@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "tusb:item/potion/dark_crystal",
 		"1": "tusb:item/tool/accessory/crystal_reflections",
-		"2": "tusb:common/rgb_color_map",
+		"2": "tusb:item/common/rgb_color_map",
 		"particle": "tusb:item/potion/dark_crystal"
 	},
 	"elements": [

@@ -4,7 +4,7 @@
 		"particle": "entity/signs/oak",
 		"layer1": "entity/signs/oak",
 		"layer2": "font/sign/ninja_soul",
-		"layer3": "tusb:common/clear_dots"
+		"layer3": "tusb:item/common/clear_dots"
 	},
 	"elements": [
 		{

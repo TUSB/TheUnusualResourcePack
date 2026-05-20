@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/water_flow",
 		"1": "block/water_still",
-		"2": "tusb:common/clear_dots",
+		"2": "tusb:item/common/clear_dots",
 		"particle": "block/water_flow"
 	},
 	"elements": [

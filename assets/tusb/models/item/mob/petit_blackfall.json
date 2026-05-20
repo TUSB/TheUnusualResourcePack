@@ -3,8 +3,8 @@
 	"textures": {
 		"particle": "block/nether_portal",
 		"layer1": "block/nether_portal",
-		"layer2": "tusb:common/rgb_color_map",
-		"layer3": "tusb:common/clear_dots"
+		"layer2": "tusb:item/common/rgb_color_map",
+		"layer3": "tusb:item/common/clear_dots"
 	},
 	"elements": [
 		{

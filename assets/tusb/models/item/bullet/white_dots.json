@@ -1,8 +1,8 @@
 {
 	"credit": "Made by AnminMakura",
 	"textures": {
-		"layer1": "tusb:common/tintindex_color_map",
-		"particle": "tusb:common/tintindex_color_map"
+		"layer1": "tusb:item/common/tintindex_color_map",
+		"particle": "tusb:item/common/tintindex_color_map"
 	},
 	"elements": [
 		{

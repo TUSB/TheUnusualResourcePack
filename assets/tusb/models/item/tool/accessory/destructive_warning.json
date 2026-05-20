@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "tusb:common/clear_dots",
+        "layer0": "tusb:item/common/clear_dots",
         "layer1": "tusb:item/tool/accessory/warning",
         "layer2": "tusb:item/aura/fire/negative_violet"
     }

@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "tusb:item/mob/wriggling_sand",
 		"layer1": "tusb:item/mob/wriggling_sand",
-		"layer3": "tusb:common/clear_dots",
+		"layer3": "tusb:item/common/clear_dots",
 		"layer4": "tusb:item/mob/monster_eye",
 		"layer5": "block/nether_wart_stage2",
 		"layer6": "block/nether_wart_stage1",

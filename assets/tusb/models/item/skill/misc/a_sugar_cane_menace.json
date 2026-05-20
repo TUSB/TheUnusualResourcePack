@@ -9,6 +9,6 @@
     "textures": {
         "layer0": "minecraft:item/sugar_cane",
         "layer1": "tusb:item/skill/misc/a_sugar_cane_menace",
-        "particle": "minecrft:item/sugar_cane"
+        "particle": "minecraft:item/sugar_cane"
     }
 }

@@ -4,7 +4,8 @@
 	"textures": {
 		"particle": "tusb:item/mob/magic_cannon_salute_donchian",
 		"layer1": "tusb:item/mob/magic_cannon_salute_donchian",
-		"layer2": "block/campfire_fire"
+		"layer2": "block/campfire_fire",
+		"missing": ""
 	},
 	"elements": [
 		{

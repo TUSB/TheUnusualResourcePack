@@ -2,6 +2,6 @@
     "parent": "item/generated",
     "textures": {
         "layer0": "tusb:item/common/clear_dots",
-        "layer1": "item/firework_star_overlay/etc/warning"
+        "layer1": "tusb:item/tool/accessory/warning"
     }
 }

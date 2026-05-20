@@ -4,7 +4,7 @@
 	"textures": {
 		"particle": "tusb:item/mob/demon",
 		"layer1": "tusb:item/mob/demon",
-		"layer2": "item/carrot_on_a_stick/staff_of_fire"
+		"layer2": "tusb:item/weapon/rod/staff_of_fire"
 	},
 	"elements": [
 		{

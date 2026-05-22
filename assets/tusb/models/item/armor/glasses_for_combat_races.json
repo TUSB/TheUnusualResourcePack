@@ -1,7 +1,8 @@
 {
 	"credit": "Made by AnminMakura",
 	"textures": {
-		"1": "tusb:item/armor/glasses_for_combat_races"
+		"1": "tusb:item/armor/glasses_for_combat_races",
+		"particle": "#1"
 	},
 	"elements": [
 		{

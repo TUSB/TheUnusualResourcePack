@@ -1,7 +1,8 @@
 {
 	"credit": "Made by AnminMakura",
 	"textures": {
-		"layer1": "tusb:item/mob/predictor"
+		"layer1": "tusb:item/mob/predictor",
+		"particle": "#layer1"
 	},
 	"elements": [
 		{

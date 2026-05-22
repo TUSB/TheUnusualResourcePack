@@ -2,7 +2,8 @@
 	"credit": "Made by AnminMakura",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "tusb:item/mob/dolphin_fin"
+		"1": "tusb:item/mob/dolphin_fin",
+		"particle": "#1"
 	},
 	"elements": [
 		{

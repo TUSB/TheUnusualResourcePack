@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "tusb:item/mob/zedra_sword"
+		"1": "tusb:item/mob/zedra_sword",
+		"particle": "#1"
 	},
 	"elements": [
 		{

@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "tusb:item/armor/king_crown"
+		"1": "tusb:item/armor/king_crown",
+		"particle": "#1"
 	},
 	"elements": [
 		{

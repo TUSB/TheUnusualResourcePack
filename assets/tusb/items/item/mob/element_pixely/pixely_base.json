@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "tusb:item/mob/element_pixely/pixely_base"
+    }
+}

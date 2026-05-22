@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "tusb:item/weapon/rod/carrot_on_a_stick_color10"
+    }
+}

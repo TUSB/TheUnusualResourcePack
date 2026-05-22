@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "display": {
+        "ground": {
+            "translation": [ 0, -3, 0],
+            "scale": [ 1.2, 1.2, 1.2]
+        }
+    },
+    "textures": {
+        "layer0": "tusb:item/weapon/rod/banana_peel",
+        "particle": "tusb:item/weapon/rod/banana_peel"
+    }
+}

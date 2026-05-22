@@ -1,0 +1,6 @@
+{
+    "parent": "item/fishing_rod",
+    "textures": {
+        "layer0": "tusb:item/fishing_rod/fishing_rod_with_high_quality_bait_cast"
+    }
+}

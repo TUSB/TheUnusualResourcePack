@@ -1,0 +1,6 @@
+{
+    "parent": "tusb:parent/accessories/1_0x",
+    "textures": {
+        "layer0": "tusb:item/enchanted_stone/double_break/crystal"
+    }
+}

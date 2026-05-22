@@ -1,0 +1,6 @@
+{
+    "parent": "tusb:parent/handheld_flipped/3x",
+    "textures": {
+        "layer0": "tusb:item/weapon/sword/blade_of_executioner"
+    }
+}

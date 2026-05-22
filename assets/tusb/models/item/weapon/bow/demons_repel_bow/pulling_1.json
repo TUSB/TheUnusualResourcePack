@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "tusb:item/weapon/bow/demons_repel_bow/pulling_1"
+    }
+}

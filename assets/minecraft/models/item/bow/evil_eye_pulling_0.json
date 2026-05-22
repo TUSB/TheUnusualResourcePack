@@ -1,6 +1,0 @@
-{
-    "parent": "item/bow",
-    "textures": {
-        "layer0": "item/bow/evil_eye_pulling_0"
-    }
-}

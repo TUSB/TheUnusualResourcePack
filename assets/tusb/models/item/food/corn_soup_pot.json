@@ -1,0 +1,6 @@
+{
+    "parent": "tusb:parent/accessories/1_5x",
+    "textures": {
+        "layer0": "tusb:item/food/corn_soup_pot"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "tusb:parent/accessories/1_0x",
+    "textures": {
+        "layer0": "item/potato",
+        "layer1": "tusb:item/aura/light/purification"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "tusb:parent/handheld_rod/2x",
+    "textures": {
+        "layer0": "tusb:item/weapon/rod/lunatic_wand"
+    }
+}

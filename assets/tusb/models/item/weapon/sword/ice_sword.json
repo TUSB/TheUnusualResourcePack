@@ -1,0 +1,6 @@
+{
+    "parent": "tusb:parent/handheld/2x",
+    "textures": {
+        "layer0": "tusb:item/weapon/sword/ice_sword"
+    }
+}

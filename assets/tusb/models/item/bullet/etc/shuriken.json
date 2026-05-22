@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "display": {
+        "ground": {
+            "translation": [ 0, -3, 0],
+            "scale": [ 1.2, 1.2, 1.2]
+        }
+    },
+    "textures": {
+        "layer0": "tusb:item/common/clear_dots",
+        "layer1": "tusb:item/bullet/overlay/etc/shuriken"
+    }
+}

@@ -1,6 +1,0 @@
-{
-    "parent": "parent/handheld/2x",
-    "textures": {
-        "layer0": "item/iron_pickaxe/jewel_mining"
-    }
-}

@@ -1,0 +1,6 @@
+{
+    "parent": "tusb:parent/handheld_rod_flipped/1x",
+    "textures": {
+        "layer0": "tusb:item/skill/rod/white_mage_closure"
+    }
+}

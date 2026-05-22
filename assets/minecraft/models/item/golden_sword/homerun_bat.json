@@ -1,6 +1,0 @@
-{
-    "parent": "parent/handheld_flipped/2x",
-    "textures": {
-        "layer0": "item/golden_sword/homerun_bat"
-    }
-}

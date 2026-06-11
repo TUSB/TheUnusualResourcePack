@@ -1,7 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "tusb:item/common/clear_dots",
-        "layer1": "tusb:item/bullet/overlay/etc/color_egg"
+        "layer0": "tusb:item/bullet/overlay/etc/color_egg"
     }
 }

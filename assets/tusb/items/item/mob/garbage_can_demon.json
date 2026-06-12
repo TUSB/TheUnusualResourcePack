@@ -1,6 +1,13 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "tusb:item/mob/garbage_can_demon"
+        "model": "tusb:item/mob/garbage_can_demon",
+        "tints": [
+            {
+                "type": "minecraft:custom_model_data",
+                "default": [1.0,1.0,1.0],
+                "index": 0
+            }
+        ]
     }
 }

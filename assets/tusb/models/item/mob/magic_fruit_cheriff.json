@@ -96,12 +96,12 @@
 			"to": [16, 32, 8],
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 24, 8]},
 			"faces": {
-				"north": {"uv": [16, 8, 8, 16], "texture": "#layer1", "tintindex": 1},
-				"east": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 1},
-				"south": {"uv": [16, 8, 8, 16], "texture": "#layer1", "tintindex": 1},
-				"west": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 1},
-				"up": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 1},
-				"down": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 1}
+				"north": {"uv": [16, 8, 8, 16], "texture": "#layer1", "tintindex": 0},
+				"east": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 0},
+				"south": {"uv": [16, 8, 8, 16], "texture": "#layer1", "tintindex": 0},
+				"west": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 0},
+				"up": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 0},
+				"down": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 0}
 			}
 		},
 		{
@@ -110,12 +110,12 @@
 			"to": [8, 32, 16],
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 24, 8]},
 			"faces": {
-				"north": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 1},
-				"east": {"uv": [16, 8, 8, 16], "texture": "#layer1", "tintindex": 1},
-				"south": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 1},
-				"west": {"uv": [16, 8, 8, 16], "texture": "#layer1", "tintindex": 1},
-				"up": {"uv": [16, 16, 16, 16], "rotation": 270, "texture": "#layer1", "tintindex": 1},
-				"down": {"uv": [16, 16, 16, 16], "rotation": 90, "texture": "#layer1", "tintindex": 1}
+				"north": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 0},
+				"east": {"uv": [16, 8, 8, 16], "texture": "#layer1", "tintindex": 0},
+				"south": {"uv": [16, 16, 16, 16], "texture": "#layer1", "tintindex": 0},
+				"west": {"uv": [16, 8, 8, 16], "texture": "#layer1", "tintindex": 0},
+				"up": {"uv": [16, 16, 16, 16], "rotation": 270, "texture": "#layer1", "tintindex": 0},
+				"down": {"uv": [16, 16, 16, 16], "rotation": 90, "texture": "#layer1", "tintindex": 0}
 			}
 		}
 	],

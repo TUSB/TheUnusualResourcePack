@@ -1,6 +1,13 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "tusb:item/bullet/common_bomb_2_huge"
+        "model": "tusb:item/bullet/common_bomb_2_huge",
+        "tints": [
+            {
+                "type": "minecraft:custom_model_data",
+                "default": [1.0,1.0,1.0],
+                "index": 0
+            }
+        ]
     }
 }

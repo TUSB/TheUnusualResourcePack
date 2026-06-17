@@ -32,7 +32,6 @@
         }
     },
     "textures": {
-        "layer0": "tusb:item/common/clear_dots",
-        "layer1": "tusb:item/bullet/overlay/etc/throwing_knife"
+        "layer0": "tusb:item/bullet/overlay/etc/throwing_knife"
     }
 }

@@ -1,6 +1,13 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "tusb:item/bullet/etc/color_pearl"
+        "model": "tusb:item/bullet/etc/color_pearl",
+        "tints": [
+            {
+                "type": "minecraft:custom_model_data",
+                "default": [1.0,1.0,1.0],
+                "index": 0
+            }
+        ]
     }
 }

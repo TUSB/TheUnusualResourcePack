@@ -1,6 +1,13 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "tusb:item/mob/thorn_trap_0"
+        "model": "tusb:item/mob/thorn_trap_0",
+        "tints": [
+            {
+                "type": "minecraft:custom_model_data",
+                "default": [1.0,1.0,1.0],
+                "index": 0
+            }
+        ]
     }
 }
